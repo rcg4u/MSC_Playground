@@ -1,0 +1,69 @@
+OpenCap  GIFU(750/450psi) (UnityEngine.Rigidbody)   Default (Instance) (UnityEngine.PhysicMaterial)   Default (Instance) (UnityEngine.PhysicMaterial)   Untagged   False
+CabinCollider  Cabin (UnityEngine.Rigidbody)   Car (Instance) (UnityEngine.PhysicMaterial)   Car (Instance) (UnityEngine.PhysicMaterial)   Untagged   False
+doorl  doorl (UnityEngine.Rigidbody)   Default (Instance) (UnityEngine.PhysicMaterial)   Default (Instance) (UnityEngine.PhysicMaterial)   Untagged   False
+doorr  doorr (UnityEngine.Rigidbody)   Default (Instance) (UnityEngine.PhysicMaterial)   Default (Instance) (UnityEngine.PhysicMaterial)   Untagged   False
+ActivateHose  GIFU(750/450psi) (UnityEngine.Rigidbody)   Default (Instance) (UnityEngine.PhysicMaterial)   Default (Instance) (UnityEngine.PhysicMaterial)   Untagged   True
+Coll  ShitTank (UnityEngine.Rigidbody)   Default (Instance) (UnityEngine.PhysicMaterial)   Default (Instance) (UnityEngine.PhysicMaterial)   Untagged   False
+Coll  ShitTank (UnityEngine.Rigidbody)   Default (Instance) (UnityEngine.PhysicMaterial)   Default (Instance) (UnityEngine.PhysicMaterial)   Untagged   False
+OpenSpill  ShitTank (UnityEngine.Rigidbody)   Default (Instance) (UnityEngine.PhysicMaterial)   Default (Instance) (UnityEngine.PhysicMaterial)   Untagged   True
+Coll  GIFU(750/450psi) (UnityEngine.Rigidbody)   Default (Instance) (UnityEngine.PhysicMaterial)   Default (Instance) (UnityEngine.PhysicMaterial)   Untagged   False
+TireColl  GIFU(750/450psi) (UnityEngine.Rigidbody)   Default (Instance) (UnityEngine.PhysicMaterial)   Default (Instance) (UnityEngine.PhysicMaterial)   Untagged   False
+TireColl  GIFU(750/450psi) (UnityEngine.Rigidbody)   Default (Instance) (UnityEngine.PhysicMaterial)   Default (Instance) (UnityEngine.PhysicMaterial)   Untagged   False
+TireColl  GIFU(750/450psi) (UnityEngine.Rigidbody)   Default (Instance) (UnityEngine.PhysicMaterial)   Default (Instance) (UnityEngine.PhysicMaterial)   Untagged   False
+coll1  GIFU(750/450psi) (UnityEngine.Rigidbody)   Default (Instance) (UnityEngine.PhysicMaterial)   Default (Instance) (UnityEngine.PhysicMaterial)   Untagged   False
+coll2  GIFU(750/450psi) (UnityEngine.Rigidbody)   Default (Instance) (UnityEngine.PhysicMaterial)   Default (Instance) (UnityEngine.PhysicMaterial)   Untagged   False
+coll3  GIFU(750/450psi) (UnityEngine.Rigidbody)   Default (Instance) (UnityEngine.PhysicMaterial)   Default (Instance) (UnityEngine.PhysicMaterial)   Untagged   False
+coll4  GIFU(750/450psi) (UnityEngine.Rigidbody)   Default (Instance) (UnityEngine.PhysicMaterial)   Default (Instance) (UnityEngine.PhysicMaterial)   Untagged   False
+coll5  GIFU(750/450psi) (UnityEngine.Rigidbody)   Default (Instance) (UnityEngine.PhysicMaterial)   Default (Instance) (UnityEngine.PhysicMaterial)   Untagged   False
+coll6  GIFU(750/450psi) (UnityEngine.Rigidbody)   Default (Instance) (UnityEngine.PhysicMaterial)   Default (Instance) (UnityEngine.PhysicMaterial)   Untagged   False
+IntColl  GIFU(750/450psi) (UnityEngine.Rigidbody)   Default (Instance) (UnityEngine.PhysicMaterial)   Default (Instance) (UnityEngine.PhysicMaterial)   Untagged   False
+IntColl  GIFU(750/450psi) (UnityEngine.Rigidbody)   Default (Instance) (UnityEngine.PhysicMaterial)   Default (Instance) (UnityEngine.PhysicMaterial)   Untagged   False
+IntColl  GIFU(750/450psi) (UnityEngine.Rigidbody)   Default (Instance) (UnityEngine.PhysicMaterial)   Default (Instance) (UnityEngine.PhysicMaterial)   Untagged   False
+IntColl  GIFU(750/450psi) (UnityEngine.Rigidbody)   Default (Instance) (UnityEngine.PhysicMaterial)   Default (Instance) (UnityEngine.PhysicMaterial)   Untagged   False
+coll10  GIFU(750/450psi) (UnityEngine.Rigidbody)   Default (Instance) (UnityEngine.PhysicMaterial)   Default (Instance) (UnityEngine.PhysicMaterial)   Untagged   False
+coll11  GIFU(750/450psi) (UnityEngine.Rigidbody)   Default (Instance) (UnityEngine.PhysicMaterial)   Default (Instance) (UnityEngine.PhysicMaterial)   Untagged   False
+coll13  GIFU(750/450psi) (UnityEngine.Rigidbody)   Default (Instance) (UnityEngine.PhysicMaterial)   Default (Instance) (UnityEngine.PhysicMaterial)   Untagged   False
+coll14  GIFU(750/450psi) (UnityEngine.Rigidbody)   Default (Instance) (UnityEngine.PhysicMaterial)   Default (Instance) (UnityEngine.PhysicMaterial)   Untagged   False
+Seats  GIFU(750/450psi) (UnityEngine.Rigidbody)   Default (Instance) (UnityEngine.PhysicMaterial)   Default (Instance) (UnityEngine.PhysicMaterial)   Untagged   False
+Seats  GIFU(750/450psi) (UnityEngine.Rigidbody)   Default (Instance) (UnityEngine.PhysicMaterial)   Default (Instance) (UnityEngine.PhysicMaterial)   Untagged   False
+Seats  GIFU(750/450psi) (UnityEngine.Rigidbody)   Default (Instance) (UnityEngine.PhysicMaterial)   Default (Instance) (UnityEngine.PhysicMaterial)   Untagged   False
+Seats  GIFU(750/450psi) (UnityEngine.Rigidbody)   Default (Instance) (UnityEngine.PhysicMaterial)   Default (Instance) (UnityEngine.PhysicMaterial)   Untagged   False
+Coll  GIFU(750/450psi) (UnityEngine.Rigidbody)   Car (Instance) (UnityEngine.PhysicMaterial)   Car (Instance) (UnityEngine.PhysicMaterial)   Untagged   False
+Bumper  GIFU(750/450psi) (UnityEngine.Rigidbody)   Car (Instance) (UnityEngine.PhysicMaterial)   Car (Instance) (UnityEngine.PhysicMaterial)   Untagged   False
+TireColl  GIFU(750/450psi) (UnityEngine.Rigidbody)   Car (Instance) (UnityEngine.PhysicMaterial)   Car (Instance) (UnityEngine.PhysicMaterial)   Untagged   False
+TireColl  GIFU(750/450psi) (UnityEngine.Rigidbody)   Car (Instance) (UnityEngine.PhysicMaterial)   Car (Instance) (UnityEngine.PhysicMaterial)   Untagged   False
+PlayerColl  GIFU(750/450psi) (UnityEngine.Rigidbody)   Default (Instance) (UnityEngine.PhysicMaterial)   Default (Instance) (UnityEngine.PhysicMaterial)   Untagged   False
+PlayerColl  GIFU(750/450psi) (UnityEngine.Rigidbody)   Default (Instance) (UnityEngine.PhysicMaterial)   Default (Instance) (UnityEngine.PhysicMaterial)   Untagged   False
+PlayerColl  GIFU(750/450psi) (UnityEngine.Rigidbody)   Default (Instance) (UnityEngine.PhysicMaterial)   Default (Instance) (UnityEngine.PhysicMaterial)   Untagged   False
+Windshd  GIFU(750/450psi) (UnityEngine.Rigidbody)   Default (Instance) (UnityEngine.PhysicMaterial)   Default (Instance) (UnityEngine.PhysicMaterial)   Untagged   False
+Windshd  GIFU(750/450psi) (UnityEngine.Rigidbody)   Default (Instance) (UnityEngine.PhysicMaterial)   Default (Instance) (UnityEngine.PhysicMaterial)   Untagged   False
+RearBar  GIFU(750/450psi) (UnityEngine.Rigidbody)   Default (Instance) (UnityEngine.PhysicMaterial)   Default (Instance) (UnityEngine.PhysicMaterial)   Untagged   False
+Starter  GIFU(750/450psi) (UnityEngine.Rigidbody)   Default (Instance) (UnityEngine.PhysicMaterial)   Default (Instance) (UnityEngine.PhysicMaterial)   Untagged   True
+ButtonLights  GIFU(750/450psi) (UnityEngine.Rigidbody)   Default (Instance) (UnityEngine.PhysicMaterial)   Default (Instance) (UnityEngine.PhysicMaterial)   Untagged   True
+ButtonInteriorLight  GIFU(750/450psi) (UnityEngine.Rigidbody)   Default (Instance) (UnityEngine.PhysicMaterial)   Default (Instance) (UnityEngine.PhysicMaterial)   Untagged   True
+ButtonWipers  GIFU(750/450psi) (UnityEngine.Rigidbody)   Default (Instance) (UnityEngine.PhysicMaterial)   Default (Instance) (UnityEngine.PhysicMaterial)   Untagged   True
+Differential lock  GIFU(750/450psi) (UnityEngine.Rigidbody)   Default (Instance) (UnityEngine.PhysicMaterial)   Default (Instance) (UnityEngine.PhysicMaterial)   Untagged   False
+Liftaxle  GIFU(750/450psi) (UnityEngine.Rigidbody)   Default (Instance) (UnityEngine.PhysicMaterial)   Default (Instance) (UnityEngine.PhysicMaterial)   Untagged   False
+Hydraulics  GIFU(750/450psi) (UnityEngine.Rigidbody)   Default (Instance) (UnityEngine.PhysicMaterial)   Default (Instance) (UnityEngine.PhysicMaterial)   Untagged   False
+Parking Brake  GIFU(750/450psi) (UnityEngine.Rigidbody)   Default (Instance) (UnityEngine.PhysicMaterial)   Default (Instance) (UnityEngine.PhysicMaterial)   Untagged   True
+PlayerTrigger  GIFU(750/450psi) (UnityEngine.Rigidbody)   Default (Instance) (UnityEngine.PhysicMaterial)   Default (Instance) (UnityEngine.PhysicMaterial)   Untagged   True
+       PlayerTrigger  UnityEngine.BoxCollider
+       PlayerTrigger  UnityEngine.BoxCollider
+       PlayerTrigger  UnityEngine.BoxCollider
+       PlayerTrigger  UnityEngine.BoxCollider
+       PlayerTrigger  UnityEngine.BoxCollider
+       PlayerTrigger  UnityEngine.BoxCollider
+       PlayerTrigger  UnityEngine.BoxCollider
+       PlayerTrigger  UnityEngine.BoxCollider
+       PlayerTrigger  UnityEngine.BoxCollider
+       PlayerTrigger  UnityEngine.BoxCollider
+       PlayerTrigger  UnityEngine.BoxCollider
+       PlayerTrigger  UnityEngine.BoxCollider
+       PlayerTrigger  UnityEngine.BoxCollider
+DriveTrigger  GIFU(750/450psi) (UnityEngine.Rigidbody)   Default (Instance) (UnityEngine.PhysicMaterial)   Default (Instance) (UnityEngine.PhysicMaterial)   Untagged   True
+Sleep  GIFU(750/450psi) (UnityEngine.Rigidbody)   Default (Instance) (UnityEngine.PhysicMaterial)   Default (Instance) (UnityEngine.PhysicMaterial)   Untagged   True
+StagingWheel  GIFU(750/450psi) (UnityEngine.Rigidbody)   Default (Instance) (UnityEngine.PhysicMaterial)   Default (Instance) (UnityEngine.PhysicMaterial)   StagingWheel   False
+RadioTuner  GIFU(750/450psi) (UnityEngine.Rigidbody)   Default (Instance) (UnityEngine.PhysicMaterial)   Default (Instance) (UnityEngine.PhysicMaterial)   Untagged   True
+RadioVolume  GIFU(750/450psi) (UnityEngine.Rigidbody)   Default (Instance) (UnityEngine.PhysicMaterial)   Default (Instance) (UnityEngine.PhysicMaterial)   Untagged   True
+HookRear  GIFU(750/450psi) (UnityEngine.Rigidbody)   Default (Instance) (UnityEngine.PhysicMaterial)   Default (Instance) (UnityEngine.PhysicMaterial)   Untagged   True
+HookFront  GIFU(750/450psi) (UnityEngine.Rigidbody)   Default (Instance) (UnityEngine.PhysicMaterial)   Default (Instance) (UnityEngine.PhysicMaterial)   Untagged   True
