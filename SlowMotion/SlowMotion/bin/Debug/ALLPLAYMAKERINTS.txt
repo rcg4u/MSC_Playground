@@ -1,0 +1,1505 @@
+beercase4 | beercase4 | Use | DestroyProgress | 0
+beercase4 | beercase4 | Use | DestroyedBottles | 0
+beercase3 | beercase3 | Use | DestroyProgress | 0
+beercase3 | beercase3 | Use | DestroyedBottles | 0
+beercase2 | beercase2 | Use | DestroyProgress | 0
+beercase2 | beercase2 | Use | DestroyedBottles | 0
+beercase1 | beercase1 | Use | DestroyProgress | 0
+beercase1 | beercase1 | Use | DestroyedBottles | 0
+Radio | Folk | LoadSongs | MaxTracks | 100
+Radio | Folk | LoadSongs | Track | 0
+beer case | beer case | Use | DestroyProgress | 0
+beer case | beer case | Use | DestroyedBottles | 0
+Beer | Beer | Use | DestroyProgress | 0
+Beer | Beer | Use | DestroyedBottles | 0
+VodkaShot | VodkaShot | Use | DestroyProgress | 0
+VodkaShot | VodkaShot | Use | DestroyedBottles | 0
+Sausage-Potatoes | Sausage-Potatoes | Use | DestroyProgress | 0
+Sausage-Potatoes | Sausage-Potatoes | Use | DestroyedBottles | 0
+Coffee | Coffee | Use | DestroyProgress | 0
+Coffee | Coffee | Use | DestroyedBottles | 0
+ITEMS | car jack(itemx) | TerrainCheck | Layer | 0
+bucket seat passenger(Clone) | BoltPM | Screw | Index | 0
+bucket seat passenger(Clone) | BoltPM | Screw | Stage | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 0
+racing exhaust(Clone) | BoltPM | Screw | Index | 0
+racing exhaust(Clone) | BoltPM | Screw | Stage | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 4
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 2
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+STORE | Register | Data | ObjectNumberInt | 0
+STORE | Register | Data | QBeer | 0
+STORE | Register | Data | QBrakeFluid | 0
+STORE | Register | Data | QChips | 0
+STORE | Register | Data | QCoolant | 0
+STORE | Register | Data | QExtinguisher | 0
+STORE | Register | Data | QFanbelt | 0
+STORE | Register | Data | QJuice | 0
+STORE | Register | Data | QMacaronBox | 0
+STORE | Register | Data | QMilk | 0
+STORE | Register | Data | QMosquitoSpray | 0
+STORE | Register | Data | QMotorOil | 0
+STORE | Register | Data | QPizza | 0
+STORE | Register | Data | QSausages | 0
+STORE | Register | Data | QSugar | 0
+STORE | Register | Data | QTwoStroke | 0
+STORE | Register | Data | QYeast | 0
+JOBS | PayMoney | Use | RandomCash | 0
+SATSUMA(557kg) | PathSlayer | CreatePath | Index | -1
+SATSUMA(557kg) | BoltPM | Screw | Index | 4
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+Sheets | ButtonPrevious | Button | Index | 0
+STORE | rear spoiler(Clone) | Paint | PaintType | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+TRAFFIC | TakeFine | Use | RandomCash | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 4
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+TRAFFIC | Navigation | Passing | RandomGear | 0
+TRAFFIC | Navigation | Navigation | WaypointEnd | 0
+TRAFFIC | Navigation | Navigation | WaypointStart | 1866
+TRAFFIC | Navigation | Raycast | RaycastRepeat | 1
+SATSUMA(557kg) | HandBrake | Force | HandbrakeBolt | 0
+SATSUMA(557kg) | HandBrake | Get Tightness | HandbrakeBolt | 0
+SATSUMA(557kg) | wheel steel rl(Clone) | Paint | PaintType | 1
+SATSUMA(557kg) | wheel steel rl(Clone) | Removal | TireType | 0
+wheel rally rl(Clone) | BoltPM | Screw | Index | 0
+wheel rally rl(Clone) | BoltPM | Screw | Stage | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+TRAFFIC | Navigation | Raycast | RaycastRepeat | 1
+TRAFFIC | Navigation | Passing | RandomGear | 0
+TRAFFIC | Navigation | Navigation | WaypointEnd | 0
+TRAFFIC | Navigation | Navigation | WaypointStart | 64
+386_GAMES | Hi-Score-easy | Score | score_int | 0
+Sheets | 1 | Button | Quantity | 0
+Sheets | 1 | Button | SlotNumber | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 2
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+STORE | BoltPM | Screw | Index | 0
+STORE | BoltPM | Screw | Stage | 0
+386_GAMES | Pasi01a | Osuma | alkuun_int | 0
+386_GAMES | Pasi01a | Osuma | score_int | 0
+386_GAMES | Pasi01a | Liike | aloitus_int | 0
+386_GAMES | Pasi01a | Liike | random-liike | 0
+386_GAMES | Pasi01a | Liike | score | 0
+Sheets | ButtonOrder | Button | Index | 0
+Sheets | 0 | Button | Quantity | 0
+Sheets | 0 | Button | SlotNumber | 0
+STORE | BoltPM | Screw | Index | 0
+STORE | BoltPM | Screw | Stage | 0
+GUI | Data | Text | TimeInt | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 3
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | Sleep | Activate | SleepTime | 6
+SATSUMA(557kg) | Sleep | Activate | TimeOfDay | 0
+SATSUMA(557kg) | Wipers | Use | Selection | 0
+386_GAMES | Inside | Inside | inside_int | 0
+Sheets | 5 | Button | Quantity | 0
+Sheets | 5 | Button | SlotNumber | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 3
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+386_GAMES | Command | Typer | Lenght | 0
+386_GAMES | Command | Typer | MaxLenght | 32
+SATSUMA(557kg) | BoltPM | Screw | Index | 5
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+STORE | wheel racing fr(Clone) | Paint | PaintType | 0
+STORE | wheel racing fr(Clone) | Removal | TireType | 0
+Sheets | ServiceBrochure | Setup | CurrentPage | 1
+SATSUMA(557kg) | car body(xxxxx) | Paint | PaintType | 1
+STORE | BoltPM | Screw | Index | 0
+STORE | BoltPM | Screw | Stage | 0
+REPAIRSHOP | RimPolish | Work | PaintType | 2
+Systems | Console | Console | Lenght | 0
+Systems | Console | Console | Name | 0
+Systems | Console | Console | ValueInt | 0
+SATSUMA(557kg) | Transmission | Gear Linkage | Gear | 1
+386_GAMES | Line | Fetch | Index | 12
+386_GAMES | Pasi01c | Sounds | random_int | 0
+386_GAMES | Pasi01c | Osuma | alkuun_int | 0
+386_GAMES | Pasi01c | Osuma | score_int | 0
+386_GAMES | Pasi01c | Liike | aloitus_int | 0
+386_GAMES | Pasi01c | Liike | random-liike | 0
+386_GAMES | Pasi01c | Liike | score | 0
+386_GAMES | WildVest-Soundbank | FSM | ääni | 0
+SATSUMA(557kg) | Combustion | Cylinders | Power | 0
+STORE | window grille(Clone) | Paint | PaintType | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 3
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 2
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+HAYOSIKO(1500kg) | lever | Pos | Gear | 1
+TRAFFIC | Navigation | Raycast | RaycastRepeat | 1
+TRAFFIC | Navigation | Passing | RandomGear | 0
+TRAFFIC | Navigation | Navigation | WaypointEnd | 0
+TRAFFIC | Navigation | Navigation | WaypointStart | 1781
+STORE | BoltPM | Screw | Index | 0
+STORE | BoltPM | Screw | Stage | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+Sheets | 1 | Button | Quantity | 0
+Sheets | 1 | Button | SlotNumber | 0
+STORE | BoltPM | Screw | Index | 0
+STORE | BoltPM | Screw | Stage | 0
+STORE | BuyYeast | Buy | NumberOfProducts | 8
+STORE | BuyYeast | Buy | Quantity | 0
+STORE | BuyYeast | Buy | Remove | 0
+CARPARTS | BoltPM | Screw | Index | 0
+CARPARTS | BoltPM | Screw | Stage | 0
+SATSUMA(557kg) | GearboxDamage | Damage | CurrentGear | 0
+SATSUMA(557kg) | GearboxDamage | Damage | DamageType | 0
+SATSUMA(557kg) | GearboxDamage | Grinding | CurrentGear | 0
+SATSUMA(557kg) | GearboxDamage | Grinding | DamageType | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 0
+BOAT | Gear | Use | SelectedGear | 0
+STORE | BoltPM | Screw | Index | 0
+STORE | BoltPM | Screw | Stage | 0
+TRAFFIC | POLICE1 | Shifting | Gear | 2
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+YARD | Sleep | Activate | SleepTime | 6
+YARD | Sleep | Activate | TimeOfDay | 0
+Sheets | 2 | Button | Quantity | 0
+Sheets | 2 | Button | SlotNumber | 0
+STORE | BoltPM | Screw | Index | 0
+STORE | BoltPM | Screw | Stage | 0
+Systems | KnockOut | Activate | SleepTime | 4
+Systems | KnockOut | Activate | TimeOfDay | 0
+SATSUMA(557kg) | spark plug 2(Clone) | Screw | Index | 0
+SATSUMA(557kg) | spark plug 2(Clone) | Screw | Stage | 8
+Sheets | 0 | Button | Quantity | 0
+Sheets | 0 | Button | SlotNumber | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+twin carburators(Clone) | BoltPM | Screw | Index | 0
+twin carburators(Clone) | BoltPM | Screw | Stage | 0
+STORE | BoltPM | Screw | Index | 0
+STORE | BoltPM | Screw | Stage | 0
+YARD | Ring | Ring | RandomTimes | 0
+YARD | Ring | Ring | RingTimes | 0
+CARPARTS | BoltPM | Screw | Index | 0
+CARPARTS | BoltPM | Screw | Stage | 0
+TRAFFIC | Trigger | Use | RandomCash | 0
+Database | WheelSteelRL | Data | TireType | 1
+SATSUMA(557kg) | BoltPM | Screw | Index | 2
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+Systems | PassOut | Activate | SleepTime | 10
+Systems | PassOut | Activate | TimeOfDay | 0
+386_GAMES | Initialize | Type | Lenght | 0
+386_GAMES | Initialize | Type | MaxLenght | 8
+bucket seat driver(Clone) | BoltPM | Screw | Index | 0
+bucket seat driver(Clone) | BoltPM | Screw | Stage | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | Odometer | Data | Kms | 1
+SATSUMA(557kg) | Odometer | Data | OdometerReading | 100010
+386_GAMES | Line | Fetch | Index | 2
+Sheets | 0 | Button | Quantity | 0
+Sheets | 0 | Button | SlotNumber | 0
+TRAFFIC | VICTRO 1 | Shifting | Gear | 1
+TRAFFIC | Navigation | Raycast | RaycastRepeat | 1
+TRAFFIC | Navigation | Passing | RandomGear | 0
+TRAFFIC | Navigation | Navigation | WaypointEnd | 1888
+TRAFFIC | Navigation | Navigation | WaypointStart | 488
+SATSUMA(557kg) | BoltPM | Screw | Index | 3
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 2
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+386_GAMES | Hi-Score-medium | Score | score_int | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+386_GAMES | Pasi01c3 | Sounds | random_int | 0
+386_GAMES | Pasi01c3 | Osuma | alkuun_int | 0
+386_GAMES | Pasi01c3 | Osuma | score_int | 0
+386_GAMES | Pasi01c3 | Liike | aloitus_int | 0
+386_GAMES | Pasi01c3 | Liike | random-liike | 0
+386_GAMES | Pasi01c3 | Liike | score | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+386_GAMES | kansalainen | Toiminta | ajattelu | 0
+386_GAMES | kansalainen | Toiminta | kuuntelu | 0
+COTTAGE | WoodTrigger | Trigger | Woods | 0
+CARPARTS | BoltPM | Screw | Index | 0
+CARPARTS | BoltPM | Screw | Stage | 0
+STORE | BoltPM | Screw | Index | 0
+STORE | BoltPM | Screw | Stage | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+NPC_CARS | Navigation | Raycast | RaycastRepeat | 1
+NPC_CARS | Navigation | Passing | RandomGear | 0
+NPC_CARS | Navigation | Passing | RouteWaypoint | 0
+NPC_CARS | Navigation | Navigation | WaypointEnd | 290
+NPC_CARS | Navigation | Navigation | WaypointStart | 232
+Database | WheelRallyRR | Data | TireType | 3
+386_GAMES | Pasi-Laskurit | Lopparin aktivoija | Osumat | 0
+386_GAMES | Pasi-Laskurit | Osumat | Osumat | 0
+TRAFFIC | TakeFine | Use | RandomCash | 0
+STORE | front spoiler(Clone) | Paint | PaintType | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 2
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+Database | WheelHayosikoRL | Data | TireType | 2
+386_GAMES | JohnKemedyBulletRIGHT | BulletActivator-Right04 | BulletsOnScreen | 0
+386_GAMES | JohnKemedyBulletRIGHT | BulletActivator-Right03 | BulletsOnScreen | 0
+386_GAMES | JohnKemedyBulletRIGHT | BulletActivator-Right02 | BulletsOnScreen | 0
+386_GAMES | JohnKemedyBulletRIGHT | BulletActivator-Right01 | BulletsOnScreen | 0
+386_GAMES | JohnKemedyBulletRIGHT | BulletStats | BulletsOnScreen | 0
+wheel rally rr(Clone) | BoltPM | Screw | Index | 0
+wheel rally rr(Clone) | BoltPM | Screw | Stage | 0
+STORE | BoltPM | Screw | Index | 0
+STORE | BoltPM | Screw | Stage | 0
+386_GAMES | Pää | FSM | Animaatio | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+Database | WheelRallyFL | Data | TireType | 3
+STORE | BoltPM | Screw | Index | 0
+STORE | BoltPM | Screw | Stage | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 6
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+ITEMS | BoltPM | Screw | Index | 0
+ITEMS | BoltPM | Screw | Stage | 0
+CARPARTS | BoltPM | Screw | Index | 0
+CARPARTS | BoltPM | Screw | Stage | 0
+STORE | BoltPM | Screw | Index | 0
+STORE | BoltPM | Screw | Stage | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+wheel rally fr(Clone) | BoltPM | Screw | Index | 0
+wheel rally fr(Clone) | BoltPM | Screw | Stage | 0
+THEATRE | 2 | Rotate | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+TRAFFIC | Navigation | Raycast | RaycastRepeat | 1
+TRAFFIC | Navigation | Passing | RandomGear | 0
+TRAFFIC | Navigation | Navigation | WaypointEnd | 0
+TRAFFIC | Navigation | Navigation | WaypointStart | 422
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 2
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 5
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+386_GAMES | Filosofi-ajattelu | Ajattelu | ajattelu_int | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 3
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+STORE | BuyTwoStroke | Buy | NumberOfProducts | 5
+STORE | BuyTwoStroke | Buy | Quantity | 0
+STORE | BuyTwoStroke | Buy | Remove | 0
+GIFU(750/450psi) | PowerON | ActivateReverse | Gear | 0
+Database | WheelSteelFR | Data | TireType | 1
+STORE | BuyPizza | Buy | NumberOfProducts | 6
+STORE | BuyPizza | Buy | Quantity | 0
+STORE | BuyPizza | Buy | Remove | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 4
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+NPC_CARS | STATUSD | Shifting | Gear | 2
+TRAFFIC | VAN_r | Shifting | Gear | 1
+SATSUMA(557kg) | GearboxGrinding | Grind | CurrentGear | 1
+SATSUMA(557kg) | BoltPM | Screw | Index | 2
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+KEKMET(350-400psi) | knob | Use | Selection | 0
+386_GAMES | Line | Fetch | Index | 1
+STORE | BoltPM | Screw | Index | 0
+STORE | BoltPM | Screw | Stage | 0
+racing exhaust(Clone) | BoltPM | Screw | Index | 0
+racing exhaust(Clone) | BoltPM | Screw | Stage | 0
+STORE | BuyFanbelt | Buy | NumberOfProducts | 1
+STORE | BuyFanbelt | Buy | Remove | 0
+GIFU(750/450psi) | Sleep | Activate | SleepTime | 6
+GIFU(750/450psi) | Sleep | Activate | TimeOfDay | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+386_GAMES | Line | Fetch | Index | 4
+STORE | STORE | OpeningHours | Time | 24
+386_GAMES | Line | Fetch | Index | 13
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+YARD | Switch | Use | Time | 12
+twin carburators(Clone) | BoltPM | Screw | Index | 0
+twin carburators(Clone) | BoltPM | Screw | Stage | 0
+386_GAMES | Filosofi-ymmarrys2 | Ymmarrys2 | ymmarrys_int | 0
+Sheets | 4 | Button | Quantity | 0
+Sheets | 4 | Button | SlotNumber | 0
+386_GAMES | Hand-Finger | LiikeOikealle | eteen | 0
+386_GAMES | Hand-Finger | LiikeOikealle | taakse | 0
+386_GAMES | Hand-Finger | LiikeOikealle | tyonnot | 0
+386_GAMES | Hand-Finger | LiikeOikealle | tyonnot-max | 3
+386_GAMES | Hand-Finger | LiikeOikealle | tyonnot-score | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 2
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+Sheets | ColorIcon | Colors | Selection | 1
+SATSUMA(557kg) | BoltPM | Screw | Index | 4
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+MAP | SoundAmbience | DayNight | Time | 4
+TRAFFIC | BusStopKesseli | Stopping | BusWaypoint | 483
+TRAFFIC | BusStopKesseli | Stopping | StopWaypoint | 637
+STORE | PostOrderBuy | Use | Count | 0
+STORE | PostOrderBuy | Use | ListLenght | 33
+FERNDALE(1630kg) | Lights | Use | Selection | 0
+steel headers(Clone) | BoltPM | Screw | Index | 0
+steel headers(Clone) | BoltPM | Screw | Stage | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 4
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+Spawner | CreateItems | Beer | CurrentID | 4
+Spawner | CreateItems | Beer | ObjectNumberInt | 4
+Spawner | CreateItems | Sausages | CurrentID | 43
+Spawner | CreateItems | Sausages | ObjectNumberInt | 43
+Spawner | CreateItems | MosquitoSpray | CurrentID | 0
+Spawner | CreateItems | MosquitoSpray | ObjectNumberInt | 0
+Spawner | CreateItems | Milk | CurrentID | 0
+Spawner | CreateItems | Milk | ObjectNumberInt | 0
+Spawner | CreateItems | Sugar | CurrentID | 45
+Spawner | CreateItems | Sugar | ObjectNumberInt | 45
+Spawner | CreateItems | Yeast | CurrentID | 16
+Spawner | CreateItems | Yeast | ObjectNumberInt | 16
+Spawner | CreateItems | Juice | CurrentID | 42
+Spawner | CreateItems | Juice | ObjectNumberInt | 42
+Spawner | CreateItems | Chips | CurrentID | 0
+Spawner | CreateItems | Chips | ObjectNumberInt | 0
+Spawner | CreateItems | Pizza | CurrentID | 30
+Spawner | CreateItems | Pizza | ObjectNumberInt | 30
+Spawner | CreateItems | MacaronBox | CurrentID | 32
+Spawner | CreateItems | MacaronBox | ObjectNumberInt | 32
+Spawner | CreateItems | MotorOil | CurrentID | 2
+Spawner | CreateItems | MotorOil | ObjectNumberInt | 2
+Spawner | CreateItems | BrakeFluid | CurrentID | 5
+Spawner | CreateItems | BrakeFluid | ObjectNumberInt | 5
+Spawner | CreateItems | Coolant | CurrentID | 2
+Spawner | CreateItems | Coolant | ObjectNumberInt | 2
+Spawner | CreateItems | TwoStroke | CurrentID | 2
+Spawner | CreateItems | TwoStroke | ObjectNumberInt | 2
+Spawner | CreateItems | FireExtinguisher | CurrentID | 0
+Spawner | CreateItems | FireExtinguisher | ObjectNumberInt | 0
+Database | WheelSpokeFL | Data | TireType | 2
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+TRAFFIC | POLSA 1 | Shifting | Gear | 1
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+twin carburators(Clone) | BoltPM | Screw | Index | 0
+twin carburators(Clone) | BoltPM | Screw | Stage | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 7
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+STORE | wheel racing fl(Clone) | Paint | PaintType | 0
+STORE | wheel racing fl(Clone) | Removal | TireType | 0
+Systems | Slider | Slider | Int | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 0
+Sheets | Magazine | Setup | CurrentPage | 1
+Sheets | Magazine | Setup | List | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+TRAFFIC | Navigation | Raycast | RaycastRepeat | 1
+TRAFFIC | Navigation | Passing | RandomGear | 0
+TRAFFIC | Navigation | Navigation | WaypointEnd | 1888
+TRAFFIC | Navigation | Navigation | WaypointStart | 1795
+386_GAMES | Mekaanikka | FSM | Animaatio | 0
+386_GAMES | Mekaanikka | FSM | Level | 0
+386_GAMES | Mekaanikka | FSM | Äänet | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 0
+JOBS | PayMoney | Use | RandomCash | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 2
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 2
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+TRAFFIC | TakeFine | Use | RandomCash | 0
+386_GAMES | Pasi01c2 | Sounds | random_int | 0
+386_GAMES | Pasi01c2 | Osuma | alkuun_int | 0
+386_GAMES | Pasi01c2 | Osuma | score_int | 0
+386_GAMES | Pasi01c2 | Liike | aloitus_int | 0
+386_GAMES | Pasi01c2 | Liike | random-liike | 0
+386_GAMES | Pasi01c2 | Liike | score | 0
+SATSUMA(557kg) | handbrake lever | Brake | Bolt | 0
+STORE | Start | Use | Roll | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+386_GAMES | Kaljalaskuri | FSM | Kaljamittari | 6
+SATSUMA(557kg) | fender right(Clone) | Paint | PaintType | 1
+SATSUMA(557kg) | BoltPM | Screw | Index | 3
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+CARPARTS | BoltPM | Screw | Index | 0
+CARPARTS | BoltPM | Screw | Stage | 0
+REPAIRSHOP | BoozeJob | Job | Number | 0
+REPAIRSHOP | BoozeJob | Job | Time | 12
+REPAIRSHOP | BoozeJob | Create | CurrentID | 0
+REPAIRSHOP | BoozeJob | Create | ObjectNumberInt | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 2
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+STORE | BoltPM | Screw | Index | 0
+STORE | BoltPM | Screw | Stage | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 6
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+racing muffler(Clone) | BoltPM | Screw | Index | 0
+racing muffler(Clone) | BoltPM | Screw | Stage | 0
+386_GAMES | Line | Fetch | Index | 3
+STORE | BoltPM | Screw | Index | 0
+STORE | BoltPM | Screw | Stage | 0
+STORE | fender flare spoiler(Clone) | Paint | PaintType | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 0
+THEATRE | 1 | Rotate | Index | 1
+wheel rally fl(Clone) | BoltPM | Screw | Index | 0
+wheel rally fl(Clone) | BoltPM | Screw | Stage | 0
+STORE | Pin | Screw | Index | 0
+STORE | Pin | Screw | Stage | 0
+RALLY | PayMoney | Use | RandomCash | 0
+Sheets | 3 | Button | Quantity | 0
+Sheets | 3 | Button | SlotNumber | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 3
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+TRAFFIC | Trigger | Use | RandomCash | 0
+STORE | wheel spoke fr(Clone) | Paint | PaintType | 0
+STORE | wheel spoke fr(Clone) | Removal | TireType | 0
+TRAFFIC | Navigation | Raycast | RaycastRepeat | 1
+TRAFFIC | Navigation | Passing | RandomGear | 0
+TRAFFIC | Navigation | Navigation | WaypointEnd | 0
+TRAFFIC | Navigation | Navigation | WaypointStart | 1325
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+TRAFFIC | TakeFine | Use | RandomCash | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 2
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+386_GAMES | Line | Fetch | Index | 9
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+TRAFFIC | Navigation | Raycast | RaycastRepeat | 1
+TRAFFIC | Navigation | Passing | RandomGear | 0
+TRAFFIC | Navigation | Navigation | WaypointEnd | 0
+TRAFFIC | Navigation | Navigation | WaypointStart | 416
+TRAFFIC | VICTRO 4 | Shifting | Gear | 1
+Database | WheelSpokeFR | Data | TireType | 2
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 0
+Sheets | Timer | Delivery | Count | 0
+Systems | Button | Button | Factor | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+TRAIN | WhistleTrigger | Raycast | RaycastRepeat | 1
+Sheets | TicketData | Data | TimeInt | 0
+Database | WheelHayosikoFR | Data | TireType | 2
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+TRAFFIC | TakeFine | Use | RandomCash | 0
+GIFU(750/450psi) | ButtonWipers | Use | Selection | 0
+PERAJARVI | Graveyard | Data | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+386_GAMES | Score | Score | score_int | 0
+STORE | BoltPM | Screw | Index | 0
+STORE | BoltPM | Screw | Stage | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+RALLY | Results | Data | DriverId | 0
+RALLY | Results | Data | Index | 0
+RALLY | Results | Data | IndexEnd | 1
+RALLY | Results | Data | IndexStart | 0
+wheel rally rr(Clone) | BoltPM | Screw | Index | 0
+wheel rally rr(Clone) | BoltPM | Screw | Stage | 0
+GIFU(750/450psi) | GIFU(750/450psi) | GearIndicator | Gear | 0
+bucket seat driver(Clone) | BoltPM | Screw | Index | 0
+bucket seat driver(Clone) | BoltPM | Screw | Stage | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+bucket seat passenger(Clone) | BoltPM | Screw | Index | 0
+bucket seat passenger(Clone) | BoltPM | Screw | Stage | 0
+Sheets | RallyResults | Setup | List | 0
+386_GAMES | Asiakkaat | FSM | Pisteet | 0
+386_GAMES | Asiakkaat | FSM | Väärät | 0
+386_GAMES | Line | Fetch | Index | 11
+SATSUMA(557kg) | BoltPM | Screw | Index | 9
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+Sheets | 9 | Button | Quantity | 0
+Sheets | 9 | Button | SlotNumber | 0
+steel headers(Clone) | BoltPM | Screw | Index | 0
+steel headers(Clone) | BoltPM | Screw | Stage | 0
+steel headers(Clone) | BoltPM | Screw | Index | 0
+steel headers(Clone) | BoltPM | Screw | Stage | 0
+TRAFFIC | POLICE2 | Shifting | Gear | 2
+Sheets | 2 | Button | Quantity | 0
+Sheets | 2 | Button | SlotNumber | 0
+Sheets | 3 | Button | Quantity | 0
+Sheets | 3 | Button | SlotNumber | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 4
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+386_GAMES | RayCarles-FSM | Pelimekaniikka | Latest | 0
+386_GAMES | RayCarles-FSM | Pelimekaniikka | Random | 0
+386_GAMES | RayCarles-FSM | Pelimekaniikka | hiscore_easy | 0
+386_GAMES | RayCarles-FSM | Pelimekaniikka | hiscore_hard | 0
+386_GAMES | RayCarles-FSM | Pelimekaniikka | hiscore_impossible | 0
+386_GAMES | RayCarles-FSM | Pelimekaniikka | hiscore_medium | 0
+386_GAMES | RayCarles-FSM | Pelimekaniikka | score_int | 0
+RALLY | PayMoney | Use | RandomCash | 0
+SATSUMA(557kg) | Redlining | RedLining | HowManyPistons | 0
+STORE | BoltPM | Screw | Index | 0
+STORE | BoltPM | Screw | Stage | 0
+Sheets | 7 | Button | Quantity | 0
+Sheets | 7 | Button | SlotNumber | 0
+SATSUMA(557kg) | wheel steel fl(Clone) | Paint | PaintType | 1
+SATSUMA(557kg) | wheel steel fl(Clone) | Removal | TireType | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 4
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 3
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+STORE | wheel spoke fl(Clone) | Paint | PaintType | 0
+STORE | wheel spoke fl(Clone) | Removal | TireType | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+FERNDALE(1630kg) | Wipers | Use | Selection | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+386_GAMES | Sormileikki-gameover | GameOver | push | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 4
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+TRAFFIC | Navigation | Raycast | RaycastRepeat | 2
+TRAFFIC | Navigation | Passing | RandomGear | 0
+TRAFFIC | Navigation | Navigation | WaypointEnd | 3718
+TRAFFIC | Navigation | Navigation | WaypointStart | 14
+SATSUMA(557kg) | oil filter(Clone) | Screw | Index | 0
+SATSUMA(557kg) | oil filter(Clone) | Screw | Stage | 8
+STORE | BoltPM | Screw | Index | 0
+STORE | BoltPM | Screw | Stage | 0
+SATSUMA(557kg) | PowerON | ActivateReverse | Gear | 0
+386_GAMES | Line | Fetch | Index | 8
+COTTAGE | FireTrigger | Use | Woods | 0
+PLAYER | TimeStamp | TimeStamp | TimeInt | 18
+Sheets | ButtonPrevious | Button | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 2
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 6
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+wheel rally rl(Clone) | BoltPM | Screw | Index | 0
+wheel rally rl(Clone) | BoltPM | Screw | Stage | 0
+386_GAMES | CHAT | Load | Lenght | 0
+386_GAMES | CHAT | Load | MaxLenght | 32
+386_GAMES | CHAT | Type | Lenght | 0
+386_GAMES | CHAT | Type | MaxLenght | 64
+Sheets | 1 | Button | Quantity | 0
+Sheets | 1 | Button | SlotNumber | 0
+STORE | BuyMotorOil | Buy | NumberOfProducts | 5
+STORE | BuyMotorOil | Buy | Quantity | 0
+STORE | BuyMotorOil | Buy | Remove | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 3
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+386_GAMES | PASI-Panssari-Sisu | Sounds | PASI-energia | 0
+386_GAMES | PASI-Panssari-Sisu | Sounds | random_int | 0
+386_GAMES | PASI-Panssari-Sisu | Osuma | PASI-energia | 10
+386_GAMES | PASI-Panssari-Sisu | Osuma | alkuun_int | 0
+386_GAMES | PASI-Panssari-Sisu | Osuma | score_int | 0
+386_GAMES | PASI-Panssari-Sisu | Liike | PASI-energia | 0
+STORE | BoltPM | Screw | Index | 0
+STORE | BoltPM | Screw | Stage | 0
+STORE | wheel spoke rr(Clone) | Paint | PaintType | 0
+STORE | wheel spoke rr(Clone) | Removal | TireType | 0
+wheel rally rr(Clone) | wheel rally rr(Clone) | Paint | PaintType | 0
+wheel rally rr(Clone) | wheel rally rr(Clone) | Removal | TireType | 0
+STORE | BoltPM | Screw | Index | 0
+STORE | BoltPM | Screw | Stage | 0
+SATSUMA(557kg) | wheelFR | Data | TireType | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+wheel rally fl(Clone) | BoltPM | Screw | Index | 0
+wheel rally fl(Clone) | BoltPM | Screw | Stage | 0
+JOBS | PayMoney | Use | RandomCash | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 2
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+Sheets | 1 | Button | Quantity | 0
+Sheets | 1 | Button | SlotNumber | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 3
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 3
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+wheel rally fr(Clone) | BoltPM | Screw | Index | 0
+wheel rally fr(Clone) | BoltPM | Screw | Stage | 0
+STORE | BoltPM | Screw | Index | 0
+STORE | BoltPM | Screw | Stage | 0
+wheel rally fl(Clone) | BoltPM | Screw | Index | 0
+wheel rally fl(Clone) | BoltPM | Screw | Stage | 0
+NPC_CARS | NPC_CARS | Bus Setup | Time | 24
+386_GAMES | Pasi01b | Osuma | alkuun_int | 0
+386_GAMES | Pasi01b | Osuma | score_int | 0
+386_GAMES | Pasi01b | Liike | aloitus_int | 0
+386_GAMES | Pasi01b | Liike | random-liike | 0
+386_GAMES | Pasi01b | Liike | score | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 3
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+STORE | Start | Use | Roll | 0
+STORE | BoltPM | Screw | Index | 0
+STORE | BoltPM | Screw | Stage | 0
+Database | WheelRacingFL | Data | TireType | 4
+STORE | OrderTrigger | Open | Count | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+386_GAMES | PasejaVoitettu | PasejaVoitettu | voitettu_int | 0
+STORE | BuyMilk | Buy | NumberOfProducts | 8
+STORE | BuyMilk | Buy | Quantity | 0
+STORE | BuyMilk | Buy | Remove | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+Sheets | 10 | Button | Quantity | 0
+Sheets | 10 | Button | SlotNumber | 0
+wheel rally rr(Clone) | BoltPM | Screw | Index | 0
+wheel rally rr(Clone) | BoltPM | Screw | Stage | 0
+Database | WheelSpokeRL | Data | TireType | 2
+STORE | BoltPM | Screw | Index | 0
+STORE | BoltPM | Screw | Stage | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 2
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+Sheets | 5 | Button | Quantity | 0
+Sheets | 5 | Button | SlotNumber | 0
+STORE | BoltPM | Screw | Index | 0
+STORE | BoltPM | Screw | Stage | 0
+Sheets | 4 | Button | Quantity | 0
+Sheets | 4 | Button | SlotNumber | 0
+TRAFFIC | Navigation | Raycast | RaycastRepeat | 1
+TRAFFIC | Navigation | Passing | RandomGear | 0
+TRAFFIC | Navigation | Navigation | WaypointEnd | 0
+TRAFFIC | Navigation | Navigation | WaypointStart | 1822
+SATSUMA(557kg) | BoltPM | Screw | Index | 2
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 6
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+RALLY | FleetariRally | Work | Random | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 6
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+Sheets | 0 | Button | Quantity | 0
+Sheets | 0 | Button | SlotNumber | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | Lights | Use | Selection | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 2
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+STORE | BuyBrakeFluid | Buy | NumberOfProducts | 5
+STORE | BuyBrakeFluid | Buy | Quantity | 0
+STORE | BuyBrakeFluid | Buy | Remove | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 2
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+STORE | BoltPM | Screw | Index | 0
+STORE | BoltPM | Screw | Stage | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 2
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | roll cage(xxxxx) | Paint | PaintType | 0
+Sheets | 0 | Button | Quantity | 0
+Sheets | 0 | Button | SlotNumber | 0
+Database | TireStatus | WheelRR | TireType | 0
+Database | TireStatus | WheelRL | TireType | 0
+Database | TireStatus | WheelFR | TireType | 0
+Database | TireStatus | WheelFL | TireType | 0
+CARPARTS | BoltPM | Screw | Index | 0
+CARPARTS | BoltPM | Screw | Stage | 0
+Sheets | 3 | Button | Quantity | 0
+Sheets | 3 | Button | SlotNumber | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 3
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+STORE | BuySugar | Buy | NumberOfProducts | 9
+STORE | BuySugar | Buy | Quantity | 0
+STORE | BuySugar | Buy | Remove | 0
+386_GAMES | Filosofi-kuuntelu | Kuuntelu | kuuntelu_int | 0
+wheel rally fl(Clone) | wheel rally fl(Clone) | Paint | PaintType | 0
+wheel rally fl(Clone) | wheel rally fl(Clone) | Removal | TireType | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 2
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+386_GAMES | Pasi02b | Osuma | alkuun_int | 0
+386_GAMES | Pasi02b | Osuma | score_int | 0
+386_GAMES | Pasi02b | Liike | aloitus_int | 0
+386_GAMES | Pasi02b | Liike | random-liike | 0
+386_GAMES | Pasi02b | Liike | score | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+STORE | wheel hayosiko rl(Clone) | Paint | PaintType | 0
+STORE | wheel hayosiko rl(Clone) | Removal | TireType | 0
+HAYOSIKO(1500kg) | HAYOSIKO(1500kg) | GearIndicator | Gear | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 8
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+FERNDALE(1630kg) | Automatic | 3 speed | Gear | 2
+STORE | BoltPM | Screw | Index | 0
+STORE | BoltPM | Screw | Stage | 0
+wheel rally fr(Clone) | BoltPM | Screw | Index | 0
+wheel rally fr(Clone) | BoltPM | Screw | Stage | 0
+ITEMS | Logic | Logic | Fishes | 76
+ITEMS | Logic | Logic | Index | 75
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 2
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+wheel rally rl(Clone) | BoltPM | Screw | Index | 0
+wheel rally rl(Clone) | BoltPM | Screw | Stage | 0
+Systems | ImportCarTexture | Get | PaintType | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+386_GAMES | Line | Fetch | Index | 5
+386_GAMES | Line | Fetch | Index | 6
+STORE | BuyFireExtinguisher | Buy | NumberOfProducts | 3
+STORE | BuyFireExtinguisher | Buy | Quantity | 0
+STORE | BuyFireExtinguisher | Buy | Remove | 0
+386_GAMES | Line | Fetch | Index | 10
+386_GAMES | Line | Fetch | Index | 14
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+386_GAMES | Laskuri-push | Tyonnot | push_int | 0
+STORE | BoltPM | Screw | Index | 0
+STORE | BoltPM | Screw | Stage | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 5
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+STORE | BoltPM | Screw | Index | 0
+STORE | BoltPM | Screw | Stage | 0
+TRAFFIC | TakeFine | Use | RandomCash | 0
+TRAFFIC | Navigation | Raycast | RaycastRepeat | 1
+TRAFFIC | Navigation | Passing | RandomGear | 0
+TRAFFIC | Navigation | Navigation | WaypointEnd | 1888
+TRAFFIC | Navigation | Navigation | WaypointStart | 79
+JONNEZ ES(Clone) | Lights | Use | Selection | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 4
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+wheel rally rr(Clone) | BoltPM | Screw | Index | 0
+wheel rally rr(Clone) | BoltPM | Screw | Stage | 0
+TRAFFIC | POLICE1 | Shifting | Gear | 2
+Sheets | 4 | Button | Quantity | 0
+Sheets | 4 | Button | SlotNumber | 0
+wheel rally rl(Clone) | wheel rally rl(Clone) | Paint | PaintType | 0
+wheel rally rl(Clone) | wheel rally rl(Clone) | Removal | TireType | 0
+TRAFFIC | TakeFine | Use | RandomCash | 0
+JOBS | PayMoney | Use | RandomCash | 0
+wheel rally fr(Clone) | wheel rally fr(Clone) | Paint | PaintType | 0
+wheel rally fr(Clone) | wheel rally fr(Clone) | Removal | TireType | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+STORE | BoltPM | Screw | Index | 0
+STORE | BoltPM | Screw | Stage | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 2
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 4
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 3
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+STORE | BuyChips | Buy | NumberOfProducts | 8
+STORE | BuyChips | Buy | Quantity | 0
+STORE | BuyChips | Buy | Remove | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 3
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 3
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+STORE | BoltPM | Screw | Index | 0
+STORE | BoltPM | Screw | Stage | 0
+RADIO | Paikallisradio | Play | Time | 24
+386_GAMES | Laskuri | Laskuri | laskuri_int | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+STORE | BoltPM | Screw | Index | 0
+STORE | BoltPM | Screw | Stage | 0
+386_GAMES | Level | FSM | Lvl | 1
+386_GAMES | Pasi01a3 | Osuma | alkuun_int | 0
+386_GAMES | Pasi01a3 | Osuma | score_int | 0
+386_GAMES | Pasi01a3 | Liike | aloitus_int | 0
+386_GAMES | Pasi01a3 | Liike | random-liike | 0
+386_GAMES | Pasi01a3 | Liike | score | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 2
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 2
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 2
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+KEKMET(350-400psi) | KEKMET(350-400psi) | GearIndicator | Gear | 0
+EasterEggs | EasterEggs | Clock | Time | 12
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+ITEMS | beer case(itemx) | Use | DestroyProgress | 0
+ITEMS | beer case(itemx) | Use | DestroyedBottles | 0
+Systems | Options | Controls | FFBClamp | 20
+Systems | Options | Controls | FFBFactor | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 3
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 6
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+Database | WheelRacingRL | Data | TireType | 4
+Database | WheelSteelFL | Data | TireType | 1
+TRAFFIC | BusStopLoppe | Stopping | BusWaypoint | 483
+TRAFFIC | BusStopLoppe | Stopping | StopWaypoint | 473
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+wheel rally fl(Clone) | BoltPM | Screw | Index | 0
+wheel rally fl(Clone) | BoltPM | Screw | Stage | 0
+STORE | BuyMacaronBox | Buy | NumberOfProducts | 8
+STORE | BuyMacaronBox | Buy | Quantity | 0
+STORE | BuyMacaronBox | Buy | Remove | 0
+386_GAMES | Kala | FSM | Kaljat | 0
+386_GAMES | Kala | FSM | Rahat | 0
+386_GAMES | Kala | FSM | kala-arvonta | 0
+Sheets | 3 | Button | Quantity | 0
+Sheets | 3 | Button | SlotNumber | 0
+SATSUMA(557kg) | bootlid(Clone) | Paint | PaintType | 1
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+386_GAMES | Pasi02a2 | Osuma | alkuun_int | 0
+386_GAMES | Pasi02a2 | Osuma | score_int | 0
+386_GAMES | Pasi02a2 | Liike | aloitus_int | 0
+386_GAMES | Pasi02a2 | Liike | random-liike | 0
+386_GAMES | Pasi02a2 | Liike | score | 0
+Sheets | 2 | Button | Quantity | 0
+Sheets | 2 | Button | SlotNumber | 0
+COTTAGE | Sleep | Activate | SleepTime | 6
+COTTAGE | Sleep | Activate | TimeOfDay | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 6
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+TRAFFIC | TRUCK 1 | Shifting | Gear | 1
+SATSUMA(557kg) | BoltPM | Screw | Index | 2
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+PLAYER | Pick | PickUp | Lenght | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+DrunkLifter | DrunkLifter | Logic | DrunkStage | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+JOBS | PayMoney | Use | RandomCash | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 4
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+386_GAMES | Score-Final | Final Score | final_score_int | 0
+TRAFFIC | FITTAN | Shifting | Gear | 3
+386_GAMES | Pisteet | FSM | Pistelaskuri | 0
+JOBS | PayMoney | Use | RandomCash | 0
+Sheets | DragTimeSheet | Setup | List | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 3
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+Sheets | ButtonNext | Button | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 3
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+STORE | BoltPM | Screw | Index | 0
+STORE | BoltPM | Screw | Stage | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 2
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+386_GAMES | Leaderboard | Data | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 0
+wheel rally fr(Clone) | BoltPM | Screw | Index | 0
+wheel rally fr(Clone) | BoltPM | Screw | Stage | 0
+TRAFFIC | TakeFine | Use | RandomCash | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+STORE | BoltPM | Screw | Index | 0
+STORE | BoltPM | Screw | Stage | 0
+Sheets | RallyLeaderboard | Setup | List | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+TRAFFIC | VICTRO 3_r | Shifting | Gear | 1
+bucket seat driver(Clone) | BoltPM | Screw | Index | 0
+bucket seat driver(Clone) | BoltPM | Screw | Stage | 0
+bucket seat passenger(Clone) | BoltPM | Screw | Index | 0
+bucket seat passenger(Clone) | BoltPM | Screw | Stage | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 0
+bucket seat driver(Clone) | BoltPM | Screw | Index | 0
+bucket seat driver(Clone) | BoltPM | Screw | Stage | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+STORE | BoltPM | Screw | Index | 0
+STORE | BoltPM | Screw | Stage | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | door left(Clone) | Paint | PaintType | 1
+SATSUMA(557kg) | BoltPM | Screw | Index | 4
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+REPAIRSHOP | Fleetari | Work | Random | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 3
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+TRAFFIC | Trigger | Use | RandomCash | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 0
+SATSUMA(557kg) | Lever | Movemement | Gear | 1
+SATSUMA(557kg) | BoltPM | Screw | Index | 3
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+STORE | Pin | Screw | Index | 0
+STORE | Pin | Screw | Stage | 0
+TRAFFIC | TakeFine | Use | RandomCash | 0
+Sheets | 6 | Button | Quantity | 0
+Sheets | 6 | Button | SlotNumber | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 2
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+JAIL | Sleep | Activate | SleepTime | 6
+JAIL | Sleep | Activate | TimeOfDay | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 3
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+386_GAMES | JohnKemedyCar | Ohjaus | KaksiPainallusta | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+386_GAMES | PasitOhi | Pasit Ohi | Inside | 0
+STORE | BoltPM | Screw | Index | 0
+STORE | BoltPM | Screw | Stage | 0
+Sheets | 1 | Button | Quantity | 0
+Sheets | 1 | Button | SlotNumber | 0
+STORE | BoltPM | Screw | Index | 0
+STORE | BoltPM | Screw | Stage | 0
+STORE | BoltPM | Screw | Index | 0
+STORE | BoltPM | Screw | Stage | 0
+STORE | wheel hayosiko rr(Clone) | Paint | PaintType | 0
+STORE | wheel hayosiko rr(Clone) | Removal | TireType | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+TRAFFIC | Navigation | Raycast | RaycastRepeat | 1
+TRAFFIC | Navigation | Passing | RandomGear | 0
+TRAFFIC | Navigation | Navigation | WaypointEnd | 0
+TRAFFIC | Navigation | Navigation | WaypointStart | 1286
+STORE | BoltPM | Screw | Index | 0
+STORE | BoltPM | Screw | Stage | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+YARD | TakeFine | Use | RandomCash | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+Database | WheelHayosikoRR | Data | TireType | 2
+SATSUMA(557kg) | BoltPM | Screw | Index | 8
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+RALLY | RALLY | Reset | Time | 24
+Database | WheelSteelRR | Data | TireType | 1
+REPAIRSHOP | Order | Data | _DeliveryDate | 0
+Database | WheelRallyFR | Data | TireType | 3
+STORE | wheel hayosiko fr(Clone) | Paint | PaintType | 0
+STORE | wheel hayosiko fr(Clone) | Removal | TireType | 0
+MAP | SUN | Color | AmbienceTime | 4
+MAP | SUN | Color | Time | 24
+Spawner | CreateTrophies | Gold | CurrentID | 0
+Spawner | CreateTrophies | Gold | ObjectNumberInt | 0
+Spawner | CreateTrophies | Bronze | CurrentID | 0
+Spawner | CreateTrophies | Bronze | ObjectNumberInt | 0
+Spawner | CreateTrophies | Silver | CurrentID | 0
+Spawner | CreateTrophies | Silver | ObjectNumberInt | 0
+Sheets | ButtonNext | Button | Index | 0
+PLAYER | FPSCamera | PlayerFunctions | RandomInt | 0
+GIFU(750/450psi) | ButtonLights | Use | Selection | 2
+PLAYER | SprayCan | Paint | CurrentPaint | 0
+PLAYER | SprayCan | Paint | Lenght | 0
+PLAYER | SprayCan | Paint | PaintType | 0
+SATSUMA(557kg) | Clutch | Wear | Gear | 0
+SATSUMA(557kg) | Clutch | TestClutch | Gear | 0
+SATSUMA(557kg) | Clutch | GetAxis | Gear | 0
+386_GAMES | Voittoruutu | Voitto | inside | 0
+RALLY | booze(Clone) | Use | DestroyProgress | 0
+RALLY | booze(Clone) | Use | DestroyedBottles | 0
+STORE | BoltPM | Screw | Index | 0
+STORE | BoltPM | Screw | Stage | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 3
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 3
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+STORE | Speak | Speak | Time | 0
+386_GAMES | Pasi01b3 | Osuma | alkuun_int | 0
+386_GAMES | Pasi01b3 | Osuma | score_int | 0
+386_GAMES | Pasi01b3 | Liike | aloitus_int | 0
+386_GAMES | Pasi01b3 | Liike | random-liike | 0
+386_GAMES | Pasi01b3 | Liike | score | 0
+STORE | BoltPM | Screw | Index | 0
+STORE | BoltPM | Screw | Stage | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 4
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+THEATRE | DirectionPlay | Play | Int | 0
+TRAFFIC | TakeFine | Use | RandomCash | 0
+386_GAMES | Rahat | FSM | markka | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 2
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+JOBS | booze(Clone) | Use | DestroyProgress | 0
+JOBS | booze(Clone) | Use | DestroyedBottles | 0
+SATSUMA(557kg) | wheel steel fr(Clone) | Paint | PaintType | 1
+SATSUMA(557kg) | wheel steel fr(Clone) | Removal | TireType | 0
+wheel rally rl(Clone) | BoltPM | Screw | Index | 0
+wheel rally rl(Clone) | BoltPM | Screw | Stage | 0
+STORE | fender flare rl(Clone) | Paint | PaintType | 0
+TRAFFIC | Trigger | Use | RandomCash | 0
+TRAFFIC | TakeFine | Use | RandomCash | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 3
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+FERNDALE(1630kg) | FERNDALE(1630kg) | GearIndicator | Gear | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+STORE | BoltPM | Screw | Index | 0
+STORE | BoltPM | Screw | Stage | 0
+rear spoiler2(Clone) | rear spoiler2(Clone) | Paint | PaintType | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+TRAFFIC | POLICE1 | Shifting | Gear | 2
+SATSUMA(557kg) | BoltPM | Screw | Index | 3
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 0
+STORE | fender flare fr(Clone) | Paint | PaintType | 0
+HAYOSIKO(1500kg) | PowerON | ActivateReverse | Gear | 0
+THEATRE | 0 | Rotate | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Index | 5
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 2
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+TRAFFIC | VICTRO 2_r | Shifting | Gear | 1
+SATSUMA(557kg) | BoltPM | Screw | Index | 2
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+JONNEZ ES(Clone) | JONNEZ ES(Clone) | GearIndicator | Gear | 0
+JONNEZ ES(Clone) | JONNEZ ES(Clone) | Brake | Gear | 1
+SATSUMA(557kg) | hood(Clone) | Paint | PaintType | 1
+SATSUMA(557kg) | spark plug 1(Clone) | Screw | Index | 0
+SATSUMA(557kg) | spark plug 1(Clone) | Screw | Stage | 8
+TRAFFIC | Trigger | Use | RandomCash | 0
+TRAFFIC | Trigger | Use | RandomCash | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 0
+JONNEZ ES(Clone) | Reverse | Reverse | Gear | 1
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+KEKMET(350-400psi) | RADIO_speaker | Channel2 | Time | 12
+SATSUMA(557kg) | BoltPM | Screw | Index | 7
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 5
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 3
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | Fixes | Brake | Gear | 1
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | SATSUMA(557kg) | GearIndicator | Gear | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+Sheets | 2 | Button | Quantity | 0
+Sheets | 2 | Button | SlotNumber | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+386_GAMES | GameOverActivator | GameOverActivator | inside | 0
+GIFU(750/450psi) | Transmission | Gears | Gear | 1
+STORE | wheel spoke rl(Clone) | Paint | PaintType | 0
+STORE | wheel spoke rl(Clone) | Removal | TireType | 0
+Database | WheelRallyRL | Data | TireType | 3
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+TRAFFIC | Navigation | Raycast | RaycastRepeat | 1
+TRAFFIC | Navigation | Passing | RandomGear | 0
+TRAFFIC | Navigation | Navigation | WaypointEnd | 0
+TRAFFIC | Navigation | Navigation | WaypointStart | 1773
+SATSUMA(557kg) | wheelRR | Data | TireType | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+DrunkLifter | PayMoney | Use | RandomCash | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 9
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+TRAFFIC | TakeFine | Use | RandomCash | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 2
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 4
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 7
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+Sheets | 2 | Button | Quantity | 0
+Sheets | 2 | Button | SlotNumber | 0
+GUI | Subtitles | SetText | Lenght | 0
+Systems | PlayerWanted | Activate | DaysInJail | 0
+Systems | PlayerWanted | Activate | TimeOfDay | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 5
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+386_GAMES | Filosofi-ymmarrys | Ymmarrys | ymmarrys_int | 0
+NPC_CARS | Navigation | Raycast | RaycastRepeat | 1
+NPC_CARS | Navigation | Passing | RandomGear | 0
+NPC_CARS | Navigation | Passing | RouteWaypoint | 0
+NPC_CARS | Navigation | Navigation | WaypointEnd | 1083
+NPC_CARS | Navigation | Navigation | WaypointStart | 483
+NPC_CARS | Navigation | Brakezones | Waypoint | 483
+NPC_CARS | Navigation | Stopping | Waypoint | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 5
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 2
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+STORE | BuyJuice | Buy | NumberOfProducts | 6
+STORE | BuyJuice | Buy | Quantity | 0
+STORE | BuyJuice | Buy | Remove | 0
+STORE | wheel racing rr(Clone) | Paint | PaintType | 0
+STORE | wheel racing rr(Clone) | Removal | TireType | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 5
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+NPC_CARS | BUS | Shifting | Gear | 2
+NPC_CARS | BUS | Throttle | Layer | 0
+SATSUMA(557kg) | wheel steel rr(Clone) | Paint | PaintType | 1
+SATSUMA(557kg) | wheel steel rr(Clone) | Removal | TireType | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+INSPECTION | Speak | Speak | Time | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 2
+SATSUMA(557kg) | BoltPM | Screw | Stage | 0
+386_GAMES | Hi-Score-impossible | Achievement | score_int | 0
+386_GAMES | Hi-Score-impossible | Score | score_int | 0
+386_GAMES | Filosofi-aika | Aika | aika_int | 0
+386_GAMES | Filosofi-aika | Aika | ymmarrys | 0
+STORE | BoltPM | Screw | Index | 0
+STORE | BoltPM | Screw | Stage | 0
+SATSUMA(557kg) | wheelFL | Data | TireType | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 2
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+HAYOSIKO(1500kg) | Lights | Use | Selection | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 2
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+REPAIRSHOP | Paintjob | Work | PaintType | 2
+ITEMS | top | Use | Layer | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 8
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | spark plug 4(Clone) | Screw | Index | 0
+SATSUMA(557kg) | spark plug 4(Clone) | Screw | Stage | 8
+STORE | BoltPM | Screw | Index | 0
+STORE | BoltPM | Screw | Stage | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 4
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+twin carburators(Clone) | BoltPM | Screw | Index | 0
+twin carburators(Clone) | BoltPM | Screw | Stage | 0
+Sheets | 3 | Button | Quantity | 0
+Sheets | 3 | Button | SlotNumber | 0
+386_GAMES | Pasi01a2 | Osuma | alkuun_int | 0
+386_GAMES | Pasi01a2 | Osuma | score_int | 0
+386_GAMES | Pasi01a2 | Liike | aloitus_int | 0
+386_GAMES | Pasi01a2 | Liike | random-liike | 0
+386_GAMES | Pasi01a2 | Liike | score | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 6
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+steel headers(Clone) | BoltPM | Screw | Index | 0
+steel headers(Clone) | BoltPM | Screw | Stage | 0
+Sheets | 2 | Button | Quantity | 0
+Sheets | 2 | Button | SlotNumber | 0
+386_GAMES | JohnKemedyEnergy | Energy | Energy | 10
+SATSUMA(557kg) | door right(Clone) | Paint | PaintType | 1
+FERNDALE(1630kg) | PowerON | ActivateReverse | Gear | 0
+STORE | wheel hayosiko fl(Clone) | Paint | PaintType | 0
+STORE | wheel hayosiko fl(Clone) | Removal | TireType | 0
+386_GAMES | Line | Fetch | Index | 7
+STORE | fender flare rr(Clone) | Paint | PaintType | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+CARPARTS | BoltPM | Screw | Index | 0
+CARPARTS | BoltPM | Screw | Stage | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+TRAFFIC | BusStopRykipohja | Stopping | BusWaypoint | 483
+TRAFFIC | BusStopRykipohja | Stopping | StopWaypoint | 909
+SATSUMA(557kg) | BoltPM | Screw | Index | 5
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+STORE | Pin | Screw | Index | 0
+STORE | Pin | Screw | Stage | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 3
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+KEKMET(350-400psi) | RearHyd | Use | Stage | 1
+TRAFFIC | AMIS_r | Shifting | Gear | 1
+SATSUMA(557kg) | BoltPM | Screw | Index | 3
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+STORE | wheel racing rl(Clone) | Paint | PaintType | 0
+STORE | wheel racing rl(Clone) | Removal | TireType | 0
+SATSUMA(557kg) | spark plug 3(Clone) | Screw | Index | 0
+SATSUMA(557kg) | spark plug 3(Clone) | Screw | Stage | 8
+ITEMS | BoltPM | Screw | Index | 1
+ITEMS | BoltPM | Screw | Stage | 0
+ITEMS | Sleep | Activate | SleepTime | 6
+ITEMS | Sleep | Activate | TimeOfDay | 0
+rally steering wheel(Clone) | BoltPM | Screw | Index | 0
+rally steering wheel(Clone) | BoltPM | Screw | Stage | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 5
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 3
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 10
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 2
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+Sheets | 1 | Button | Quantity | 0
+Sheets | 1 | Button | SlotNumber | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 11
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+TRAFFIC | FITTAN 2 | Shifting | Gear | 1
+386_GAMES | filosofi | Filosofeeraus | ilme | 0
+386_GAMES | filosofi | Filosofeeraus | puhekerrat | 0
+STORE | BoltPM | Screw | Index | 0
+STORE | BoltPM | Screw | Stage | 0
+TRAFFIC | POLICE2 | Shifting | Gear | 2
+TRAFFIC | Navigation | Raycast | RaycastRepeat | 1
+TRAFFIC | Navigation | Passing | RandomGear | 0
+TRAFFIC | Navigation | Navigation | WaypointEnd | 0
+TRAFFIC | Navigation | Navigation | WaypointStart | 990
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+ITEMS | Power | Knob | Channel | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 2
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+386_GAMES | Hi-Score-hard | Score | score_int | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+GIFU(750/450psi) | Lever | Move | Gear | 1
+386_GAMES | Score-Final-Pasit | Final Pasit | final_pasit_int | 0
+PLAYER | Hand | PickUp | Lenght | 0
+KEKMET(350-400psi) | Lever | Pos | Gear | 1
+SATSUMA(557kg) | BoltPM | Screw | Index | 4
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+TRAFFIC | Navigation | Raycast | RaycastRepeat | 1
+TRAFFIC | Navigation | Passing | RandomGear | 0
+TRAFFIC | Navigation | Navigation | WaypointEnd | 1888
+TRAFFIC | Navigation | Navigation | WaypointStart | 1210
+STORE | BuySausages | Buy | NumberOfProducts | 12
+STORE | BuySausages | Buy | Quantity | 0
+STORE | BuySausages | Buy | Remove | 0
+bucket seat passenger(Clone) | BoltPM | Screw | Index | 0
+bucket seat passenger(Clone) | BoltPM | Screw | Stage | 0
+SATSUMA(557kg) | fender left(Clone) | Paint | PaintType | 1
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+STORE | fender flare fl(Clone) | Paint | PaintType | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 5
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+STORE | BoltPM | Screw | Index | 0
+STORE | BoltPM | Screw | Stage | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+Sheets | 0 | Button | Quantity | 0
+Sheets | 0 | Button | SlotNumber | 0
+Database | WheelSpokeRR | Data | TireType | 2
+SATSUMA(557kg) | BoltPM | Screw | Index | 2
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+Database | WheelHayosikoFL | Data | TireType | 2
+TRAFFIC | POLICE2 | Shifting | Gear | 2
+386_GAMES | Pasi02a | Osuma | alkuun_int | 0
+386_GAMES | Pasi02a | Osuma | score_int | 0
+386_GAMES | Pasi02a | Liike | aloitus_int | 0
+386_GAMES | Pasi02a | Liike | random-liike | 0
+STORE | BoltPM | Screw | Index | 0
+STORE | BoltPM | Screw | Stage | 0
+REPAIRSHOP | PayMoney | Use | RandomCash | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 2
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 2
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+Database | WheelRacingRR | Data | TireType | 4
+Database | WheelRacingFR | Data | TireType | 4
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | wheelRL | Data | TireType | 0
+STORE | BuyMosquitoSpray | Buy | NumberOfProducts | 6
+STORE | BuyMosquitoSpray | Buy | Quantity | 0
+STORE | BuyMosquitoSpray | Buy | Remove | 0
+racing exhaust(Clone) | BoltPM | Screw | Index | 0
+racing exhaust(Clone) | BoltPM | Screw | Stage | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 2
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+386_GAMES | Line | Fetch | Index | 0
+STORE | fiberglass hood(Clone) | Paint | PaintType | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 4
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+STORE | BuyBeercase | Buy | NumberOfProducts | 5
+STORE | BuyBeercase | Buy | Quantity | 0
+STORE | BuyBeercase | Buy | Remove | 0
+Sheets | ButtonOrder | Button | Date | 0
+Sheets | ButtonOrder | Button | Random | 0
+STORE | Pin | Screw | Index | 0
+STORE | Pin | Screw | Stage | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+JOBS | PayMoney | Use | RandomCash | 0
+386_GAMES | JohnKemedyBulletLEFT | BulletActivator-Left04 | BulletsOnScreen | 0
+386_GAMES | JohnKemedyBulletLEFT | BulletActivator-Left03 | BulletsOnScreen | 0
+386_GAMES | JohnKemedyBulletLEFT | BulletActivator-Left02 | BulletsOnScreen | 0
+386_GAMES | JohnKemedyBulletLEFT | BulletActivator-Left01 | BulletsOnScreen | 0
+386_GAMES | JohnKemedyBulletLEFT | BulletStats | BulletsOnScreen | 0
+386_GAMES | Score | Score | score_int | 0
+386_GAMES | LopparinEnergiaGrafiikka | Energia | Energia | 0
+Systems | Setup Game | WaitPlayer | JailDays | 0
+STORE | BoltPM | Screw | Index | 0
+STORE | BoltPM | Screw | Stage | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 3
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | MechanicalWear | Data | GearboxDamageType | 0
+STORE | BoltPM | Screw | Index | 0
+STORE | BoltPM | Screw | Stage | 0
+STORE | BuyCoolant | Buy | NumberOfProducts | 4
+STORE | BuyCoolant | Buy | Quantity | 0
+STORE | BuyCoolant | Buy | Remove | 0
+STORE | BoltPM | Screw | Index | 0
+STORE | BoltPM | Screw | Stage | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+TRAFFIC | Navigation | Raycast | RaycastRepeat | 1
+TRAFFIC | Navigation | Passing | RandomGear | 0
+TRAFFIC | Navigation | Navigation | WaypointEnd | 0
+TRAFFIC | Navigation | Navigation | WaypointStart | 1317
+Sheets | 8 | Button | Quantity | 0
+Sheets | 8 | Button | SlotNumber | 0
+steel headers(Clone) | BoltPM | Screw | Index | 0
+steel headers(Clone) | BoltPM | Screw | Stage | 0
+GUI | Data | Text | Days | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 3
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+Sheets | 6 | Button | Quantity | 0
+Sheets | 6 | Button | SlotNumber | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 5
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 3
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+386_GAMES | Pasi01b2 | Osuma | alkuun_int | 0
+386_GAMES | Pasi01b2 | Osuma | score_int | 0
+386_GAMES | Pasi01b2 | Liike | aloitus_int | 0
+386_GAMES | Pasi01b2 | Liike | random-liike | 0
+386_GAMES | Pasi01b2 | Liike | score | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+386_GAMES | Score-Final | Final Score | final_score_int | 0
+SATSUMA(557kg) | BoltPM | Screw | Index | 1
+SATSUMA(557kg) | BoltPM | Screw | Stage | 8
+SATSUMA(557kg) | BoltPM | Screw | Index | 0
+SATSUMA(557kg) | BoltPM | Screw | Stage | 0

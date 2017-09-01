@@ -1,0 +1,6 @@
+C:\Users\danie\Documents\Visual Studio 2017\Projects\ShowWear\ShowWear\bin\Release\ShowWear.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\ShowWear\ShowWear\bin\Release\MSCLoader.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\ShowWear\ShowWear\bin\Release\PlayMaker.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\ShowWear\ShowWear\bin\Release\UnityEngine.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\ShowWear\ShowWear\bin\Release\UnityEngine.UI.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\ShowWear\ShowWear\obj\Release\ShowWear.dll

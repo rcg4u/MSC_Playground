@@ -1,0 +1,11 @@
+c:\users\danie\documents\visual studio 2017\Projects\TrashCan\TrashCan\bin\Debug\TrashCan.dll
+c:\users\danie\documents\visual studio 2017\Projects\TrashCan\TrashCan\bin\Debug\TrashCan.pdb
+c:\users\danie\documents\visual studio 2017\Projects\TrashCan\TrashCan\bin\Debug\MSCLoader.dll
+c:\users\danie\documents\visual studio 2017\Projects\TrashCan\TrashCan\bin\Debug\UnityEngine.dll
+c:\users\danie\documents\visual studio 2017\Projects\TrashCan\TrashCan\bin\Debug\UnityEngine.UI.dll
+c:\users\danie\documents\visual studio 2017\Projects\TrashCan\TrashCan\obj\Debug\TrashCan.dll
+c:\users\danie\documents\visual studio 2017\Projects\TrashCan\TrashCan\obj\Debug\TrashCan.pdb
+c:\users\danie\documents\visual studio 2017\Projects\TrashCan\TrashCan\bin\Debug\PlayMaker.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\TrashCan\TrashCan\bin\Debug\ES2.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\TrashCan\TrashCan\bin\Debug\MoodkieSecurity.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\TrashCan\TrashCan\obj\Debug\TrashCan.csprojResolveAssemblyReference.cache

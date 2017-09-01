@@ -1,0 +1,9 @@
+c:\users\danie\documents\visual studio 2017\Projects\SlowMotion\SlowMotion\bin\Debug\SlowMotion.dll
+c:\users\danie\documents\visual studio 2017\Projects\SlowMotion\SlowMotion\bin\Debug\SlowMotion.pdb
+c:\users\danie\documents\visual studio 2017\Projects\SlowMotion\SlowMotion\bin\Debug\MSCLoader.dll
+c:\users\danie\documents\visual studio 2017\Projects\SlowMotion\SlowMotion\bin\Debug\UnityEngine.dll
+c:\users\danie\documents\visual studio 2017\Projects\SlowMotion\SlowMotion\bin\Debug\UnityEngine.UI.dll
+c:\users\danie\documents\visual studio 2017\Projects\SlowMotion\SlowMotion\obj\Debug\SlowMotion.dll
+c:\users\danie\documents\visual studio 2017\Projects\SlowMotion\SlowMotion\obj\Debug\SlowMotion.pdb
+c:\users\danie\documents\visual studio 2017\Projects\SlowMotion\SlowMotion\bin\Debug\PlayMaker.dll
+c:\users\danie\documents\visual studio 2017\Projects\SlowMotion\SlowMotion\obj\Debug\SlowMotion.csprojResolveAssemblyReference.cache

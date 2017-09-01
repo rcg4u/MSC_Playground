@@ -1,0 +1,8 @@
+c:\users\danie\documents\visual studio 2017\Projects\ShowWear\ShowWear\bin\Debug\ShowWear.dll
+c:\users\danie\documents\visual studio 2017\Projects\ShowWear\ShowWear\bin\Debug\ShowWear.pdb
+c:\users\danie\documents\visual studio 2017\Projects\ShowWear\ShowWear\bin\Debug\MSCLoader.dll
+c:\users\danie\documents\visual studio 2017\Projects\ShowWear\ShowWear\bin\Debug\PlayMaker.dll
+c:\users\danie\documents\visual studio 2017\Projects\ShowWear\ShowWear\bin\Debug\UnityEngine.dll
+c:\users\danie\documents\visual studio 2017\Projects\ShowWear\ShowWear\bin\Debug\UnityEngine.UI.dll
+c:\users\danie\documents\visual studio 2017\Projects\ShowWear\ShowWear\obj\Debug\ShowWear.dll
+c:\users\danie\documents\visual studio 2017\Projects\ShowWear\ShowWear\obj\Debug\ShowWear.pdb
