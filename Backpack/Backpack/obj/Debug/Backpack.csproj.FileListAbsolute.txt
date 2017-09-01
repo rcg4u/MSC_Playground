@@ -1,0 +1,10 @@
+C:\Users\danie\documents\visual studio 2017\Projects\Backpack\Backpack\bin\Debug\Backpack.dll
+C:\Users\danie\documents\visual studio 2017\Projects\Backpack\Backpack\bin\Debug\Backpack.pdb
+C:\Users\danie\documents\visual studio 2017\Projects\Backpack\Backpack\bin\Debug\MSCLoader.dll
+C:\Users\danie\documents\visual studio 2017\Projects\Backpack\Backpack\bin\Debug\PlayMaker.dll
+C:\Users\danie\documents\visual studio 2017\Projects\Backpack\Backpack\bin\Debug\UnityEngine.dll
+C:\Users\danie\documents\visual studio 2017\Projects\Backpack\Backpack\bin\Debug\UnityEngine.UI.dll
+C:\Users\danie\documents\visual studio 2017\Projects\Backpack\Backpack\obj\Debug\Backpack.dll
+C:\Users\danie\documents\visual studio 2017\Projects\Backpack\Backpack\obj\Debug\Backpack.pdb
+C:\Users\danie\documents\visual studio 2017\Projects\Backpack\Backpack\obj\Debug\Backpack.csprojResolveAssemblyReference.cache
+C:\Users\danie\documents\visual studio 2017\Projects\Backpack\Backpack\obj\Debug\Backpack.csproj.CoreCompileInputs.cache
