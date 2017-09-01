@@ -1,0 +1,22 @@
+MAP | Fireball
+ITEMS | Trail White
+GIFU(750/450psi) | ShitShower
+GIFU(750/450psi) | Splashes
+SATSUMA(557kg) | Glow
+SATSUMA(557kg) | Smoke
+SATSUMA(557kg) | Smoke
+MAP | TrailsWhite
+MAP | Sparks
+COTTAGE | particle
+ITEMS | TrailsWhite
+ITEMS | Fireball
+ITEMS | Trail White
+SATSUMA(557kg) | SteamMobile
+MAP | Trail White
+ITEMS | Sparks
+SATSUMA(557kg) | Glow
+ITEMS | Sparks
+SATSUMA(557kg) | FireSmall
+ITEMS | Fireball
+SATSUMA(557kg) | OverheatFire
+ITEMS | TrailsWhite

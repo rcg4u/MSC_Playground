@@ -1,0 +1,9 @@
+c:\users\danie\documents\visual studio 2017\Projects\ShowerMod\ShowerMod\bin\Debug\ShowerMod.dll
+c:\users\danie\documents\visual studio 2017\Projects\ShowerMod\ShowerMod\bin\Debug\ShowerMod.pdb
+c:\users\danie\documents\visual studio 2017\Projects\ShowerMod\ShowerMod\bin\Debug\HOTween.dll
+c:\users\danie\documents\visual studio 2017\Projects\ShowerMod\ShowerMod\bin\Debug\MSCLoader.dll
+c:\users\danie\documents\visual studio 2017\Projects\ShowerMod\ShowerMod\bin\Debug\PlayMaker.dll
+c:\users\danie\documents\visual studio 2017\Projects\ShowerMod\ShowerMod\bin\Debug\UnityEngine.dll
+c:\users\danie\documents\visual studio 2017\Projects\ShowerMod\ShowerMod\bin\Debug\UnityEngine.UI.dll
+c:\users\danie\documents\visual studio 2017\Projects\ShowerMod\ShowerMod\obj\Debug\ShowerMod.dll
+c:\users\danie\documents\visual studio 2017\Projects\ShowerMod\ShowerMod\obj\Debug\ShowerMod.pdb

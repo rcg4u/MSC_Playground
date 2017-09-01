@@ -1,0 +1,11 @@
+C:\Users\danie\Documents\Visual Studio 2017\Projects\CleaningTool\CleaningTool\bin\Debug\GarbageRemover.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\CleaningTool\CleaningTool\bin\Debug\GarbageRemover.pdb
+C:\Users\danie\Documents\Visual Studio 2017\Projects\CleaningTool\CleaningTool\bin\Debug\ES2.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\CleaningTool\CleaningTool\bin\Debug\MSCLoader.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\CleaningTool\CleaningTool\bin\Debug\PlayMaker.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\CleaningTool\CleaningTool\bin\Debug\UnityEngine.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\CleaningTool\CleaningTool\bin\Debug\MoodkieSecurity.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\CleaningTool\CleaningTool\bin\Debug\UnityEngine.UI.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\CleaningTool\CleaningTool\obj\Debug\GarbageRemover.csprojResolveAssemblyReference.cache
+C:\Users\danie\Documents\Visual Studio 2017\Projects\CleaningTool\CleaningTool\obj\Debug\GarbageRemover.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\CleaningTool\CleaningTool\obj\Debug\GarbageRemover.pdb
