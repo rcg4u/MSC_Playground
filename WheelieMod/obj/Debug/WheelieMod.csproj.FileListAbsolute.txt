@@ -1,0 +1,8 @@
+C:\Users\danie\Downloads\MSCModLoader-master\MSCModLoader-master\MSCLoader\WheelieMod\bin\Debug\WheelieMod.dll
+C:\Users\danie\Downloads\MSCModLoader-master\MSCModLoader-master\MSCLoader\WheelieMod\bin\Debug\WheelieMod.pdb
+C:\Users\danie\Downloads\MSCModLoader-master\MSCModLoader-master\MSCLoader\WheelieMod\bin\Debug\MSCLoader.dll
+C:\Users\danie\Downloads\MSCModLoader-master\MSCModLoader-master\MSCLoader\WheelieMod\bin\Debug\PlayMaker.dll
+C:\Users\danie\Downloads\MSCModLoader-master\MSCModLoader-master\MSCLoader\WheelieMod\bin\Debug\UnityEngine.dll
+C:\Users\danie\Downloads\MSCModLoader-master\MSCModLoader-master\MSCLoader\WheelieMod\obj\Debug\WheelieMod.dll
+C:\Users\danie\Downloads\MSCModLoader-master\MSCModLoader-master\MSCLoader\WheelieMod\obj\Debug\WheelieMod.pdb
+C:\Users\danie\Downloads\MSCModLoader-master\MSCModLoader-master\MSCLoader\WheelieMod\obj\Debug\WheelieMod.csprojResolveAssemblyReference.cache

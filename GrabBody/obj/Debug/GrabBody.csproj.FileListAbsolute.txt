@@ -1,0 +1,8 @@
+C:\Users\danie\Downloads\MSCModLoader-master\MSCModLoader-master\MSCLoader\GrabBody\bin\Debug\BodyGrab.dll
+C:\Users\danie\Downloads\MSCModLoader-master\MSCModLoader-master\MSCLoader\GrabBody\bin\Debug\BodyGrab.pdb
+C:\Users\danie\Downloads\MSCModLoader-master\MSCModLoader-master\MSCLoader\GrabBody\bin\Debug\MSCLoader.dll
+C:\Users\danie\Downloads\MSCModLoader-master\MSCModLoader-master\MSCLoader\GrabBody\bin\Debug\UnityEngine.dll
+C:\Users\danie\Downloads\MSCModLoader-master\MSCModLoader-master\MSCLoader\GrabBody\bin\Debug\MSCLoader.pdb
+C:\Users\danie\Downloads\MSCModLoader-master\MSCModLoader-master\MSCLoader\GrabBody\obj\Debug\BodyGrab.dll
+C:\Users\danie\Downloads\MSCModLoader-master\MSCModLoader-master\MSCLoader\GrabBody\obj\Debug\BodyGrab.pdb
+C:\Users\danie\Downloads\MSCModLoader-master\MSCModLoader-master\MSCLoader\GrabBody\obj\Debug\GrabBody.csprojResolveAssemblyReference.cache
