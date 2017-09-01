@@ -1,0 +1,1801 @@
+SATSUMA(557kg)
+	Distance VALUE: 1917.848
+	LOD VALUE: 200
+	Y VALUE: 3.405939
+SATSUMA(557kg)
+	Brake VALUE: 0
+SATSUMA(557kg)
+	FixedAngle VALUE: 33
+	Math1 VALUE: 0.0003349032
+	MaxAngle VALUE: 33
+	Speed VALUE: 0.001105181
+SATSUMA(557kg)
+	Friction VALUE: 0
+	RPM VALUE: 0
+	Rate VALUE: 0
+SATSUMA(557kg)
+	Friction VALUE: 0
+	RPM VALUE: 0
+	Rate VALUE: 0
+AirIntake
+	Distance VALUE: 0
+	Pos VALUE: 3.590138
+DriverHeadPivot
+CameraPivot
+	X VALUE: 0
+HookFront
+HookRear
+trigger_panel_subwoofer
+trigger_extinguisher_holder
+back panel(Clone)
+	Mass VALUE: 2
+bucket seat driver(Clone)
+bucket seat driver(Clone)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 7
+	Moment VALUE: 0
+	Tightness VALUE: 1000000
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+trigger_seat_passenger
+	InitialJointForce VALUE: 900
+trigger_bucket_seat_passenger
+	InitialJointForce VALUE: 900
+trigger_fur_dices
+trigger_xmas_lights
+	Distance VALUE: 1973.652
+racing harness(xxxxx)
+racing harness(xxxxx)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 4
+	Tightness VALUE: 1000000
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+roll cage(xxxxx)
+Windshield
+black windows(xxxxx)
+car body masse(xxxxx)
+car body(xxxxx)
+trigger_fender_right
+	InitialAttachForce VALUE: 200
+trigger_window_grille
+trigger_spoiler
+trigger_flare_rr
+trigger_flare_rl
+bootlid(Clone)
+bootlid(Clone)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 24
+	Moment VALUE: 4E+08
+	Tightness VALUE: 1000000
+bootlid(Clone)
+Handles
+	RayDistance VALUE: 1.5
+	Rotation VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+trigger_rear_spoiler
+bumper front(Clone)
+bumper front(Clone)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 6
+	Moment VALUE: 2.5E+08
+	Tightness VALUE: 1000000
+bumper front(Clone)
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+bumper rear(Clone)
+bumper rear(Clone)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 6
+	Moment VALUE: 2.5E+08
+	Tightness VALUE: 1000000
+bumper rear(Clone)
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+hood(Clone)
+	Pos VALUE: 0
+hood(Clone)
+	Rotation VALUE: 0
+hood(Clone)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 24
+	Moment VALUE: 4E+08
+	Tightness VALUE: 1000000
+hood(Clone)
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+door left(Clone)
+door left(Clone)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 28
+	Moment VALUE: 1E+09
+	Tightness VALUE: 1000000
+door left(Clone)
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+Handles
+	LockStrenght VALUE: 20000
+	RayDistance VALUE: 1.5
+	Rot VALUE: 6.57576
+opener
+	Knob VALUE: 0
+	Rot VALUE: 0
+	Scroll VALUE: 0
+	X VALUE: 0
+	Y VALUE: 0
+door right(Clone)
+door right(Clone)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 28
+	Moment VALUE: 1E+09
+	Tightness VALUE: 1000000
+door right(Clone)
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+SatsumaHandles
+	LockStrenght VALUE: 20000
+	RayDistance VALUE: 1.5
+	Rot VALUE: 0
+opener
+	Knob VALUE: 0
+	Rot VALUE: 0
+	Scroll VALUE: 0
+	X VALUE: 0
+	Y VALUE: 0
+fender left(Clone)
+fender left(Clone)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 28
+	Moment VALUE: 1E+08
+	Tightness VALUE: 1000000
+fender left(Clone)
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+trigger_flare_fl
+grille(Clone)
+	Mass VALUE: 2.4
+grille(Clone)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 6
+	Tightness VALUE: 1000000
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltPos VALUE: 0
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+halfshaft(xxxxx)
+halfshaft(xxxxx)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 2
+	Chance VALUE: -0.01
+	Tightness VALUE: 24
+strut fl(xxxxx)
+strut fl(xxxxx)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 3
+	Chance VALUE: -0.01
+	Tightness VALUE: 56
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+wishbone fl(xxxxx)
+wishbone fl(xxxxx)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 2
+	Chance VALUE: -0.01
+	Tightness VALUE: 16
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+halfshaft(xxxxx)
+halfshaft(xxxxx)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 2
+	Chance VALUE: -0.01
+	Tightness VALUE: 24
+strut fr(xxxxx)
+strut fr(xxxxx)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 3
+	Chance VALUE: -0.01
+	Tightness VALUE: 56
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+wishbone fr(xxxxx)
+wishbone fr(xxxxx)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 2
+	Chance VALUE: -0.01
+	Tightness VALUE: 16
+long coil spring(rlxxx)
+	Mass VALUE: 2
+trail arm rl(xxxxx)
+trail arm rl(xxxxx)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 12
+	Chance VALUE: -0.01
+	Tightness VALUE: 16
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+shock absorber(rlxxx)
+	Mass VALUE: 1.5
+shock absorber(rlxxx)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 2
+	Chance VALUE: -0.01
+	Tightness VALUE: 24
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+long coil spring(rrxxx)
+	Mass VALUE: 2
+trail arm rr(xxxxx)
+trail arm rr(xxxxx)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 12
+	Chance VALUE: -0.01
+	Tightness VALUE: 16
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+shock absorber(rrxxx)
+	Mass VALUE: 1.5
+shock absorber(rrxxx)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 2
+	Chance VALUE: -0.01
+	Tightness VALUE: 24
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+steering rack(xxxxx)
+steering rack(xxxxx)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 24
+	Tightness VALUE: 32
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+steering rod fl(xxxxx)
+steering rod fl(xxxxx)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 8
+	Tightness VALUE: 8
+steering rod fr(xxxxx)
+steering rod fr(xxxxx)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 8
+	Tightness VALUE: 8
+sub frame(xxxxx)
+sub frame(xxxxx)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 26
+	Tightness VALUE: 32
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+_Motor
+	Vibration VALUE: 0
+	Vibration2 VALUE: 0
+_Motor
+	Time VALUE: 0.04
+_Motor
+_Motor
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+Trigger_motor1
+Trigger_motor2
+Trigger_motor3
+block(Clone)
+block(Clone)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 2
+	Chance VALUE: -0.01
+	ForceMax VALUE: 1000
+	ForceMin VALUE: -1000
+	Tightness VALUE: 24
+	X VALUE: 0
+	Y VALUE: 0
+	Z VALUE: 0
+alternator(Clone)
+	Mass VALUE: 3.6
+alternator(Clone)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 6
+	Rotation VALUE: 7.499998
+	Tightness VALUE: 16
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+Pivot
+	Rotation VALUE: 7
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+radiator hose2(Clone)
+	Mass VALUE: 1
+camshaft(Clone)
+	Mass VALUE: 3
+camshaft(Clone)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 10
+	Tightness VALUE: 16
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+camshaft gear(Clone)
+	Mass VALUE: 1.5
+camshaft gear(Clone)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 5
+	Tightness VALUE: 8
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+timing chain(Clone)
+	Mass VALUE: 1
+crankshaft(Clone)
+	Mass VALUE: 4
+crankshaft(Clone)
+	Scroll VALUE: 0
+crankshaft pulley(Clone)
+	Mass VALUE: 2
+crankshaft pulley(Clone)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 4
+	Chance VALUE: -0.01
+	Tightness VALUE: 8
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+flywheel(Clone)
+	Mass VALUE: 9
+flywheel(Clone)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 32
+	Tightness VALUE: 48
+flywheel(Clone)
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+clutch cover plate(Clone)
+	Mass VALUE: 1.5
+clutch cover plate(Clone)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 36
+	Tightness VALUE: 48
+clutch cover plate(Clone)
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+clutch disc(Clone)
+	Mass VALUE: 1
+clutch pressure plate(Clone)
+	Mass VALUE: 1
+cylinder head(Clone)
+	Mass VALUE: 8
+cylinder head(Clone)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 24
+	Chance VALUE: -0.05
+	Tightness VALUE: 80
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+CapTrigger_MotorOil
+	MaxCapacity VALUE: 3
+	OilLevel VALUE: 0
+rocker shaft(Clone)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 16
+	Chance VALUE: -0.25
+	Tightness VALUE: 40
+rocker shaft(Clone)
+	Mass VALUE: 2
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	Alignment VALUE: 7.799998
+	Max VALUE: 12
+	Min VALUE: 1
+BoltPM
+	Alignment VALUE: 7.799998
+	Max VALUE: 12
+	Min VALUE: 1
+BoltPM
+	Alignment VALUE: 7.799998
+	Max VALUE: 12
+	Min VALUE: 1
+BoltPM
+	Alignment VALUE: 7.799998
+	Max VALUE: 12
+	Min VALUE: 1
+BoltPM
+	Alignment VALUE: 7.799998
+	Max VALUE: 12
+	Min VALUE: 1
+BoltPM
+	Alignment VALUE: 7.799998
+	Max VALUE: 12
+	Min VALUE: 1
+BoltPM
+	Alignment VALUE: 7.799998
+	Max VALUE: 12
+	Min VALUE: 1
+BoltPM
+	Alignment VALUE: 7.799998
+	Max VALUE: 12
+	Min VALUE: 1
+steel headers(Clone)
+	Mass VALUE: 3
+steel headers(Clone)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 2
+	Tightness VALUE: 40
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+rocker cover(Clone)
+	Mass VALUE: 1
+rocker cover(Clone)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 2
+	Tightness VALUE: 48
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+OpenCap
+	Rot VALUE: 359
+	ScrewAmount VALUE: 33
+	Scroll VALUE: 0
+spark plug 1(Clone)
+	Mass VALUE: 0.2
+spark plug 1(Clone)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 8
+	Tightness VALUE: 8
+spark plug 1(Clone)
+	Scroll VALUE: 0
+spark plug 2(Clone)
+	Mass VALUE: 0.2
+spark plug 2(Clone)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 8
+	Tightness VALUE: 8
+spark plug 2(Clone)
+	Scroll VALUE: 0
+spark plug 3(Clone)
+	Mass VALUE: 0.2
+spark plug 3(Clone)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 8
+	Tightness VALUE: 8
+spark plug 3(Clone)
+	Scroll VALUE: 0
+spark plug 4(Clone)
+	Mass VALUE: 0.2
+spark plug 4(Clone)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 8
+	Tightness VALUE: 8
+spark plug 4(Clone)
+	Scroll VALUE: 0
+twin carburators(Clone)
+	Mass VALUE: 4
+twin carburators(Clone)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 8
+	Chance VALUE: 0
+	Tightness VALUE: 32
+BoltPM
+	Alignment VALUE: 14.98355
+	Max VALUE: 22
+	Min VALUE: 13.5
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+throttle linkage(xxxxx)
+	Throttle VALUE: 0
+distributor(Clone)
+	Mass VALUE: 1
+distributor(Clone)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 6
+	Chance VALUE: -0.01
+	Tightness VALUE: 8
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+electrics(Clone)
+	Mass VALUE: 1
+electrics(Clone)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 12
+	Tightness VALUE: 16
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+engine plate(Clone)
+	Mass VALUE: 2
+starter(Clone)
+	Mass VALUE: 1.5
+starter(Clone)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 6
+	Chance VALUE: -0.01
+	Tightness VALUE: 16
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+fan belt(Clone)
+	AlternatorRot VALUE: 0
+	Mass VALUE: 0.5
+Animations
+	Anim VALUE: -230.6146
+	Rounds VALUE: 0
+Animations
+	Health VALUE: 48.2033
+	Pitch VALUE: 1.001378
+	Rotation VALUE: 7.499998
+	Scale VALUE: 0.9666668
+	Scale1 VALUE: -0.4999981
+	Wait VALUE: 0.4853228
+	Wear VALUE: 0.00249999
+fuel pump(Clone)
+	Mass VALUE: 0.5
+fuel pump(Clone)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 10
+	Chance VALUE: -0.01
+	Tightness VALUE: 16
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+gearbox(Clone)
+	Mass VALUE: 11
+gearbox(Clone)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 36
+	Tightness VALUE: 56
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+drive gear(Clone)
+	Mass VALUE: 4
+drive gear(Clone)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 32
+	Chance VALUE: -0.01
+	Tightness VALUE: 56
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+head gasket(Clone)
+	Mass VALUE: 0.5
+main bearing1(Clone)
+	Mass VALUE: 0.5
+main bearing1(Clone)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 10
+	Chance VALUE: -0.01
+	Tightness VALUE: 16
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+main bearing2(Clone)
+	Mass VALUE: 0.5
+main bearing2(Clone)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 10
+	Chance VALUE: -0.01
+	Tightness VALUE: 16
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+main bearing3(Clone)
+	Mass VALUE: 0.5
+main bearing3(Clone)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 10
+	Chance VALUE: -0.01
+	Tightness VALUE: 16
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+oil filter(Clone)
+	Mass VALUE: 0.5
+oil filter(Clone)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 8
+	Tightness VALUE: 8
+oil filter(Clone)
+	Scroll VALUE: 0
+oilpan(Clone)
+	Mass VALUE: 3
+oilpan(Clone)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 15
+	Tightness VALUE: 64
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+piston1(Clone)
+	Mass VALUE: 1
+piston1(Clone)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 2
+	Chance VALUE: -0.01
+	Tightness VALUE: 16
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+piston2(Clone)
+	Mass VALUE: 1
+piston2(Clone)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 2
+	Chance VALUE: -0.01
+	Tightness VALUE: 16
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+piston3(Clone)
+	Mass VALUE: 1
+piston3(Clone)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 2
+	Chance VALUE: -0.01
+	Tightness VALUE: 16
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+piston4(Clone)
+	Mass VALUE: 1
+piston4(Clone)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 2
+	Chance VALUE: -0.01
+	Tightness VALUE: 16
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+timing cover(Clone)
+	Mass VALUE: 2
+timing cover(Clone)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 28
+	Tightness VALUE: 48
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+water pump(Clone)
+	Mass VALUE: 1
+water pump(Clone)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 24
+	Chance VALUE: -0.01
+	Tightness VALUE: 40
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+water pump pulley(Clone)
+	Mass VALUE: 0.5
+water pump pulley(Clone)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 22
+	Tightness VALUE: 32
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+trigger_racing head
+trigger_radiator
+trigger_exhaust_muffler
+trigger_racing_muffler
+fuel line(xxxxx)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 8
+	Tightness VALUE: 8
+HandBrake
+HandBrake
+handbrake(xxxxx)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 6
+	Chance VALUE: -24999.03
+	Tightness VALUE: 1000000
+handbrake(xxxxx)
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+handbrake lever
+	BoltTightness VALUE: 0
+	Brake VALUE: 0.005
+	Position VALUE: 0.1
+	Tightness VALUE: 1000000
+handbrake lever
+	KnobPos VALUE: 0.1
+rearlight(leftx)
+	Mass VALUE: 1
+rearlight(right)
+	Mass VALUE: 1
+headlight(leftx)
+	Mass VALUE: 1
+headlight(leftx)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 8
+	Chance VALUE: -9999.85
+	Tightness VALUE: 1000000
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+headlight(right)
+	Mass VALUE: 1
+headlight(right)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 8
+	Chance VALUE: -9999.85
+	Tightness VALUE: 1000000
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+brake lining(xxxxx)
+brake lining(xxxxx)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 6
+	Tightness VALUE: 96
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+brake master cylinder(xxxxx)
+brake master cylinder(xxxxx)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 6
+	Tightness VALUE: 24
+OpenCap
+	Rot VALUE: 359
+	ScrewAmount VALUE: 33
+	Scroll VALUE: 0
+OpenCap
+	Rot VALUE: 359
+	ScrewAmount VALUE: 33
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+clutch master cylinder(xxxxx)
+clutch master cylinder(xxxxx)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 6
+	Tightness VALUE: 24
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+OpenCap
+	Rot VALUE: 359
+	ScrewAmount VALUE: 33
+	Scroll VALUE: 0
+fuel tank pipe(xxxxx)
+OpenCap
+	Rot VALUE: 359
+	ScrewAmount VALUE: 33
+	Scroll VALUE: 0
+fuel strainer(xxxxx)
+fuel strainer(xxxxx)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 6
+	Chance VALUE: -0.01
+	Tightness VALUE: 8
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+racing radiator(xxxxx)
+	Mass VALUE: 8
+racing radiator(xxxxx)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 2
+	Chance VALUE: -0.01
+	Tightness VALUE: 32
+OpenCap
+	Rot VALUE: 359
+	ScrewAmount VALUE: 33
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+radiator hose1(xxxxx)
+	Mass VALUE: 1
+radiator hose3(xxxxx)
+	Mass VALUE: 1
+clutch lining(xxxxx)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 4
+	Tightness VALUE: 16
+clutch lining(xxxxx)
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+gear linkage(xxxxx)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 8
+	Chance VALUE: -0.01
+	Tightness VALUE: 24
+gear linkage(xxxxx)
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+fuel tank(Clone)
+	Fuel VALUE: 0
+	Random VALUE: 0
+fuel tank(Clone)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 12
+	Moment VALUE: 7E+08
+	Tightness VALUE: 1000000
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+racing exhaust(Clone)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 6
+	Moment VALUE: 2E+08
+	Tightness VALUE: 1000000
+racing exhaust(Clone)
+	Pos VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+battery(Clone)
+	Mass VALUE: 6
+gear stick(xxxxx)
+gear stick(xxxxx)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 6
+	Tightness VALUE: 24
+Lever
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+pedal_brake
+	Angle VALUE: 0
+	Data VALUE: 0
+pedal_throttle
+	Data VALUE: 0
+pedal_clutch
+	Data VALUE: 0
+dashboard(Clone)
+	Mass VALUE: 7
+dashboard(Clone)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 10
+	Tightness VALUE: 16
+Trigger
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+fuel mixture gauge(xxxxx)
+AirFuel
+	Angle VALUE: -136.9515
+	Mixture VALUE: 13.45623
+	Mixture2 VALUE: 5.456234
+glovbox
+dashboard meters(Clone)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 12
+	Tightness VALUE: 16
+dashboard meters(Clone)
+	Mass VALUE: 2
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+Fuel
+	Level VALUE: 0
+	Rotation VALUE: 0
+Speedometer
+	Rotation VALUE: 0
+	Velocity VALUE: 0
+Temp
+	Level VALUE: 0
+	Rotation VALUE: -29.07767
+Odometer
+	KmRot VALUE: -131.1339
+	Meters VALUE: 4000
+	MpS VALUE: 0
+	Odo VALUE: 3642.606
+	Rotation VALUE: -36
+Choke
+	Choke VALUE: 0
+	KnobPos VALUE: 0
+Choke
+	ChokeLevel VALUE: 0
+	ChokeMultiplier VALUE: 1.8
+	Multiplier VALUE: 1
+Hazard
+Lights
+Wipers
+Wipers
+	Delay VALUE: 3
+rpm gauge(Clone)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 6
+	Tightness VALUE: 16
+rpm gauge(Clone)
+	Mass VALUE: 0.5
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+Pivot
+	Angle VALUE: 0
+trigger_clock
+radio(Clone)
+	Mass VALUE: 1
+RadioTuner
+	Rot VALUE: 699.9999
+	Scroll VALUE: 0
+	Tune VALUE: 0.06999999
+RadioVolume
+	Rot VALUE: 0
+	Scroll VALUE: 0
+	Tune VALUE: 0.06999999
+	Volume VALUE: 0
+RadioVolume
+	Consumption VALUE: 0.012
+	Volume VALUE: 0
+trigger_cd
+extra gauges(xxxxx)
+PivotVolt
+	Angle VALUE: -211.3944
+PivotWaterPress
+	Angle VALUE: -25.55557
+PivotOilPress
+	Angle VALUE: 0
+trigger_dash_cover
+CarSteeringPivot
+steering column(xxxxx)
+steering column(xxxxx)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 10
+	Tightness VALUE: 16
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+rally steering wheel(Clone)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 2
+	Tightness VALUE: 8
+rally steering wheel(Clone)
+	Mass VALUE: 1
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+trigger_tachometer
+Starter
+	DashVolume VALUE: 0.5
+	MouseDelay VALUE: 0.4
+TurnSignals
+	Consumption VALUE: 0.008
+	DashVolume VALUE: 0.5
+	Delay VALUE: 0.4
+	WheelAngle VALUE: 0
+Car
+Redlining
+	Bearing1 VALUE: 16
+	CrankTightness VALUE: 10500
+	Delay VALUE: 0
+	EngineFriction VALUE: 3
+	RealRPM VALUE: 0
+Brakes
+	BrakeFade VALUE: 0.1
+	BrakeFluidF VALUE: 96.91081
+	BrakeFluidR VALUE: 96.91081
+	BrakeInput VALUE: 0
+	LiningTightness VALUE: 96
+	Math1 VALUE: 193.8216
+	Rate VALUE: 0
+	SlowLeakRate VALUE: 1E-05
+Brakes
+	Front VALUE: 96.91181
+	Math1 VALUE: 0
+	Rear VALUE: 96.91181
+Cooling
+	Cooling VALUE: 0
+	Heat VALUE: 0
+	HeatGeneration VALUE: 8937.415
+	Math1 VALUE: 441.5265
+	Temp VALUE: 63.07522
+	WaterCoolEfficiency VALUE: 0
+	WaterLevel VALUE: 7
+	WaterPressureDivider VALUE: 57.1
+	WaterPressureLimit VALUE: 16
+	WaterPressurePSI VALUE: 7.098771
+Suspension
+	FrontBump VALUE: 1000
+	FrontRate VALUE: 16000
+	FrontRebound VALUE: 1000
+	RearBump VALUE: 1000
+	RearRate VALUE: 16000
+	RearRebound VALUE: 1000
+Transmission
+	FinalGear VALUE: 3.7
+	Fluid VALUE: 0.5
+	Rate VALUE: 0
+	Tightness VALUE: 16
+Transmission
+	Random VALUE: 0
+	Rate VALUE: 0
+	Tightness VALUE: 48
+	Tightness1 VALUE: 24
+	Tightness2 VALUE: 24
+Starter
+	Charge VALUE: 126.1821
+	StarterPitch VALUE: 1
+Starter
+Starter
+Steering
+	Alignment VALUE: 0
+Steering
+	Alignment VALUE: 0
+Steering
+Steering
+Electrics
+	Charge VALUE: 150.996
+	FuelLevel VALUE: 31.08034
+	RPM VALUE: 0
+	Volts VALUE: 15.0996
+Fixes
+	Brake VALUE: 0
+	BrakeFixRate VALUE: 0.3
+	Clutch VALUE: 0
+	FrictionTorque VALUE: 30
+	Speed VALUE: 0
+Electricity
+PowerON
+PowerON
+PowerON
+	Data VALUE: 0
+PowerON
+	Charge VALUE: 40
+	IntensityInteriorLight VALUE: 0.6896552
+	IntensityLong VALUE: 4
+	IntensityRear VALUE: 2
+	IntensityShort VALUE: 2.985075
+SpeakerDash
+	DistortionLevel VALUE: 0.5
+	Volume VALUE: 1
+SpeakerBass
+	DistortionLevel VALUE: 0.5
+	Volume VALUE: 1
+PlayerTrigger
+	Distance VALUE: 2491.453
+DriveTrigger
+	Distance VALUE: 0
+	MinimumRequiredVelocity VALUE: 0.15
+	Speed VALUE: 0.010261
+	VeloX VALUE: 0.0007893791
+	VeloY VALUE: 5.051911E-05
+	VeloZ VALUE: 0.002738324
+wheelFL
+	GripForward VALUE: 0.95
+	GripSideways VALUE: 0.95
+wheelFL
+	GripForward VALUE: 0.95
+	GripSideways VALUE: 0.95
+discbrake(flxxx)
+discbrake(flxxx)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 2
+	Tightness VALUE: 8
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+wheel rally fl(Clone)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 6
+	Chance VALUE: 0
+	Tightness VALUE: 32
+wheel rally fl(Clone)
+	Mass VALUE: 12
+wheel rally fl(Clone)
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+spindle fl(xxxxx)
+spindle fl(xxxxx)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 2
+	Chance VALUE: -0.01
+	Tightness VALUE: 8
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+alignment_fl
+	Alignment VALUE: 0
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+wheelFR
+	GripForward VALUE: 0.95
+	GripSideways VALUE: 0.95
+wheelFR
+	GripForward VALUE: 0.95
+	GripSideways VALUE: 0.95
+discbrake(frxxx)
+discbrake(frxxx)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 2
+	Tightness VALUE: 8
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+wheel rally fr(Clone)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 6
+	Chance VALUE: 0
+	Tightness VALUE: 32
+wheel rally fr(Clone)
+	Mass VALUE: 12
+wheel rally fr(Clone)
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+spindle fr(xxxxx)
+spindle fr(xxxxx)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 2
+	Chance VALUE: -0.01
+	Tightness VALUE: 8
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+alignment_fr
+	Alignment VALUE: 0
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+wheelRL
+	GripForward VALUE: 0.95
+	GripSideways VALUE: 0.95
+wheelRL
+	GripForward VALUE: 0.95
+	GripSideways VALUE: 0.95
+drumbrake rl(xxxxx)
+drumbrake rl(xxxxx)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 8
+	Tightness VALUE: 8
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+wheel rally rl(Clone)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 6
+	Chance VALUE: 0
+	Tightness VALUE: 32
+wheel rally rl(Clone)
+	Mass VALUE: 12
+wheel rally rl(Clone)
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+wheelRR
+	GripForward VALUE: 0.95
+	GripSideways VALUE: 0.95
+wheelRR
+	GripForward VALUE: 0.95
+	GripSideways VALUE: 0.95
+drumbrake rr(xxxxx)
+drumbrake rr(xxxxx)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 8
+	Tightness VALUE: 8
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+wheel rally rr(Clone)
+	BoltedNO VALUE: 0
+	BoltedYES VALUE: 6
+	Chance VALUE: 0
+	Tightness VALUE: 32
+wheel rally rr(Clone)
+	Mass VALUE: 12
+wheel rally rr(Clone)
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0
+BoltPM
+	BoltSize VALUE: 0
+	Scroll VALUE: 0

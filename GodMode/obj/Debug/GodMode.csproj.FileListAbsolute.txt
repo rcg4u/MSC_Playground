@@ -1,0 +1,24 @@
+C:\Users\danie\Downloads\MSCModLoader-master\MSCModLoader-master\MSCLoader\GodMode\bin\Debug\GodMode.dll
+C:\Users\danie\Downloads\MSCModLoader-master\MSCModLoader-master\MSCLoader\GodMode\bin\Debug\GodMode.pdb
+C:\Users\danie\Downloads\MSCModLoader-master\MSCModLoader-master\MSCLoader\GodMode\bin\Debug\Assembly-CSharp.dll
+C:\Users\danie\Downloads\MSCModLoader-master\MSCModLoader-master\MSCLoader\GodMode\bin\Debug\MSCLoader.dll
+C:\Users\danie\Downloads\MSCModLoader-master\MSCModLoader-master\MSCLoader\GodMode\bin\Debug\PlayMaker.dll
+C:\Users\danie\Downloads\MSCModLoader-master\MSCModLoader-master\MSCLoader\GodMode\bin\Debug\UnityEngine.dll
+C:\Users\danie\Downloads\MSCModLoader-master\MSCModLoader-master\MSCLoader\GodMode\bin\Debug\Assembly-UnityScript-firstpass.dll
+C:\Users\danie\Downloads\MSCModLoader-master\MSCModLoader-master\MSCLoader\GodMode\bin\Debug\UnityEngine.UI.dll
+C:\Users\danie\Downloads\MSCModLoader-master\MSCModLoader-master\MSCLoader\GodMode\bin\Debug\ES2.dll
+C:\Users\danie\Downloads\MSCModLoader-master\MSCModLoader-master\MSCLoader\GodMode\bin\Debug\cInput.dll
+C:\Users\danie\Downloads\MSCModLoader-master\MSCModLoader-master\MSCLoader\GodMode\bin\Debug\HOTween.dll
+C:\Users\danie\Downloads\MSCModLoader-master\MSCModLoader-master\MSCLoader\GodMode\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\danie\Downloads\MSCModLoader-master\MSCModLoader-master\MSCLoader\GodMode\bin\Debug\Boo.Lang.dll
+C:\Users\danie\Downloads\MSCModLoader-master\MSCModLoader-master\MSCLoader\GodMode\bin\Debug\MoodkieSecurity.dll
+C:\Users\danie\Downloads\MSCModLoader-master\MSCModLoader-master\MSCLoader\GodMode\bin\Debug\Mono.Security.dll
+C:\Users\danie\Downloads\MSCModLoader-master\MSCModLoader-master\MSCLoader\GodMode\bin\Debug\MSCLoader.pdb
+C:\Users\danie\Downloads\MSCModLoader-master\MSCModLoader-master\MSCLoader\GodMode\obj\Debug\GodMode.dll
+C:\Users\danie\Downloads\MSCModLoader-master\MSCModLoader-master\MSCLoader\GodMode\obj\Debug\GodMode.pdb
+C:\Users\danie\Downloads\MSCModLoader-master\MSCModLoader-master\MSCLoader\GodMode\obj\Debug\GodMode.csprojResolveAssemblyReference.cache
+C:\Users\danie\Documents\Visual Studio 2017\Projects\GodMode\bin\Debug\GodMode.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\GodMode\bin\Debug\GodMode.pdb
+C:\Users\danie\Documents\Visual Studio 2017\Projects\GodMode\obj\Debug\GodMode.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\GodMode\obj\Debug\GodMode.pdb
+C:\Users\danie\Documents\Visual Studio 2017\Projects\GodMode\obj\Debug\GodMode.csprojResolveAssemblyReference.cache
