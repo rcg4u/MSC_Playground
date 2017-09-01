@@ -1,0 +1,8 @@
+c:\users\danie\documents\visual studio 2017\Projects\Console\Console\bin\Debug\Console.dll
+c:\users\danie\documents\visual studio 2017\Projects\Console\Console\bin\Debug\Console.pdb
+c:\users\danie\documents\visual studio 2017\Projects\Console\Console\bin\Debug\MSCLoader.dll
+c:\users\danie\documents\visual studio 2017\Projects\Console\Console\bin\Debug\PlayMaker.dll
+c:\users\danie\documents\visual studio 2017\Projects\Console\Console\bin\Debug\UnityEngine.dll
+c:\users\danie\documents\visual studio 2017\Projects\Console\Console\bin\Debug\UnityEngine.UI.dll
+c:\users\danie\documents\visual studio 2017\Projects\Console\Console\obj\Debug\Console.dll
+c:\users\danie\documents\visual studio 2017\Projects\Console\Console\obj\Debug\Console.pdb

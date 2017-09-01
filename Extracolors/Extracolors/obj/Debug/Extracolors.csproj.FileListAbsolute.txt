@@ -1,0 +1,8 @@
+c:\users\danie\documents\visual studio 2017\Projects\Extracolors\Extracolors\bin\Debug\Extracolors.dll
+c:\users\danie\documents\visual studio 2017\Projects\Extracolors\Extracolors\bin\Debug\Extracolors.pdb
+c:\users\danie\documents\visual studio 2017\Projects\Extracolors\Extracolors\bin\Debug\MSCLoader.dll
+c:\users\danie\documents\visual studio 2017\Projects\Extracolors\Extracolors\bin\Debug\UnityEngine.dll
+c:\users\danie\documents\visual studio 2017\Projects\Extracolors\Extracolors\bin\Debug\UnityEngine.UI.dll
+c:\users\danie\documents\visual studio 2017\Projects\Extracolors\Extracolors\obj\Debug\Extracolors.csprojResolveAssemblyReference.cache
+c:\users\danie\documents\visual studio 2017\Projects\Extracolors\Extracolors\obj\Debug\Extracolors.dll
+c:\users\danie\documents\visual studio 2017\Projects\Extracolors\Extracolors\obj\Debug\Extracolors.pdb

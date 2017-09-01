@@ -1,0 +1,279 @@
+GIFU(750/450psi) | GIFU(750/450psi) (UnityEngine.Rigidbody)
+FuelFiller | 
+OpenCap | 
+fuel_filler_cap | 
+FuelTank | FuelTank (UnityEngine.Rigidbody)
+Cabin | Cabin (UnityEngine.Rigidbody)
+CabinCollider | 
+DriverDoors | 
+doorl | doorl (UnityEngine.Rigidbody)
+door | 
+truck_cabin_door_panel | 
+truck_cabin_door_parts | 
+glass | 
+mirrors | 
+mirrors | 
+TruckLeftMirrorPivot | 
+doorr | doorr (UnityEngine.Rigidbody)
+door | 
+truck_cabin_door_panel 1 | 
+truck_cabin_door_parts 1 | 
+mirrors | 
+mirrors | 
+glass | 
+TruckRightMirrorPivot | 
+ActivateHose | 
+ShitTank | ShitTank (UnityEngine.Rigidbody)
+ShitSpillPivot | 
+Coll | 
+Coll | 
+HosePivot | 
+Lever | 
+Pivot | 
+OpenSpill | 
+shit_tank_lever | 
+Colliders | 
+Coll | 
+TireColl | 
+TireColl | 
+TireColl | 
+Cabin | 
+coll1 | 
+coll2 | 
+coll3 | 
+coll4 | 
+coll5 | 
+coll6 | 
+IntColl | 
+IntColl | 
+IntColl | 
+IntColl | 
+coll10 | 
+coll11 | 
+coll13 | 
+coll14 | 
+Seats | 
+Seats | 
+Seats | 
+Seats | 
+Coll | 
+Bumper | 
+TireColl | 
+TireColl | 
+PlayerColl | 
+PlayerColl | 
+PlayerColl | 
+Windshd | 
+Windshd | 
+RearBar | 
+LOD | 
+AirIntake | 
+Wipers | 
+WiperRightPivot | 
+wipers_tap | 
+wipers_rod | 
+Rod | 
+WiperLeftPivot | 
+Rod 1 | 
+wipers_tap | 
+wipers_rod | 
+CoG | 
+Simulation | 
+Exhaust | 
+FromEngine | 
+Airbrakes | 
+Fuel | 
+Cooling | 
+Transmission | 
+Dashboard | 
+TurnSignals | 
+Knobs | 
+Starter | 
+ButtonLights | 
+ButtonInteriorLight | 
+ButtonWipers | 
+Differential lock | 
+mesh 1 | 
+Liftaxle | 
+mesh | 
+Hydraulics | 
+mesh | 
+KnobLights | 
+Knob | 
+KnobInteriorLight | 
+Knob | 
+KnobWipers | 
+Knob | 
+Parking Brake | 
+TurnSignalLever | 
+lever | 
+BrakeLever | 
+Pivot | 
+mesh | 
+Gauges | 
+Clock | 
+hour | 
+needle_hour | 
+minute | 
+needle_minute | 
+Temp | 
+needle 1 | 
+Speedometer | 
+needle 1 | 
+RPM | 
+needle 1 | 
+Oil Pressure | 
+needle 1 | 
+Fuel | 
+needle | 
+Air Pressure | 
+needle 1 | 
+Volts | 
+needle 1 | 
+GearLever | 
+Lever | 
+truck_dash_gearstick | 
+Steering | 
+TruckSteeringPivot | 
+truck_steering_wheel 1 | 
+Pedals | 
+Clutch | 
+mesh | 
+Brake | 
+mesh | 
+Throttle | 
+mesh | 
+Electricity | 
+Driving | 
+DrivingLights | 
+TandemAxleSetup | 
+PlayerTrigger | 
+SpawnPlayer | 
+DriveTrigger | 
+FrontAxle | FrontAxle (UnityEngine.Rigidbody)
+shit_tank | 
+LitreGauge | 
+needle_large | 
+shit_tank_hoses | 
+shit_hose_coupler 1 | 
+shit_tank_gauge | 
+shit_tank_hoses2 | 
+Engine | Engine (UnityEngine.Rigidbody)
+TandemAxle | TandemAxle (UnityEngine.Rigidbody)
+FrontIK_1 | 
+RearIK_2 | 
+Driveshaft | 
+Armature_001 | 
+start | 
+MESH | 
+Lights | 
+truck_frame | 
+IKtargetL | 
+IKtargetR | 
+truck_cabin 1 | 
+truck_accessories | 
+truck_accessories 1 | 
+truck_engine | 
+truck_interior | 
+truck_interior_parts | 
+truck_cabin_windows | 
+truck_dash_gauges | 
+TrailerPivot | 
+DriverHeadPivot | DriverHeadPivot (UnityEngine.Rigidbody)
+CameraPivot | 
+Pivot | 
+Sleep | 
+Sleep | 
+AnimPivot | 
+Sphere | 
+Capsule | 
+Capsule 1 | 
+wheelFL | 
+tire | 
+truck_tire_front | 
+truck_rim_front | 
+truck_front_hub | 
+Spindle | 
+IKpivot | 
+Axle | 
+truck_axle_front | 
+wheelFR | 
+tire | 
+truck_tire_front 1 | 
+truck_rim_front | 
+truck_front_hub 1 | 
+Spindle | 
+IKtarget | 
+wheelRL1 | 
+tire | 
+truck_tire_rear | 
+truck_rim_rear | 
+truck_axle_hub | 
+Spindle | 
+truck_axle_rear | 
+Driveshaft_end 1 | 
+wheelRR1 | 
+tire | 
+truck_tire_rear 1 | 
+truck_rim_rear | 
+truck_axle_hub | 
+Spindle | 
+wheelRL2 | 
+tire | 
+truck_tire_rear 1 | 
+truck_rim_rear | 
+truck_axle_hub | 
+Spindle | 
+IKpivot | 
+Arm | 
+tandem_arm | 
+IK | 
+wheelRR2 | 
+tire | 
+truck_tire_rear 2 | 
+truck_rim_rear | 
+truck_axle_hub | 
+Spindle | 
+IKpivot | 
+Arm | 
+tandem_arm | 
+IK | 
+StagingWheel | 
+RadioPivot | 
+Speaker | 
+Radio | 
+Pivot | 
+knob | 
+Pivot | 
+knob | 
+TunerPivot | 
+needle | 
+RadioTuner | 
+ButtonsRadio | 
+RadioVolume | 
+HookRear | 
+HookFront | 
+Starter | 
+audio | 
+audio | 
+audio | 
+audio | 
+audio | 
+audio | 
+audio | 
+audio | 
+audio | 
+audio | 
+audio | 
+audio | 
+audio | 
+audio | 
+audio | 
+audio | 
+audio | 
+audio | 
+audio | 
+audio | 
+audio | 
+audio | 
+audio | 

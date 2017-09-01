@@ -1,0 +1,2618 @@
+Timingchain (UnityEngine.GameObject) | Data | Time | 0
+doorl (UnityEngine.GameObject) | Use | OldRot | 0
+doorl (UnityEngine.GameObject) | Use | Rot | 0
+doorl (UnityEngine.GameObject) | Use | Rotation | 0
+Throttle (UnityEngine.GameObject) | Angle | Data | 0
+Register (UnityEngine.GameObject) | Data | BrokenWindow | 2760
+Register (UnityEngine.GameObject) | Data | DieselPurchase | 0
+Register (UnityEngine.GameObject) | Data | FuelPurchase | 0
+Register (UnityEngine.GameObject) | Data | PriceTotal | 0
+Register (UnityEngine.GameObject) | Data | SpawnDelay | 0.1
+Register (UnityEngine.GameObject) | Data | Total | 2760
+HouseWood1 (UnityEngine.GameObject) | Logic | Wait | 0
+Sparkplug1 (UnityEngine.GameObject) | Data | Time | 0
+Coll (UnityEngine.GameObject) | Use | RayDistance | 1.5
+Coll (UnityEngine.GameObject) | Use | Rotation | 95.31585
+Speaker (UnityEngine.GameObject) | Settings | DistortionLevel | 0.5
+Speaker (UnityEngine.GameObject) | Settings | Volume | 1
+Clutch (UnityEngine.GameObject) | Angle | Data | 0
+Hook (UnityEngine.GameObject) | Distance | Distance | 5.597199
+HeadPivot (UnityEngine.GameObject) | Look | Rot | 295.3667
+pedal_brake (UnityEngine.GameObject) | Angle | Angle | 0
+pedal_brake (UnityEngine.GameObject) | Angle | Data | 0
+BoltPM (UnityEngine.GameObject) | Screw | Alignment | 7.5
+BoltPM (UnityEngine.GameObject) | Screw | Max | 12
+BoltPM (UnityEngine.GameObject) | Screw | Min | 1
+ShitTank (UnityEngine.GameObject) | Waste | Mass | 4812.935
+ShitTank (UnityEngine.GameObject) | Waste | Waste | 2312.935
+ShitTank (UnityEngine.GameObject) | Pump | LitresPerSecond | 0.05
+ShitTank (UnityEngine.GameObject) | Pump | ShitLevel | 0
+ShitTank (UnityEngine.GameObject) | SpillPump | Rot | 0
+ShitTank (UnityEngine.GameObject) | SpillPump | Waste | 0
+Speedometer (UnityEngine.GameObject) | Speed | Rotation | -1.357174E-08
+Speedometer (UnityEngine.GameObject) | Speed | Speed | 6.283214E-09
+Speedometer (UnityEngine.GameObject) | Speed | Rotation | 0
+Speedometer (UnityEngine.GameObject) | Speed | Velocity | 0
+DriveTrigger (UnityEngine.GameObject) | PlayerTrigger | Distance | 0
+DriveTrigger (UnityEngine.GameObject) | PlayerTrigger | MinimumRequiredVelocity | 0.15
+DriveTrigger (UnityEngine.GameObject) | PlayerTrigger | Speed | 0
+DriveTrigger (UnityEngine.GameObject) | PlayerTrigger | VeloX | 0
+DriveTrigger (UnityEngine.GameObject) | PlayerTrigger | VeloY | 0
+DriveTrigger (UnityEngine.GameObject) | PlayerTrigger | VeloZ | 0
+TriggerOut (UnityEngine.GameObject) | Trigger | Distance | 0
+TriggerIn (UnityEngine.GameObject) | Trigger | Distance | 0
+Seat_Rear (UnityEngine.GameObject) | Data | Time | 0
+4 (UnityEngine.GameObject) | LOD | Distance | 1709.934
+4 (UnityEngine.GameObject) | LOD | LOD | 500
+Starter (UnityEngine.GameObject) | Data | Time | 0
+Sleep (UnityEngine.GameObject) | Activate | FadeTime | 4
+Sleep (UnityEngine.GameObject) | Activate | GameVolume | 0
+Sleep (UnityEngine.GameObject) | Activate | Rate | 0
+Piston1 (UnityEngine.GameObject) | Data | Time | 0
+RearIK_2 (UnityEngine.GameObject) | CalculateAngle | Tire1pos | -0.115219
+RearIK_2 (UnityEngine.GameObject) | CalculateAngle | Tire2pos | -0.116376
+RearIK_2 (UnityEngine.GameObject) | CalculateAngle | TireAngle | -0.03682793
+RearIK_2 (UnityEngine.GameObject) | CalculateAngle | Travel | 0.001156986
+RearIK_2 (UnityEngine.GameObject) | CalculateAngle | Wheelbase | 1.800003
+RadioVolume (UnityEngine.GameObject) | Knob | Rot | 0
+RadioVolume (UnityEngine.GameObject) | Knob | Scroll | 0
+RadioVolume (UnityEngine.GameObject) | Knob | Tune | 0.091
+RadioVolume (UnityEngine.GameObject) | Knob | Volume | 0
+ShitLevelTrigger (UnityEngine.GameObject) | Level | ShitLevel | 2.418638
+ShitLevelTrigger (UnityEngine.GameObject) | Level | ShitRate | 0.006232386
+ShitLevelTrigger (UnityEngine.GameObject) | Level | Tolerance | 0.5
+Simulation (UnityEngine.GameObject) | Time | CoolingSauna | 0.08
+Simulation (UnityEngine.GameObject) | Time | CoolingStove | 0.02
+Simulation (UnityEngine.GameObject) | Time | MaxSaunaHeat | 0
+Simulation (UnityEngine.GameObject) | Time | SaunaHeat | 24
+Simulation (UnityEngine.GameObject) | Time | StoveHeat | 24
+Racing Exhaust (UnityEngine.GameObject) | Data | Time | 0
+Transmission (UnityEngine.GameObject) | Transmission | FinalGear | 4.625
+Transmission (UnityEngine.GameObject) | Transmission | Fluid | 0.5
+Transmission (UnityEngine.GameObject) | Transmission | Rate | 0
+Transmission (UnityEngine.GameObject) | Transmission | Tightness | 16
+Transmission (UnityEngine.GameObject) | Transmission | Wear | 0
+Transmission (UnityEngine.GameObject) | Gear Linkage | Random | 0
+Transmission (UnityEngine.GameObject) | Gear Linkage | Rate | 0
+Transmission (UnityEngine.GameObject) | Gear Linkage | Tightness | 48
+Transmission (UnityEngine.GameObject) | Gear Linkage | Tightness1 | 24
+Transmission (UnityEngine.GameObject) | Gear Linkage | Tightness2 | 24
+RadioTuner (UnityEngine.GameObject) | Knob | Rot | 890.0003
+RadioTuner (UnityEngine.GameObject) | Knob | Scroll | 0
+RadioTuner (UnityEngine.GameObject) | Knob | Tune | 0.08900003
+InspectionProcess (UnityEngine.GameObject) | Inspect | Value | 0
+InspectionProcess (UnityEngine.GameObject) | Inspect | Value2 | 0
+ShitLevelTrigger (UnityEngine.GameObject) | Level | ShitLevel | 2.537134
+ShitLevelTrigger (UnityEngine.GameObject) | Level | ShitRate | 0.003046296
+ShitLevelTrigger (UnityEngine.GameObject) | Level | Tolerance | 0.5
+Pivot (UnityEngine.GameObject) | Scale | Scale | 0.1186642
+Fender_Left (UnityEngine.GameObject) | Data | Time | 0
+HouseShit1 (UnityEngine.GameObject) | LOD | Distance | 2039.717
+HouseShit1 (UnityEngine.GameObject) | LOD | LOD | 400
+Gear (UnityEngine.GameObject) | Use | Distance | 0
+LogTrigger (UnityEngine.GameObject) | Logic | Firewood | 0
+LogTrigger (UnityEngine.GameObject) | Logic | Logs | 0
+LogTrigger (UnityEngine.GameObject) | Logic | Mass | 500
+LogTrigger (UnityEngine.GameObject) | Logic | Price | 0
+LogTrigger (UnityEngine.GameObject) | Logic | Scale | 0
+LogTrigger (UnityEngine.GameObject) | Logic | ScalePile | 0
+ClockCar (UnityEngine.GameObject) | Time | Hours24X | -0.1
+ClockCar (UnityEngine.GameObject) | Time | Minutes24X | -1.2
+Sleep (UnityEngine.GameObject) | Activate | FadeTime | 4
+Sleep (UnityEngine.GameObject) | Activate | GameVolume | 0
+Sleep (UnityEngine.GameObject) | Activate | Rate | 0
+Airfilter (UnityEngine.GameObject) | Data | Time | 0
+PlayerShitTrigger (UnityEngine.GameObject) | Death | Distance | 0
+KnockOut (UnityEngine.GameObject) | Activate | GameVolume | 0
+KnockOut (UnityEngine.GameObject) | Activate | PassingOutTime | 0
+KnockOut (UnityEngine.GameObject) | Activate | Rate | 0
+KnockOut (UnityEngine.GameObject) | Activate | X | -90
+YARD (UnityEngine.GameObject) | LOD | Distance | 23.98428
+YARD (UnityEngine.GameObject) | LOD | LOD | 200
+Air Pressure (UnityEngine.GameObject) | Pressure | Pressure | 870
+Air Pressure (UnityEngine.GameObject) | Pressure | Rotation | -238.3562
+TriggerOut (UnityEngine.GameObject) | Trigger | Distance | 0
+WheelSteelRL (UnityEngine.GameObject) | Data | SettingRimRadius | 0.165
+WheelSteelRL (UnityEngine.GameObject) | Data | SettingTireRadius | 0.2715
+WheelSteelRL (UnityEngine.GameObject) | Data | SettingTireWidth | 0.145
+Ticket (UnityEngine.GameObject) | Button | Price | 25
+PassOut (UnityEngine.GameObject) | Activate | Distance | 0
+PassOut (UnityEngine.GameObject) | Activate | GameVolume | 0
+PassOut (UnityEngine.GameObject) | Activate | PassingOutTime | 0
+PassOut (UnityEngine.GameObject) | Activate | Rate | 0
+PassOut (UnityEngine.GameObject) | Activate | X | -90
+Seat_Driver (UnityEngine.GameObject) | Data | Time | 0
+MuscleHandles (UnityEngine.GameObject) | Use | Rot | 0
+Handles (UnityEngine.GameObject) | Use | OldRot | 0
+Handles (UnityEngine.GameObject) | Use | Rot | 0
+Handles (UnityEngine.GameObject) | Use | Rotation | 0
+TurnSignals (UnityEngine.GameObject) | Usage | Delay | 0.3
+TurnSignals (UnityEngine.GameObject) | Usage | Volume | 0
+TurnSignals (UnityEngine.GameObject) | Usage | WheelAngle | 0
+Odometer (UnityEngine.GameObject) | Data | KmRot | -227.9466
+Odometer (UnityEngine.GameObject) | Data | Meters | 7000
+Odometer (UnityEngine.GameObject) | Data | MpS | 0
+Odometer (UnityEngine.GameObject) | Data | Odo | 6331.848
+Odometer (UnityEngine.GameObject) | Data | Rotation | -36
+Water (UnityEngine.GameObject) | Level | Level | 0
+Water (UnityEngine.GameObject) | Level | Scale | 1
+Water (UnityEngine.GameObject) | Level | Water | 0
+JunkYardJob (UnityEngine.GameObject) | Distance | CheckDistance | 50
+JunkYardJob (UnityEngine.GameObject) | Distance | Distance | 0
+Water (UnityEngine.GameObject) | Level | Level | 0
+Water (UnityEngine.GameObject) | Level | Scale | 1
+Water (UnityEngine.GameObject) | Level | Water | 0
+Parking Brake (UnityEngine.GameObject) | Add Joint | MinimumRequiredVelocity | 0.08
+Parking Brake (UnityEngine.GameObject) | Add Joint | VeloX | 0.002696573
+Parking Brake (UnityEngine.GameObject) | Add Joint | VeloY | -0.007881435
+Parking Brake (UnityEngine.GameObject) | Add Joint | VeloZ | 0.003096673
+Parking Brake (UnityEngine.GameObject) | Brake | BrakePressure | 1
+ClutchPlate (UnityEngine.GameObject) | Data | Time | 0
+TriggerIn (UnityEngine.GameObject) | Trigger | Distance | 0
+lantern(itemx) (UnityEngine.GameObject) | Use | Intensity | 0
+PlayerTrigger (UnityEngine.GameObject) | PlayerTrigger | Distance | 0
+SteeringRod_FR (UnityEngine.GameObject) | Data | Alignment | 0
+WoodTrigger (UnityEngine.GameObject) | Trigger | Wood | 0
+Starter (UnityEngine.GameObject) | Starter | FuelLevel | 0
+Starter (UnityEngine.GameObject) | Starter | RPM | 0
+GaugeRPM (UnityEngine.GameObject) | Data | Time | 0
+Navigation (UnityEngine.GameObject) | Raycast | Distance | 0
+Navigation (UnityEngine.GameObject) | Raycast | Lane | 2
+Navigation (UnityEngine.GameObject) | Raycast | LaneOther | 0
+Navigation (UnityEngine.GameObject) | Raycast | RaycastDistance | 400
+Navigation (UnityEngine.GameObject) | Raycast | Speed | 0
+Navigation (UnityEngine.GameObject) | Passing | Aggression | 50.32354
+Navigation (UnityEngine.GameObject) | Passing | Difference | 0
+Navigation (UnityEngine.GameObject) | Passing | Distance | 0
+Navigation (UnityEngine.GameObject) | Passing | LaneDrive | 2
+Navigation (UnityEngine.GameObject) | Passing | LanePassing | -2
+Navigation (UnityEngine.GameObject) | Passing | Math | 6.70138
+Navigation (UnityEngine.GameObject) | Passing | PassMultiplier | 1.5
+Navigation (UnityEngine.GameObject) | Passing | ReturnLane | 2
+Navigation (UnityEngine.GameObject) | Passing | SpeedHigh | 60
+Navigation (UnityEngine.GameObject) | Passing | SpeedLow | 50
+Navigation (UnityEngine.GameObject) | Passing | SpeedMax | 65.52134
+Navigation (UnityEngine.GameObject) | Passing | SpeedMin | 58.81996
+Navigation (UnityEngine.GameObject) | Passing | SpeedOther | 0
+Navigation (UnityEngine.GameObject) | Passing | SpeedThis | 0
+Navigation (UnityEngine.GameObject) | Passing | Steer | 0
+Navigation (UnityEngine.GameObject) | Brakezones | BrakeDistance | 12
+Navigation (UnityEngine.GameObject) | Brakezones | Distance | 0
+Navigation (UnityEngine.GameObject) | Brakezones | Distance0 | 196.6047
+Navigation (UnityEngine.GameObject) | Brakezones | Distance1 | 150.7121
+Navigation (UnityEngine.GameObject) | Brakezones | Distance2 | 251.5605
+Navigation (UnityEngine.GameObject) | Brakezones | Distance3 | 189.774
+Navigation (UnityEngine.GameObject) | Brakezones | Distance4 | 425.3555
+Navigation (UnityEngine.GameObject) | Brakezones | Distance5 | 2183.949
+WheelRallyRR (UnityEngine.GameObject) | Data | SettingRimRadius | 0.175
+WheelRallyRR (UnityEngine.GameObject) | Data | SettingTireRadius | 0.2875
+WheelRallyRR (UnityEngine.GameObject) | Data | SettingTireWidth | 0.163
+WheelHayosikoRL (UnityEngine.GameObject) | Data | SettingRimRadius | 0.175
+WheelHayosikoRL (UnityEngine.GameObject) | Data | SettingTireRadius | 0
+WheelHayosikoRL (UnityEngine.GameObject) | Data | SettingTireWidth | 0
+BoltPM (UnityEngine.GameObject) | Screw | Alignment | 7.5
+BoltPM (UnityEngine.GameObject) | Screw | Max | 12
+BoltPM (UnityEngine.GameObject) | Screw | Min | 1
+CHURCH (UnityEngine.GameObject) | LOD | Distance | 1805.618
+CHURCH (UnityEngine.GameObject) | LOD | LOD | 200
+WheelRallyFL (UnityEngine.GameObject) | Data | SettingRimRadius | 0.175
+WheelRallyFL (UnityEngine.GameObject) | Data | SettingTireRadius | 0.2875
+WheelRallyFL (UnityEngine.GameObject) | Data | SettingTireWidth | 0.163
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+Flares_RL (UnityEngine.GameObject) | Data | Time | 0
+WheelSteelFR (UnityEngine.GameObject) | Data | SettingRimRadius | 0.165
+WheelSteelFR (UnityEngine.GameObject) | Data | SettingTireRadius | 0.2715
+WheelSteelFR (UnityEngine.GameObject) | Data | SettingTireWidth | 0.145
+ShitLevelTrigger (UnityEngine.GameObject) | Level | ShitLevel | 1.344425
+ShitLevelTrigger (UnityEngine.GameObject) | Level | ShitRate | 0.005739856
+ShitLevelTrigger (UnityEngine.GameObject) | Level | Tolerance | 0.5
+LookTarget (UnityEngine.GameObject) | Move | Z | 0.06251417
+STATUSD (UnityEngine.GameObject) | LOD | Distance | 1765.36
+STATUSD (UnityEngine.GameObject) | LOD | LOD | 300
+STATUSD (UnityEngine.GameObject) | Throttle | Brake | 0
+STATUSD (UnityEngine.GameObject) | Throttle | CrashSpeed | 0
+STATUSD (UnityEngine.GameObject) | Throttle | DeathSpeedMPS | 5
+STATUSD (UnityEngine.GameObject) | Throttle | RPM | 0
+STATUSD (UnityEngine.GameObject) | Throttle | RandomThrottle | 0.8713304
+STATUSD (UnityEngine.GameObject) | Throttle | SpeedCurrent | 65.19795
+STATUSD (UnityEngine.GameObject) | Throttle | SpeedMax | 65.52134
+STATUSD (UnityEngine.GameObject) | Throttle | SpeedMin | 58.81996
+STATUSD (UnityEngine.GameObject) | Throttle | TargetSpeed | 0
+STATUSD (UnityEngine.GameObject) | Throttle | ThrottleAccel | 0.85
+STATUSD (UnityEngine.GameObject) | Throttle | ThrottleCruise | 0.1
+STATUSD (UnityEngine.GameObject) | Throttle | Velo | 0
+STATUSD (UnityEngine.GameObject) | Throttle | Wait | 0.9797903
+STATUSD (UnityEngine.GameObject) | Steering | Angle | -1.990996
+STATUSD (UnityEngine.GameObject) | Steering | Angle2 | -0.09856143
+STATUSD (UnityEngine.GameObject) | Steering | Lane | 2
+STATUSD (UnityEngine.GameObject) | Steering | SpeedKMH | 65.19795
+Cooling (UnityEngine.GameObject) | Cooling | Charge | 127
+Cooling (UnityEngine.GameObject) | Cooling | Cooling | 0
+Cooling (UnityEngine.GameObject) | Cooling | Heat | 0
+Cooling (UnityEngine.GameObject) | Cooling | HeatGeneration | 10000
+Cooling (UnityEngine.GameObject) | Cooling | Math1 | 168
+Cooling (UnityEngine.GameObject) | Cooling | Temp | 24
+Cooling (UnityEngine.GameObject) | Cooling | WaterCoolEfficiency | 0
+Cooling (UnityEngine.GameObject) | Cooling | WaterLevel | 7
+Cooling (UnityEngine.GameObject) | Cooling | WaterPressureDivider | 57.1
+Cooling (UnityEngine.GameObject) | Cooling | WaterPressureLimit | 16
+Cooling (UnityEngine.GameObject) | Cooling | WaterPressurePSI | 0
+BoltPM (UnityEngine.GameObject) | Screw | Alignment | 7.5
+BoltPM (UnityEngine.GameObject) | Screw | Max | 12
+BoltPM (UnityEngine.GameObject) | Screw | Min | 1
+FromEngine (UnityEngine.GameObject) | ExhaustSound | Emission | 0
+FromEngine (UnityEngine.GameObject) | ExhaustSound | RPM | 0
+FromEngine (UnityEngine.GameObject) | ExhaustSound | RPM2 | 0
+FromEngine (UnityEngine.GameObject) | ExhaustSound | Throttle | 0
+FromEngine (UnityEngine.GameObject) | ExhaustSound | Velocity | 0
+Sleep (UnityEngine.GameObject) | Activate | FadeTime | 4
+Sleep (UnityEngine.GameObject) | Activate | GameVolume | 0
+Sleep (UnityEngine.GameObject) | Activate | Rate | 0
+opener (UnityEngine.GameObject) | Knob | Knob | 0
+opener (UnityEngine.GameObject) | Knob | Rot | 0
+opener (UnityEngine.GameObject) | Knob | Scroll | 0
+opener (UnityEngine.GameObject) | Knob | X | 0
+opener (UnityEngine.GameObject) | Knob | Y | 0
+STORE (UnityEngine.GameObject) | LOD | Distance | 1939.338
+STORE (UnityEngine.GameObject) | LOD | LOD | 400
+Trigger (UnityEngine.GameObject) | Use | Y | 0.04
+DriveTrigger (UnityEngine.GameObject) | PlayerTrigger | MinimumRequiredVelocity | 0.15
+DriveTrigger (UnityEngine.GameObject) | PlayerTrigger | VeloX | 0
+DriveTrigger (UnityEngine.GameObject) | PlayerTrigger | VeloY | 0
+DriveTrigger (UnityEngine.GameObject) | PlayerTrigger | VeloZ | 0
+Twin Carburators (UnityEngine.GameObject) | Data | IdleAdjust | 14.1
+Twin Carburators (UnityEngine.GameObject) | Data | Max | 18
+Twin Carburators (UnityEngine.GameObject) | Data | Min | 13
+Flares_RR (UnityEngine.GameObject) | Data | Time | 0
+Drivegear (UnityEngine.GameObject) | Data | Time | 0
+DRAGRACE (UnityEngine.GameObject) | LOD | Distance | 1285.344
+DRAGRACE (UnityEngine.GameObject) | LOD | LOD | 700
+HeadPivot (UnityEngine.GameObject) | Look | Rot | 295.3667
+SoundAmbience (UnityEngine.GameObject) | DayNight | FadeTime | 8
+SoundAmbience (UnityEngine.GameObject) | DayNight | MaxVolume | 1
+Hoist (UnityEngine.GameObject) | Hook | BreakForce | 62000
+Hoist (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+Hoist (UnityEngine.GameObject) | BoltCheck | BoltedYES | 10
+Hoist (UnityEngine.GameObject) | BoltCheck | Tightness | 0
+BusStopKesseli (UnityEngine.GameObject) | Stopping | Distance | 2124.197
+gasoline(itemx) (UnityEngine.GameObject) | Explosion | Fuel | 0
+gasoline(itemx) (UnityEngine.GameObject) | Explosion | Math | 0
+CamshaftGear (UnityEngine.GameObject) | Data | Time | 0
+WheelSpokeFL (UnityEngine.GameObject) | Data | SettingRimRadius | 0.175
+WheelSpokeFL (UnityEngine.GameObject) | Data | SettingTireRadius | 0
+WheelSpokeFL (UnityEngine.GameObject) | Data | SettingTireWidth | 0
+RPM (UnityEngine.GameObject) | RPM | RPM | 0
+RPM (UnityEngine.GameObject) | RPM | Rotation | 0
+Hubcap_RR (UnityEngine.GameObject) | Data | Time | 0
+Sparkplug3 (UnityEngine.GameObject) | Data | Time | 0
+Starter (UnityEngine.GameObject) | Starter | Charge | 0
+Starter (UnityEngine.GameObject) | Starter | StarterPitch | 0
+VanHandles (UnityEngine.GameObject) | Use | OldRot | 0
+VanHandles (UnityEngine.GameObject) | Use | Rot | 0
+VanHandles (UnityEngine.GameObject) | Use | Rotation | 0
+Bucket Seat Passenger (UnityEngine.GameObject) | Data | Time | 0
+trigger_xmas_lights (UnityEngine.GameObject) | Assembly | Distance | 40.58152
+Gears (UnityEngine.GameObject) | Data | FinalGear | 4.625
+HouseShit5 (UnityEngine.GameObject) | LOD | Distance | 1695.86
+HouseShit5 (UnityEngine.GameObject) | LOD | LOD | 200
+BoozeJob (UnityEngine.GameObject) | Job | CallChance | 0.8100001
+BoozeJob (UnityEngine.GameObject) | Job | CallChanceNot | 1
+BoozeJob (UnityEngine.GameObject) | Job | SpawnerPos | 0
+BoozeJob (UnityEngine.GameObject) | Job | SpawnerRot | 0
+Cylinderhead (UnityEngine.GameObject) | Data | Time | 0
+RadioTuner (UnityEngine.GameObject) | Knob | Rot | 729.9993
+RadioTuner (UnityEngine.GameObject) | Knob | Scroll | 0
+RadioTuner (UnityEngine.GameObject) | Knob | Tune | 0.07299992
+doorr (UnityEngine.GameObject) | Use | OldRot | 0
+doorr (UnityEngine.GameObject) | Use | Rot | 0
+doorr (UnityEngine.GameObject) | Use | Rotation | 0
+ButtonTime (UnityEngine.GameObject) | Screw | Math1 | 720
+ButtonTime (UnityEngine.GameObject) | Screw | ScrewAmount | 10
+ButtonTime (UnityEngine.GameObject) | Screw | Scroll | 0
+ButtonTime (UnityEngine.GameObject) | Screw | Timer | 120
+Cooling (UnityEngine.GameObject) | Cooling | Cooling | 0
+Cooling (UnityEngine.GameObject) | Cooling | EngineTemp | 25
+Cooling (UnityEngine.GameObject) | Cooling | Heat | 0
+Cooling (UnityEngine.GameObject) | Cooling | HeatGeneration | 2000
+Cooling (UnityEngine.GameObject) | Cooling | RPM | 0
+Cooling (UnityEngine.GameObject) | Cooling | Speed | 6.283214E-09
+Cooling (UnityEngine.GameObject) | Cooling | WaterLevel | 11
+PlayerShitTrigger (UnityEngine.GameObject) | Death | Distance | 0
+Sparkplug4 (UnityEngine.GameObject) | Data | Time | 0
+Bootlid (UnityEngine.GameObject) | Use | RayDistance | 1.5
+Bootlid (UnityEngine.GameObject) | Use | Rotation | 0
+Stock_back_panel (UnityEngine.GameObject) | Data | Time | 0
+Piston4 (UnityEngine.GameObject) | Data | Time | 0
+WheelSpokeFR (UnityEngine.GameObject) | Data | SettingRimRadius | 0.175
+WheelSpokeFR (UnityEngine.GameObject) | Data | SettingTireRadius | 0
+WheelSpokeFR (UnityEngine.GameObject) | Data | SettingTireWidth | 0
+Grille (UnityEngine.GameObject) | Data | Time | 0
+RearIK_2 (UnityEngine.GameObject) | CalculateAngle | Tire1pos | -0.1295
+RearIK_2 (UnityEngine.GameObject) | CalculateAngle | Tire2pos | -0.1306179
+RearIK_2 (UnityEngine.GameObject) | CalculateAngle | TireAngle | -0.03558338
+RearIK_2 (UnityEngine.GameObject) | CalculateAngle | Travel | 0.001117885
+RearIK_2 (UnityEngine.GameObject) | CalculateAngle | Wheelbase | 1.8
+FuelTank (UnityEngine.GameObject) | Data | FuelLevel | 258.4379
+WhistleTrigger (UnityEngine.GameObject) | Raycast | Distance | 0
+WhistleTrigger (UnityEngine.GameObject) | Raycast | Lane | 0
+WhistleTrigger (UnityEngine.GameObject) | Raycast | LaneOther | 0
+WhistleTrigger (UnityEngine.GameObject) | Raycast | RaycastDistance | 150
+WhistleTrigger (UnityEngine.GameObject) | Raycast | Speed | 0
+RearIK (UnityEngine.GameObject) | CalculateAngle | Tire1pos | -0.1242102
+RearIK (UnityEngine.GameObject) | CalculateAngle | Tire2pos | -0.1164993
+RearIK (UnityEngine.GameObject) | CalculateAngle | TireAngle | 0.2454433
+RearIK (UnityEngine.GameObject) | CalculateAngle | Travel | -0.007710874
+RearIK (UnityEngine.GameObject) | CalculateAngle | Wheelbase | 1.8
+WheelHayosikoFR (UnityEngine.GameObject) | Data | SettingRimRadius | 0.175
+WheelHayosikoFR (UnityEngine.GameObject) | Data | SettingTireRadius | 0
+WheelHayosikoFR (UnityEngine.GameObject) | Data | SettingTireWidth | 0
+Rear_spoiler2 (UnityEngine.GameObject) | Data | Time | 0
+OrderList (UnityEngine.GameObject) | Data | PriceTotal | 0
+OrderList (UnityEngine.GameObject) | Data | TimeArrival | 0
+OrderList (UnityEngine.GameObject) | Data | TimeCurrent | 0
+ClutchCoverplate (UnityEngine.GameObject) | Data | Time | 0
+ButtonWipers (UnityEngine.GameObject) | Function | Delay | 3
+BoltPM (UnityEngine.GameObject) | Screw | Alignment | 8
+BoltPM (UnityEngine.GameObject) | Screw | Max | 12
+BoltPM (UnityEngine.GameObject) | Screw | Min | 1
+Fender_Right (UnityEngine.GameObject) | Data | Time | 0
+Results (UnityEngine.GameObject) | Data | DriverTime | 0
+Results (UnityEngine.GameObject) | Data | OpponenMinTime | 340
+Results (UnityEngine.GameObject) | Data | PlayerRecord | 3540
+Results (UnityEngine.GameObject) | Data | PlayerTime | 0
+Results (UnityEngine.GameObject) | Data | Record | 0
+Results (UnityEngine.GameObject) | Data | Top3Times | 0
+GIFU(750/450psi) (UnityEngine.GameObject) | LOD | Distance | 9.200377
+GIFU(750/450psi) (UnityEngine.GameObject) | LOD | LOD | 200
+GIFU(750/450psi) (UnityEngine.GameObject) | LOD | Y | -0.432422
+Racing Radiator (UnityEngine.GameObject) | Data | Water | 7
+PlayerShitTrigger (UnityEngine.GameObject) | Death | Distance | 0
+Engineplate (UnityEngine.GameObject) | Data | Time | 0
+Steering (UnityEngine.GameObject) | SteeringFL | Alignment | 0
+Steering (UnityEngine.GameObject) | SteeringFR | Alignment | 0
+FuelTank (UnityEngine.GameObject) | Data | FluidCoolant | 0
+FuelTank (UnityEngine.GameObject) | Data | FluidDiesel | 0
+FuelTank (UnityEngine.GameObject) | Data | FluidGasoline | 0
+FuelTank (UnityEngine.GameObject) | Data | FluidOil | 0
+FuelTank (UnityEngine.GameObject) | Data | FluidUrine | 0
+FuelTank (UnityEngine.GameObject) | Data | FuelLevel | 32.98288
+FuelTank (UnityEngine.GameObject) | Data | Mass | 36.98288
+FuelTank (UnityEngine.GameObject) | Data | MaxCapacity | 36
+LookTarget (UnityEngine.GameObject) | Move | Axis | -3.137814
+LookTarget (UnityEngine.GameObject) | Move | Distance | 1597.715
+Redlining (UnityEngine.GameObject) | RedLining | Bearing1 | 16
+Redlining (UnityEngine.GameObject) | RedLining | CrankTightness | 10500
+Redlining (UnityEngine.GameObject) | RedLining | Delay | 0
+Redlining (UnityEngine.GameObject) | RedLining | EngineFriction | 3
+Redlining (UnityEngine.GameObject) | RedLining | RealRPM | 0
+DriveTrigger (UnityEngine.GameObject) | PlayerTrigger | MinimumRequiredVelocity | 0.15
+DriveTrigger (UnityEngine.GameObject) | PlayerTrigger | VeloX | 0
+DriveTrigger (UnityEngine.GameObject) | PlayerTrigger | VeloY | 0
+DriveTrigger (UnityEngine.GameObject) | PlayerTrigger | VeloZ | 0
+Temp (UnityEngine.GameObject) | Temp | Level | 0
+Temp (UnityEngine.GameObject) | Temp | Rotation | -11.064
+Crankwheel (UnityEngine.GameObject) | Data | Time | 0
+Driveshaft (UnityEngine.GameObject) | Rotate | Turn | 0
+FLATBED (UnityEngine.GameObject) | LOD | Distance | 13.96182
+FLATBED (UnityEngine.GameObject) | LOD | LOD | 200
+diesel(itemx) (UnityEngine.GameObject) | Explosion | Fuel | 0
+diesel(itemx) (UnityEngine.GameObject) | Explosion | Math | 0
+doorr (UnityEngine.GameObject) | Use | OldRot | 0
+doorr (UnityEngine.GameObject) | Use | Rot | 0
+doorr (UnityEngine.GameObject) | Use | Rotation | 0
+Steel Headers (UnityEngine.GameObject) | Data | Time | 0
+HouseShit4 (UnityEngine.GameObject) | LOD | Distance | 1679.291
+HouseShit4 (UnityEngine.GameObject) | LOD | LOD | 300
+OpenCap (UnityEngine.GameObject) | Screw | Rot | 359
+OpenCap (UnityEngine.GameObject) | Screw | ScrewAmount | 33
+OpenCap (UnityEngine.GameObject) | Screw | Scroll | 0
+Simulation (UnityEngine.GameObject) | Time | CoolingSauna | 0.08
+Simulation (UnityEngine.GameObject) | Time | CoolingStove | 0.02
+Simulation (UnityEngine.GameObject) | Time | KnobRotation | 119.5333
+Simulation (UnityEngine.GameObject) | Time | MaxHeat | 0.5
+Simulation (UnityEngine.GameObject) | Time | MaxSaunaHeat | 113.3333
+Simulation (UnityEngine.GameObject) | Time | Power | 0.34
+Simulation (UnityEngine.GameObject) | Time | SaunaHeat | 113.3333
+Simulation (UnityEngine.GameObject) | Time | StoveHeat | 680
+Simulation (UnityEngine.GameObject) | Time | Time | 717.1998
+wheelFR (UnityEngine.GameObject) | SetGrip | GripForward | 1.15
+wheelFR (UnityEngine.GameObject) | SetGrip | GripSideways | 1.15
+wheelFR (UnityEngine.GameObject) | Data | GripForward | 1.15
+wheelFR (UnityEngine.GameObject) | Data | GripSideways | 1.15
+Speaker (UnityEngine.GameObject) | Settings | DistortionLevel | 0.5
+Speaker (UnityEngine.GameObject) | Settings | Volume | 1
+REPAIRSHOP (UnityEngine.GameObject) | LOD | Distance | 1702.063
+REPAIRSHOP (UnityEngine.GameObject) | LOD | LOD | 400
+Suspension (UnityEngine.GameObject) | Suspension | FrontBump | 1000
+Suspension (UnityEngine.GameObject) | Suspension | FrontRate | 16000
+Suspension (UnityEngine.GameObject) | Suspension | FrontRebound | 1000
+Suspension (UnityEngine.GameObject) | Suspension | RearBump | 1000
+Suspension (UnityEngine.GameObject) | Suspension | RearRate | 16000
+Suspension (UnityEngine.GameObject) | Suspension | RearRebound | 1000
+Suspension (UnityEngine.GameObject) | Suspension | TightStrutFL | 5700000
+Suspension (UnityEngine.GameObject) | Suspension | TightStrutFR | 5700000
+Suspension (UnityEngine.GameObject) | Suspension | TightTrailArmRL | 1.9E+07
+Suspension (UnityEngine.GameObject) | Suspension | TightTrailArmRR | 1.9E+07
+Bucket Seat Driver (UnityEngine.GameObject) | Data | Time | 0
+Channel1 (UnityEngine.GameObject) | Update | Volume | 0
+CD_player (UnityEngine.GameObject) | Data | Time | 0
+OpenCap (UnityEngine.GameObject) | Screw | Rot | 359
+OpenCap (UnityEngine.GameObject) | Screw | ScrewAmount | 33
+OpenCap (UnityEngine.GameObject) | Screw | Scroll | 0
+Starter (UnityEngine.GameObject) | Use | Distance | 0
+ClutchPressureplate (UnityEngine.GameObject) | Data | Time | 0
+throttle linkage(xxxxx) (UnityEngine.GameObject) | Screw | Throttle | 0
+WheelRacingFL (UnityEngine.GameObject) | Data | SettingRimRadius | 0.175
+WheelRacingFL (UnityEngine.GameObject) | Data | SettingTireRadius | 0
+WheelRacingFL (UnityEngine.GameObject) | Data | SettingTireWidth | 0
+SpeakerDash (UnityEngine.GameObject) | Settings | DistortionLevel | 0.5
+SpeakerDash (UnityEngine.GameObject) | Settings | Volume | 1
+Folk (UnityEngine.GameObject) | Update | Volume | 0
+WheelSpokeRL (UnityEngine.GameObject) | Data | SettingRimRadius | 0.175
+WheelSpokeRL (UnityEngine.GameObject) | Data | SettingTireRadius | 0
+WheelSpokeRL (UnityEngine.GameObject) | Data | SettingTireWidth | 0
+Water (UnityEngine.GameObject) | Level | Level | 0.3448276
+Water (UnityEngine.GameObject) | Level | Scale | 1
+Water (UnityEngine.GameObject) | Level | Water | 30
+Speaker (UnityEngine.GameObject) | Settings | DistortionLevel | 0.5
+Speaker (UnityEngine.GameObject) | Settings | Volume | 1
+Clock (UnityEngine.GameObject) | Time | Hours24X | -0.1
+Clock (UnityEngine.GameObject) | Time | Minutes24X | -1.2
+Valvecover (UnityEngine.GameObject) | Data | Time | 0
+BrakeMasterCylinder (UnityEngine.GameObject) | Data | BrakeFluidF | 0.8668795
+BrakeMasterCylinder (UnityEngine.GameObject) | Data | BrakeFluidR | 0.8668795
+FluidTrigger (UnityEngine.GameObject) | Data | Fluid | 0
+FluidTrigger (UnityEngine.GameObject) | Data | Mass | 3
+FluidTrigger (UnityEngine.GameObject) | Data | X | 270
+Starter (UnityEngine.GameObject) | Use | DashVolume | 0
+Starter (UnityEngine.GameObject) | Use | MouseDelay | 0.4
+Hydraulics (UnityEngine.GameObject) | Use | TruckRPM | 0
+Hydraulics (UnityEngine.GameObject) | Pump | TruckRPM | 0
+Hydraulics (UnityEngine.GameObject) | Pump | Waste | 0
+ParticleSim (UnityEngine.GameObject) | Logic | Distance | 0
+ParticleSim (UnityEngine.GameObject) | Logic | MaxEnergy | -4.991713E-09
+ParticleSim (UnityEngine.GameObject) | Logic | Thrust | 0
+ShutOff (UnityEngine.GameObject) | Use | Distance | 0
+InitializeControls (UnityEngine.GameObject) | Setup | DZBrake | 0.01
+InitializeControls (UnityEngine.GameObject) | Setup | DZClutch | 0.01
+InitializeControls (UnityEngine.GameObject) | Setup | DZHandbrake | -99
+InitializeControls (UnityEngine.GameObject) | Setup | DZHorizontal | 0.01
+InitializeControls (UnityEngine.GameObject) | Setup | DZThrottle | 0.01
+InitializeControls (UnityEngine.GameObject) | Setup | DZVertical | 0.01
+pedal_clutch (UnityEngine.GameObject) | FSM | Data | 0
+RadioTuner (UnityEngine.GameObject) | Knob | Rot | 500
+RadioTuner (UnityEngine.GameObject) | Knob | Scroll | 0
+RadioTuner (UnityEngine.GameObject) | Knob | Tune | 0.05
+DashboardMeters (UnityEngine.GameObject) | Data | Time | 0
+Piston2 (UnityEngine.GameObject) | Data | Time | 0
+PlayerShitTrigger (UnityEngine.GameObject) | Death | Distance | 0
+Hubcap_RL (UnityEngine.GameObject) | Data | Time | 0
+Trigger (UnityEngine.GameObject) | Use | Y | 0
+Airbrakes (UnityEngine.GameObject) | Air Pressure | Pressure | 870
+Airbrakes (UnityEngine.GameObject) | Air Pressure | RPM | 0
+Airbrakes (UnityEngine.GameObject) | Parking Brake | Brake | 0
+Airbrakes (UnityEngine.GameObject) | Parking Brake | BrakeRate | 2
+Airbrakes (UnityEngine.GameObject) | Parking Brake | Pressure | 0
+Airbrakes (UnityEngine.GameObject) | Parking Brake | Rate | 0
+Airbrakes (UnityEngine.GameObject) | ActivateBrake | Data | 0
+Airbrakes (UnityEngine.GameObject) | ActivateBrake | Pressure | 0
+HAYOSIKO(1500kg) (UnityEngine.GameObject) | LOD | Distance | 7.659529
+HAYOSIKO(1500kg) (UnityEngine.GameObject) | LOD | LOD | 200
+HAYOSIKO(1500kg) (UnityEngine.GameObject) | LOD | Y | -0.2735666
+Bumper_Front (UnityEngine.GameObject) | Data | Time | 0
+Pivot (UnityEngine.GameObject) | Scale | Scale | 0.06234563
+Automatic (UnityEngine.GameObject) | 3 speed | Brake | 0
+Automatic (UnityEngine.GameObject) | 3 speed | GearDOWN | 0
+Automatic (UnityEngine.GameObject) | 3 speed | RPM | 0
+Automatic (UnityEngine.GameObject) | 3 speed | RPMCurrent | 0
+Automatic (UnityEngine.GameObject) | 3 speed | ShiftMaxRPM | 4300
+Automatic (UnityEngine.GameObject) | 3 speed | ShiftMinRPM | 4000
+Automatic (UnityEngine.GameObject) | 3 speed | Throttle | 0
+Automatic (UnityEngine.GameObject) | 3 speed | UpShiftRPM | 0
+Alternator (UnityEngine.GameObject) | Data | Time | 0
+Fuel (UnityEngine.GameObject) | FuelLine | Consumption | 20000
+Fuel (UnityEngine.GameObject) | FuelLine | FuelLevel | 259.4379
+Fuel (UnityEngine.GameObject) | FuelLine | FuelUsage | 0
+Fuel (UnityEngine.GameObject) | FuelLine | RPM | 0
+Fuel (UnityEngine.GameObject) | FuelLine | RandomRPM | 0
+Fuel (UnityEngine.GameObject) | FuelLine | RandomTime | 0
+Fuel (UnityEngine.GameObject) | FuelLine | Throttle | 0.12
+Logic (UnityEngine.GameObject) | Logic | Distance | 3182.138
+Logic (UnityEngine.GameObject) | Logic | Wait | 723.925
+Logic (UnityEngine.GameObject) | Logic | Y | -5.027
+RadioTuner (UnityEngine.GameObject) | Knob | Rot | 910
+RadioTuner (UnityEngine.GameObject) | Knob | Scroll | 0
+RadioTuner (UnityEngine.GameObject) | Knob | Tune | 0.091
+Headers (UnityEngine.GameObject) | Data | Time | 0
+Choke (UnityEngine.GameObject) | Choke | ChokeLevel | 0
+Choke (UnityEngine.GameObject) | Choke | ChokeMultiplier | 1.8
+Choke (UnityEngine.GameObject) | Choke | Multiplier | 1
+Choke (UnityEngine.GameObject) | Use | Choke | 0
+Choke (UnityEngine.GameObject) | Use | KnobPos | 0
+Fuel (UnityEngine.GameObject) | Fuel | Level | 0
+Fuel (UnityEngine.GameObject) | Fuel | Rotation | 0
+Radio (UnityEngine.GameObject) | Data | Time | 0
+Subwoofer_panel (UnityEngine.GameObject) | Data | Time | 0
+TandemAxleSetup (UnityEngine.GameObject) | SetTravel | DrivePos | 0.48
+TandemAxleSetup (UnityEngine.GameObject) | SetTravel | DrivePosDown | 0.5
+TandemAxleSetup (UnityEngine.GameObject) | SetTravel | DrivePosUp | 0.48
+TandemAxleSetup (UnityEngine.GameObject) | SetTravel | TandemPos | 0.5
+TandemAxleSetup (UnityEngine.GameObject) | SetTravel | TandemPosDown | 0.46
+TandemAxleSetup (UnityEngine.GameObject) | SetTravel | TandemPosUp | 0.5
+TandemAxleSetup (UnityEngine.GameObject) | SetTravel | Time | 3
+TandemAxleSetup (UnityEngine.GameObject) | SetTravel | Travel | 0.03
+TandemAxleSetup (UnityEngine.GameObject) | SetTravel | TravelDown | 0.15
+TandemAxleSetup (UnityEngine.GameObject) | SetTravel | TravelUp | 0.03
+CrouchTrigger (UnityEngine.GameObject) | PlayerTrigger | Multiplier | 0
+CrouchTrigger (UnityEngine.GameObject) | PlayerTrigger | Temp | 0
+Distributor (UnityEngine.GameObject) | Data | Time | 0
+CameraPivot (UnityEngine.GameObject) | Strafe | X | 0
+log(Clone) (UnityEngine.GameObject) | Check joint | Money | 6
+Clock (UnityEngine.GameObject) | Time | Hours24X | -0.1
+Clock (UnityEngine.GameObject) | Time | Minutes24X | -1.2
+Flares_FR (UnityEngine.GameObject) | Data | Time | 0
+log(Clone) (UnityEngine.GameObject) | Check joint | Money | 6
+Bed (UnityEngine.GameObject) | Lift | HydraulicForce | 0
+Bed (UnityEngine.GameObject) | Lift | Rot | 0
+2 (UnityEngine.GameObject) | LOD | Distance | 1729.252
+2 (UnityEngine.GameObject) | LOD | LOD | 800
+Clock (UnityEngine.GameObject) | Time | Hours24X | -0.1
+Clock (UnityEngine.GameObject) | Time | Minutes24X | -1.2
+RockerShaft (UnityEngine.GameObject) | Data | Max | 8
+RockerShaft (UnityEngine.GameObject) | Data | Min | 4
+RockerShaft (UnityEngine.GameObject) | Data | cyl1exhaust | 7.5
+RockerShaft (UnityEngine.GameObject) | Data | cyl1intake | 8
+RockerShaft (UnityEngine.GameObject) | Data | cyl2exhaust | 7.5
+RockerShaft (UnityEngine.GameObject) | Data | cyl2intake | 8
+RockerShaft (UnityEngine.GameObject) | Data | cyl3exhaust | 7.5
+RockerShaft (UnityEngine.GameObject) | Data | cyl3intake | 8
+RockerShaft (UnityEngine.GameObject) | Data | cyl4exhaust | 7.5
+RockerShaft (UnityEngine.GameObject) | Data | cyl4intake | 8
+Route (UnityEngine.GameObject) | Start | Distance | 1902.895
+Route (UnityEngine.GameObject) | Start | Lane | 0
+TRAIN (UnityEngine.GameObject) | Move | Delay | 150
+TRAIN (UnityEngine.GameObject) | Whistle | Distance | 271.6012
+TRAIN (UnityEngine.GameObject) | TunnelAudio | East | 380.1398
+TRAIN (UnityEngine.GameObject) | TunnelAudio | West | 3287.134
+RadiatorHose2 (UnityEngine.GameObject) | Data | Time | 0
+doorear (UnityEngine.GameObject) | Use | RayDistance | 1.5
+doorear (UnityEngine.GameObject) | Use | Rotation | 0
+Paikallisradio (UnityEngine.GameObject) | Play | Wait | 602
+AirIntake (UnityEngine.GameObject) | InWater | Distance | 0
+AirIntake (UnityEngine.GameObject) | InWater | Pos | 0.1185697
+Piston3 (UnityEngine.GameObject) | Data | Time | 0
+Bumper_Rear (UnityEngine.GameObject) | Data | Time | 0
+pedal_throttle (UnityEngine.GameObject) | FSM | Data | 0
+Starter (UnityEngine.GameObject) | Starter | Fuel | 0
+Starter (UnityEngine.GameObject) | Starter | GlowPlugHeatSpeed | 3.6
+Starter (UnityEngine.GameObject) | Starter | PlugHeat | 0
+Starter (UnityEngine.GameObject) | Starter | StartTime | 0
+Starter (UnityEngine.GameObject) | Starter | TruckRPM | 0
+FuelTank (UnityEngine.GameObject) | Data | FuelLevel | 32.57723
+FuelTank (UnityEngine.GameObject) | Data | Mass | 0
+FuelTank (UnityEngine.GameObject) | Data | MaxCapacity | 65
+Fuel (UnityEngine.GameObject) | Fuel | Rotation | -59.45202
+Fuel (UnityEngine.GameObject) | Fuel | TruckFuel | 258.4379
+KEKMET(350-400psi) (UnityEngine.GameObject) | LOD | Distance | 11.46964
+KEKMET(350-400psi) (UnityEngine.GameObject) | LOD | LOD | 200
+KEKMET(350-400psi) (UnityEngine.GameObject) | LOD | Y | -0.1211001
+CanTrigger (UnityEngine.GameObject) | Logic | Bottles | 0
+CanTrigger (UnityEngine.GameObject) | Logic | Distance | 0
+CanTrigger (UnityEngine.GameObject) | Logic | KiljuAlc | 0
+CanTrigger (UnityEngine.GameObject) | Logic | KiljuValue | 0
+CanTrigger (UnityEngine.GameObject) | Logic | KiljuVinegar | 0
+CanTrigger (UnityEngine.GameObject) | Logic | KiljuYeast | 0
+CanTrigger (UnityEngine.GameObject) | Logic | Price | 0
+RearIK (UnityEngine.GameObject) | CalculateAngle | Tire1pos | -0.08616969
+RearIK (UnityEngine.GameObject) | CalculateAngle | Tire2pos | -0.07191956
+RearIK (UnityEngine.GameObject) | CalculateAngle | TireAngle | 0.6003253
+RearIK (UnityEngine.GameObject) | CalculateAngle | Travel | -0.01425013
+RearIK (UnityEngine.GameObject) | CalculateAngle | Wheelbase | 1.36
+Options (UnityEngine.GameObject) | GFX | DrawDistance | 3000
+Options (UnityEngine.GameObject) | GFX | FOV | 60
+Options (UnityEngine.GameObject) | Controls | FFBMultiplier | 100
+Options (UnityEngine.GameObject) | Controls | MouseSensitivityX | 30
+Options (UnityEngine.GameObject) | Controls | MouseSensitivityX100 | 3
+Options (UnityEngine.GameObject) | Controls | MouseSensitivityY | 30
+Options (UnityEngine.GameObject) | Controls | MouseSensitivityY100 | 3
+Options (UnityEngine.GameObject) | Controls | SteeringAidMinVelo | 20
+Options (UnityEngine.GameObject) | Controls | SteeringRotation | 450
+Options (UnityEngine.GameObject) | Controls | SteeringRotationFull | 900
+Options (UnityEngine.GameObject) | Controls | SteeringTime | 0.003352963
+Options (UnityEngine.GameObject) | Controls | SteeringTimeFull | 0.3352963
+Options (UnityEngine.GameObject) | Controls | SteeringVeloTime | 0
+Options (UnityEngine.GameObject) | Controls | SteeringVeloTimeFull | 0
+Animations (UnityEngine.GameObject) | Logic | Distance | 0
+WheelRacingRL (UnityEngine.GameObject) | Data | SettingRimRadius | 0.175
+WheelRacingRL (UnityEngine.GameObject) | Data | SettingTireRadius | 0
+WheelRacingRL (UnityEngine.GameObject) | Data | SettingTireWidth | 0
+bucket(itemx) (UnityEngine.GameObject) | Use | Alcohol | 0.08539999
+bucket(itemx) (UnityEngine.GameObject) | Use | BrewTime | 680
+bucket(itemx) (UnityEngine.GameObject) | Use | Mass | 0
+bucket(itemx) (UnityEngine.GameObject) | Use | Math0 | 0.68
+bucket(itemx) (UnityEngine.GameObject) | Use | Math1 | 1.261765
+bucket(itemx) (UnityEngine.GameObject) | Use | Math2 | 15.14118
+bucket(itemx) (UnityEngine.GameObject) | Use | Sugar | 6
+bucket(itemx) (UnityEngine.GameObject) | Use | SugarWaterRatio | 0
+bucket(itemx) (UnityEngine.GameObject) | Use | Sweetness | 0.2
+bucket(itemx) (UnityEngine.GameObject) | Use | Time | 429
+bucket(itemx) (UnityEngine.GameObject) | Use | Vinegar | 0
+bucket(itemx) (UnityEngine.GameObject) | Use | Water | 30
+bucket(itemx) (UnityEngine.GameObject) | Use | Yeast | 1
+bucket(itemx) (UnityEngine.GameObject) | Mass | Mass | 30
+bucket(itemx) (UnityEngine.GameObject) | Empty | Angle | 315.0622
+bucket(itemx) (UnityEngine.GameObject) | Empty | Water | 0
+WheelSteelFL (UnityEngine.GameObject) | Data | SettingRimRadius | 0.165
+WheelSteelFL (UnityEngine.GameObject) | Data | SettingTireRadius | 0.2715
+WheelSteelFL (UnityEngine.GameObject) | Data | SettingTireWidth | 0.145
+TriggerIn (UnityEngine.GameObject) | Trigger | Distance | 0
+BusStopLoppe (UnityEngine.GameObject) | Stopping | Distance | 1888.489
+AirIntake (UnityEngine.GameObject) | InWater | Pos | 0.6257403
+AirIntake (UnityEngine.GameObject) | InWater | WaterLevel | -4.5
+AirIntake (UnityEngine.GameObject) | InWater | Distance | 0
+trigger_seat_passenger (UnityEngine.GameObject) | Assembly | InitialJointForce | 900
+Pivot (UnityEngine.GameObject) | Rotation | Delay | 5
+Pivot (UnityEngine.GameObject) | Rotation | Rotation | 30.75
+Pivot (UnityEngine.GameObject) | Rotation | RotationSpeed | 0.25
+Pivot (UnityEngine.GameObject) | Rotation | TimeScale | 600
+RadioVolume (UnityEngine.GameObject) | Knob | Rot | 0
+RadioVolume (UnityEngine.GameObject) | Knob | Scroll | 0
+RadioVolume (UnityEngine.GameObject) | Knob | Tune | 0.05
+RadioVolume (UnityEngine.GameObject) | Knob | Volume | 0
+Sleep (UnityEngine.GameObject) | Activate | FadeTime | 4
+Sleep (UnityEngine.GameObject) | Activate | GameVolume | 0
+Sleep (UnityEngine.GameObject) | Activate | Rate | 0
+Coll (UnityEngine.GameObject) | Use | RayDistance | 1.5
+Coll (UnityEngine.GameObject) | Use | Rotation | 297.3646
+DrunkLifter (UnityEngine.GameObject) | Logic | Distance | 0
+DrunkLifter (UnityEngine.GameObject) | Logic | Random | 0
+Timingcover (UnityEngine.GameObject) | Data | Time | 0
+HouseShit3 (UnityEngine.GameObject) | LOD | Distance | 1809.479
+HouseShit3 (UnityEngine.GameObject) | LOD | LOD | 400
+RadioTuner (UnityEngine.GameObject) | Knob | Rot | 500
+RadioTuner (UnityEngine.GameObject) | Knob | Scroll | 0
+RadioTuner (UnityEngine.GameObject) | Knob | Tune | 0.05
+fuel line(xxxxx) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+fuel line(xxxxx) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 8
+fuel line(xxxxx) (UnityEngine.GameObject) | BoltCheck | Tightness | 8
+BucketTrigger (UnityEngine.GameObject) | Level | Pos | 0.2692985
+Pivot (UnityEngine.GameObject) | Scale | Scale | 0.07151848
+Oilpan (UnityEngine.GameObject) | Data | Oil | 2.657355
+FluidTrigger (UnityEngine.GameObject) | Data | Fluid | 4
+FluidTrigger (UnityEngine.GameObject) | Data | Mass | 7
+FluidTrigger (UnityEngine.GameObject) | Data | X | 270
+Carburator (UnityEngine.GameObject) | Data | Dirt | 10.42806
+Carburator (UnityEngine.GameObject) | Data | IdleAdjust | 14
+Carburator (UnityEngine.GameObject) | Data | Max | 18
+Carburator (UnityEngine.GameObject) | Data | Min | 13
+lift (UnityEngine.GameObject) | CheckLift | Y | 7.450581E-09
+lift (UnityEngine.GameObject) | Movement | Pos | 2.759474E-09
+Hubcap_FR (UnityEngine.GameObject) | Data | Time | 0
+ShitLevelTrigger (UnityEngine.GameObject) | Level | ShitLevel | 2.208718
+ShitLevelTrigger (UnityEngine.GameObject) | Level | ShitRate | 0.00391852
+ShitLevelTrigger (UnityEngine.GameObject) | Level | Tolerance | 0.5
+trigger_bucket_seat_passenger (UnityEngine.GameObject) | Assembly | InitialJointForce | 900
+Speaker (UnityEngine.GameObject) | Settings | DistortionLevel | 0.2
+Speaker (UnityEngine.GameObject) | Settings | Volume | 1
+FuelTank (UnityEngine.GameObject) | Data | FuelLevel | 2.779944
+FuelTank (UnityEngine.GameObject) | Data | Mass | 3.779944
+FuelTank (UnityEngine.GameObject) | Data | MaxCapacity | 3.4
+Flares_FL (UnityEngine.GameObject) | Data | Time | 0
+ShitLevelTrigger (UnityEngine.GameObject) | Level | ShitLevel | 2.524529
+ShitLevelTrigger (UnityEngine.GameObject) | Level | ShitRate | 0.006720214
+ShitLevelTrigger (UnityEngine.GameObject) | Level | Tolerance | 0.5
+WheelHayosikoRR (UnityEngine.GameObject) | Data | SettingRimRadius | 0.175
+WheelHayosikoRR (UnityEngine.GameObject) | Data | SettingTireRadius | 0
+WheelHayosikoRR (UnityEngine.GameObject) | Data | SettingTireWidth | 0
+ClutchMasterCylinder (UnityEngine.GameObject) | Data | ClutchFluid | 0.5
+Dashboard (UnityEngine.GameObject) | Data | Time | 0
+Starter (UnityEngine.GameObject) | Starter | FuelLevel | 0
+Starter (UnityEngine.GameObject) | Starter | RPM | 0
+Starter (UnityEngine.GameObject) | Starter | StartTime | 0
+INSPECTION (UnityEngine.GameObject) | LOD | Distance | 1981.249
+INSPECTION (UnityEngine.GameObject) | LOD | LOD | 420
+RALLY (UnityEngine.GameObject) | Reset | Distance | 0
+3 (UnityEngine.GameObject) | LOD | Distance | 1921.349
+3 (UnityEngine.GameObject) | LOD | LOD | 500
+WheelSteelRR (UnityEngine.GameObject) | Data | SettingRimRadius | 0.165
+WheelSteelRR (UnityEngine.GameObject) | Data | SettingTireRadius | 0.2715
+WheelSteelRR (UnityEngine.GameObject) | Data | SettingTireWidth | 0.145
+Order (UnityEngine.GameObject) | Data | Distance | 5.552322
+Order (UnityEngine.GameObject) | Data | FinalGear | 0
+Order (UnityEngine.GameObject) | Data | _FerndaleWait | 0
+Order (UnityEngine.GameObject) | Data | _OrderTime | 5000
+WheelRallyFR (UnityEngine.GameObject) | Data | SettingRimRadius | 0.175
+WheelRallyFR (UnityEngine.GameObject) | Data | SettingTireRadius | 0.2875
+WheelRallyFR (UnityEngine.GameObject) | Data | SettingTireWidth | 0.163
+SUN (UnityEngine.GameObject) | Color | Minutes | 2.429467
+SUN (UnityEngine.GameObject) | Color | MinutesAdd | 0.2
+SUN (UnityEngine.GameObject) | Color | Timescale | 600
+trigger_bumper_rear (UnityEngine.GameObject) | Assembly | InitialAttachForce | 200
+Volume (UnityEngine.GameObject) | Knob | Scroll | 0
+Volume (UnityEngine.GameObject) | Knob | Volume | 0.5
+BoltPM (UnityEngine.GameObject) | Screw | Alignment | 8
+BoltPM (UnityEngine.GameObject) | Screw | Max | 12
+BoltPM (UnityEngine.GameObject) | Screw | Min | 1
+Pivot (UnityEngine.GameObject) | Scale | Scale | 0.0024
+TurnSignals (UnityEngine.GameObject) | Usage | Consumption | 0.008
+TurnSignals (UnityEngine.GameObject) | Usage | DashVolume | 0.5
+TurnSignals (UnityEngine.GameObject) | Usage | Delay | 0.4
+TurnSignals (UnityEngine.GameObject) | Usage | WheelAngle | 0
+Clouds (UnityEngine.GameObject) | Weather | Offset | 0.08503138
+Clouds (UnityEngine.GameObject) | Weather | Pos | -14118.85
+Clouds (UnityEngine.GameObject) | Weather | Pos2 | -1107.189
+Clouds (UnityEngine.GameObject) | Weather | Rot | 86.72423
+Clouds (UnityEngine.GameObject) | Weather | Speed | -4
+Clouds (UnityEngine.GameObject) | Weather | X | 0
+Clouds (UnityEngine.GameObject) | Weather | Z | 0
+TriggerOut (UnityEngine.GameObject) | Trigger | Distance | 0
+ExhaustMuffler (UnityEngine.GameObject) | Data | Time | 0
+HouseShit2 (UnityEngine.GameObject) | LOD | Distance | 1706.195
+HouseShit2 (UnityEngine.GameObject) | LOD | LOD | 300
+BoltPM (UnityEngine.GameObject) | Screw | Alignment | 8
+BoltPM (UnityEngine.GameObject) | Screw | Max | 12
+BoltPM (UnityEngine.GameObject) | Screw | Min | 1
+doorl (UnityEngine.GameObject) | Use | OldRot | 0
+doorl (UnityEngine.GameObject) | Use | Rot | 0
+doorl (UnityEngine.GameObject) | Use | Rotation | 0
+Battery (UnityEngine.GameObject) | Data | Charge | 127
+Battery (UnityEngine.GameObject) | Data | MaxVoltage | 150.956
+FERNDALE(1630kg) (UnityEngine.GameObject) | LOD | Distance | 1699.199
+FERNDALE(1630kg) (UnityEngine.GameObject) | LOD | LOD | 200
+FERNDALE(1630kg) (UnityEngine.GameObject) | LOD | SteeringAidMinVelo | 20
+FERNDALE(1630kg) (UnityEngine.GameObject) | LOD | SteeringRotation | 450
+FERNDALE(1630kg) (UnityEngine.GameObject) | LOD | SteeringTime | 0.1
+FERNDALE(1630kg) (UnityEngine.GameObject) | LOD | SteeringVeloTime | 0.05
+FERNDALE(1630kg) (UnityEngine.GameObject) | LOD | Y | 4.7486
+Hubcap_FL (UnityEngine.GameObject) | Data | Time | 0
+Handles (UnityEngine.GameObject) | Use | OldRot | 0
+Handles (UnityEngine.GameObject) | Use | Rot | 0
+Handles (UnityEngine.GameObject) | Use | Rotation | 0
+TriggerOut (UnityEngine.GameObject) | Trigger | Distance | 0
+Brake (UnityEngine.GameObject) | Angle | Angle | 0
+Brake (UnityEngine.GameObject) | Angle | Data | 0
+Collider (UnityEngine.GameObject) | Use | OldRot | 0
+Collider (UnityEngine.GameObject) | Use | Rotation | 0
+JONNEZ ES(Clone) (UnityEngine.GameObject) | Brake | Brake | 0
+JONNEZ ES(Clone) (UnityEngine.GameObject) | Brake | Clutch | 0
+JONNEZ ES(Clone) (UnityEngine.GameObject) | Brake | FrictionTorque | 50
+JONNEZ ES(Clone) (UnityEngine.GameObject) | AutoClutch | Brake | 0
+JONNEZ ES(Clone) (UnityEngine.GameObject) | LOD | Distance | 75.41402
+JONNEZ ES(Clone) (UnityEngine.GameObject) | LOD | LOD | 200
+JONNEZ ES(Clone) (UnityEngine.GameObject) | LOD | Y | -1.3515
+Temp (UnityEngine.GameObject) | Temp | RPM | 0
+Temp (UnityEngine.GameObject) | Temp | Rotation | -15.52795
+Temp (UnityEngine.GameObject) | Temp | Temp | 25
+DriveTrigger (UnityEngine.GameObject) | PlayerTrigger | MinimumRequiredVelocity | 0.3
+DriveTrigger (UnityEngine.GameObject) | PlayerTrigger | Speed | 0
+DriveTrigger (UnityEngine.GameObject) | PlayerTrigger | VeloX | 0
+DriveTrigger (UnityEngine.GameObject) | PlayerTrigger | VeloY | 0
+DriveTrigger (UnityEngine.GameObject) | PlayerTrigger | VeloZ | 0
+LitreGauge (UnityEngine.GameObject) | Gauge | Rotation | -67.08048
+LitreGauge (UnityEngine.GameObject) | Gauge | Waste | 2312.935
+Fuelpump (UnityEngine.GameObject) | Data | Time | 0
+Fixes (UnityEngine.GameObject) | Brake | Brake | 0
+Fixes (UnityEngine.GameObject) | Brake | BrakeFixRate | 0.3
+Fixes (UnityEngine.GameObject) | Brake | Clutch | 0
+Fixes (UnityEngine.GameObject) | Brake | FrictionTorque | 30
+Fixes (UnityEngine.GameObject) | Brake | Speed | 0
+SATSUMA(557kg) (UnityEngine.GameObject) | Setup | Distance | 6.951628
+SATSUMA(557kg) (UnityEngine.GameObject) | Setup | LOD | 200
+SATSUMA(557kg) (UnityEngine.GameObject) | Setup | Y | -0.09547439
+Headgasket (UnityEngine.GameObject) | Data | Time | 0
+WaterpumpPulley (UnityEngine.GameObject) | Data | Time | 0
+Roll Cage (UnityEngine.GameObject) | Data | Mass | 0
+Roll Cage (UnityEngine.GameObject) | Data | Weight | 55
+Transmission (UnityEngine.GameObject) | Gears | Gear01 | 12.29
+Transmission (UnityEngine.GameObject) | Gears | Gear02 | 8.56
+Transmission (UnityEngine.GameObject) | Gears | Gear03 | 7.3
+Transmission (UnityEngine.GameObject) | Gears | Gear04 | 6.05
+Transmission (UnityEngine.GameObject) | Gears | Gear05 | 5.16
+Transmission (UnityEngine.GameObject) | Gears | Gear06 | 4.38
+Transmission (UnityEngine.GameObject) | Gears | Gear07 | 3.74
+Transmission (UnityEngine.GameObject) | Gears | Gear08 | 3.2
+Transmission (UnityEngine.GameObject) | Gears | Gear09 | 2.73
+Transmission (UnityEngine.GameObject) | Gears | Gear10 | 2.29
+Transmission (UnityEngine.GameObject) | Gears | Gear11 | 1.95
+Transmission (UnityEngine.GameObject) | Gears | Gear12 | 1.38
+Transmission (UnityEngine.GameObject) | Gears | Ratio | 50
+Transmission (UnityEngine.GameObject) | Gears | RearEndRatio | 3.1
+Transmission (UnityEngine.GameObject) | Change | Clutch | 0
+opener (UnityEngine.GameObject) | Knob | Knob | 0
+opener (UnityEngine.GameObject) | Knob | Rot | 0
+opener (UnityEngine.GameObject) | Knob | Scroll | 0
+opener (UnityEngine.GameObject) | Knob | X | 0
+opener (UnityEngine.GameObject) | Knob | Y | 0
+WheelRallyRL (UnityEngine.GameObject) | Data | SettingRimRadius | 0.175
+WheelRallyRL (UnityEngine.GameObject) | Data | SettingTireRadius | 0.2875
+WheelRallyRL (UnityEngine.GameObject) | Data | SettingTireWidth | 0.163
+wheelRR (UnityEngine.GameObject) | SetGrip | GripForward | 1.15
+wheelRR (UnityEngine.GameObject) | SetGrip | GripSideways | 1.15
+wheelRR (UnityEngine.GameObject) | Data | GripForward | 1.15
+wheelRR (UnityEngine.GameObject) | Data | GripSideways | 1.15
+Trigger (UnityEngine.GameObject) | Usage | Angle | 0
+Rear_spoiler (UnityEngine.GameObject) | Data | Time | 0
+GaugeClock (UnityEngine.GameObject) | Data | Time | 0
+Subtitles (UnityEngine.GameObject) | SetText | NewLenght | 0
+BOAT (UnityEngine.GameObject) | Y Velocity | Velo | 0.1946374
+BOAT (UnityEngine.GameObject) | Y Velocity | Y | -4.519841
+BOAT (UnityEngine.GameObject) | LOD | Distance | 0
+BOAT (UnityEngine.GameObject) | LOD | LOD | 20
+BOAT (UnityEngine.GameObject) | Rise Front | ParticleVelo | -1.023195E-10
+BOAT (UnityEngine.GameObject) | Rise Front | Rot | -4.689643E-11
+BOAT (UnityEngine.GameObject) | Rise Front | Speed | 4.263312E-11
+CrankBearing2 (UnityEngine.GameObject) | Data | Time | 0
+BUS (UnityEngine.GameObject) | Throttle | Brake | 0
+BUS (UnityEngine.GameObject) | Throttle | CrashSpeed | 0
+BUS (UnityEngine.GameObject) | Throttle | DeathSpeedMPS | 5
+BUS (UnityEngine.GameObject) | Throttle | SpeedCurrent | 22.86008
+BUS (UnityEngine.GameObject) | Throttle | SpeedMax | 81.92628
+BUS (UnityEngine.GameObject) | Throttle | SpeedMin | 80
+BUS (UnityEngine.GameObject) | Throttle | TargetSpeed | 0
+BUS (UnityEngine.GameObject) | Throttle | ThrottleAccel | 1
+BUS (UnityEngine.GameObject) | Throttle | ThrottleCruise | 0.43
+BUS (UnityEngine.GameObject) | Throttle | Velo | 0
+BUS (UnityEngine.GameObject) | Steering | Angle | 0.1249433
+BUS (UnityEngine.GameObject) | Steering | Angle2 | 0.005419827
+BUS (UnityEngine.GameObject) | Steering | Lane | -2
+BUS (UnityEngine.GameObject) | Steering | SpeedKMH | 22.86008
+BUS (UnityEngine.GameObject) | LOD | Distance | 1908.605
+BUS (UnityEngine.GameObject) | LOD | LOD | 200
+Speaker (UnityEngine.GameObject) | Settings | DistortionLevel | 0.1
+Speaker (UnityEngine.GameObject) | Settings | Volume | 0.5
+FuelTank (UnityEngine.GameObject) | Data | FuelLevel | 45
+FuelTank (UnityEngine.GameObject) | Data | Mass | 49
+FuelTank (UnityEngine.GameObject) | Data | MaxCapacity | 79
+wheelFL (UnityEngine.GameObject) | SetGrip | GripForward | 1.15
+wheelFL (UnityEngine.GameObject) | SetGrip | GripSideways | 1.15
+wheelFL (UnityEngine.GameObject) | Data | GripForward | 1.15
+wheelFL (UnityEngine.GameObject) | Data | GripSideways | 1.15
+Subwoofer_Right (UnityEngine.GameObject) | Data | Time | 0
+Flywheel (UnityEngine.GameObject) | Data | Time | 0
+SteeringWheel (UnityEngine.GameObject) | Data | Time | 0
+trigger_bumper_front (UnityEngine.GameObject) | Assembly | InitialAttachForce | 200
+BoltPM (UnityEngine.GameObject) | Screw | Alignment | 8
+BoltPM (UnityEngine.GameObject) | Screw | Max | 12
+BoltPM (UnityEngine.GameObject) | Screw | Min | 1
+CrankBearing1 (UnityEngine.GameObject) | Data | Time | 0
+BucketTrigger (UnityEngine.GameObject) | Level | Pos | -2.09986
+Fanbelt (UnityEngine.GameObject) | Data | Wear | 4.822499
+BusStopRykipohja (UnityEngine.GameObject) | Stopping | Distance | 1707.812
+Flares_spoiler (UnityEngine.GameObject) | Data | Time | 0
+Racing Muffler (UnityEngine.GameObject) | Data | Time | 0
+block(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+block(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 2
+block(Clone) (UnityEngine.GameObject) | BoltCheck | Chance | 0
+block(Clone) (UnityEngine.GameObject) | BoltCheck | ForceMax | 1000
+block(Clone) (UnityEngine.GameObject) | BoltCheck | ForceMin | -1000
+block(Clone) (UnityEngine.GameObject) | BoltCheck | Tightness | 24
+block(Clone) (UnityEngine.GameObject) | BoltCheck | X | 0
+block(Clone) (UnityEngine.GameObject) | BoltCheck | Y | 0
+block(Clone) (UnityEngine.GameObject) | BoltCheck | Z | 0
+RadioVolume (UnityEngine.GameObject) | Knob | Rot | 0
+RadioVolume (UnityEngine.GameObject) | Knob | Scroll | 0
+RadioVolume (UnityEngine.GameObject) | Knob | Tune | 0.08900003
+RadioVolume (UnityEngine.GameObject) | Knob | Volume | 0
+RadioVolume (UnityEngine.GameObject) | Knob | Rot | 0
+RadioVolume (UnityEngine.GameObject) | Knob | Scroll | 0
+RadioVolume (UnityEngine.GameObject) | Knob | Tune | 0.07299992
+RadioVolume (UnityEngine.GameObject) | Knob | Volume | 0
+Pivot (UnityEngine.GameObject) | FSM | Angle | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+Sleep (UnityEngine.GameObject) | Activate | FadeTime | 4
+Sleep (UnityEngine.GameObject) | Activate | GameVolume | 0
+Sleep (UnityEngine.GameObject) | Activate | Rate | 0
+CrankBearing3 (UnityEngine.GameObject) | Data | Time | 0
+Front_spoiler (UnityEngine.GameObject) | Data | Time | 0
+SteeringRod_FL (UnityEngine.GameObject) | Data | Alignment | 0
+Electrics (UnityEngine.GameObject) | Data | Time | 0
+Subwoofer_Left (UnityEngine.GameObject) | Data | Time | 0
+BoltPM (UnityEngine.GameObject) | Screw | Alignment | 7.5
+BoltPM (UnityEngine.GameObject) | Screw | Max | 12
+BoltPM (UnityEngine.GameObject) | Screw | Min | 1
+StoveTrigger (UnityEngine.GameObject) | Steam | Blur | 0
+StoveTrigger (UnityEngine.GameObject) | Steam | CleanEfficiency | 0
+StoveTrigger (UnityEngine.GameObject) | Steam | Heat | 0
+StoveTrigger (UnityEngine.GameObject) | Steam | Math | 0
+StoveTrigger (UnityEngine.GameObject) | Steam | SteamTime | 4
+Starter (UnityEngine.GameObject) | Starter | FuelLevel | 0
+Starter (UnityEngine.GameObject) | Starter | GlowPlugHeatSpeed | 4
+Starter (UnityEngine.GameObject) | Starter | PlugHeat | 0
+Starter (UnityEngine.GameObject) | Starter | StartTime | 0
+Starter (UnityEngine.GameObject) | Starter | VanRPM | 0
+Needle (UnityEngine.GameObject) | Temp | Temp | 33.9984
+Tachometer (UnityEngine.GameObject) | Data | RPMSetting | 7500
+Crankshaft (UnityEngine.GameObject) | Data | Time | 0
+ExhaustPipe (UnityEngine.GameObject) | Data | Time | 0
+WheelSpokeRR (UnityEngine.GameObject) | Data | SettingRimRadius | 0.175
+WheelSpokeRR (UnityEngine.GameObject) | Data | SettingTireRadius | 0
+WheelSpokeRR (UnityEngine.GameObject) | Data | SettingTireWidth | 0
+WheelHayosikoFL (UnityEngine.GameObject) | Data | SettingRimRadius | 0.175
+WheelHayosikoFL (UnityEngine.GameObject) | Data | SettingTireRadius | 0
+WheelHayosikoFL (UnityEngine.GameObject) | Data | SettingTireWidth | 0
+Starter (UnityEngine.GameObject) | Starter | FuelLevel | 0
+Starter (UnityEngine.GameObject) | Starter | GlowPlugHeatSpeed | 120
+Starter (UnityEngine.GameObject) | Starter | PlugHeat | 25
+Starter (UnityEngine.GameObject) | Starter | StartTime | 0
+DriveTrigger (UnityEngine.GameObject) | PlayerTrigger | MinimumRequiredVelocity | 0.15
+DriveTrigger (UnityEngine.GameObject) | PlayerTrigger | Speed | 0
+DriveTrigger (UnityEngine.GameObject) | PlayerTrigger | VeloX | 0
+DriveTrigger (UnityEngine.GameObject) | PlayerTrigger | VeloY | 0
+DriveTrigger (UnityEngine.GameObject) | PlayerTrigger | VeloZ | 0
+Pivot (UnityEngine.GameObject) | Scale | Scale | 0.0852
+StoveTrigger (UnityEngine.GameObject) | Steam | Blur | 0
+StoveTrigger (UnityEngine.GameObject) | Steam | CleanEfficiency | 0
+StoveTrigger (UnityEngine.GameObject) | Steam | Heat | 0
+StoveTrigger (UnityEngine.GameObject) | Steam | Math | 0
+StoveTrigger (UnityEngine.GameObject) | Steam | SteamTime | 4
+FrontHyd (UnityEngine.GameObject) | Use | GlobalY | 90.00059
+FrontHyd (UnityEngine.GameObject) | Use | LeverPos | 1
+FrontHyd (UnityEngine.GameObject) | Use | Rot | -40
+WheelRacingRR (UnityEngine.GameObject) | Data | SettingRimRadius | 0.175
+WheelRacingRR (UnityEngine.GameObject) | Data | SettingTireRadius | 0
+WheelRacingRR (UnityEngine.GameObject) | Data | SettingTireWidth | 0
+WheelRacingFR (UnityEngine.GameObject) | Data | SettingRimRadius | 0.175
+WheelRacingFR (UnityEngine.GameObject) | Data | SettingTireRadius | 0
+WheelRacingFR (UnityEngine.GameObject) | Data | SettingTireWidth | 0
+Needle (UnityEngine.GameObject) | Temp | Temp | 160.548
+wheelRL (UnityEngine.GameObject) | SetGrip | GripForward | 1.15
+wheelRL (UnityEngine.GameObject) | SetGrip | GripSideways | 1.15
+wheelRL (UnityEngine.GameObject) | Data | GripForward | 1.15
+wheelRL (UnityEngine.GameObject) | Data | GripSideways | 1.15
+FuelTank (UnityEngine.GameObject) | Data | FuelLevel | 2.023726
+FuelTank (UnityEngine.GameObject) | Data | MaxCapacity | 4
+Window_Grille (UnityEngine.GameObject) | Data | Time | 0
+ButtonPower (UnityEngine.GameObject) | Screw | MaxHeat | 0.5
+ButtonPower (UnityEngine.GameObject) | Screw | Rot | 150
+ButtonPower (UnityEngine.GameObject) | Screw | ScrewAmount | 15
+ButtonPower (UnityEngine.GameObject) | Screw | Scroll | 0
+Camshaft (UnityEngine.GameObject) | Data | Time | 0
+lift (UnityEngine.GameObject) | CheckLift | Y | 0.03999996
+lift (UnityEngine.GameObject) | Movement | Curve | 0.0999999
+lift (UnityEngine.GameObject) | Movement | CurveValue | 0.1899998
+lift (UnityEngine.GameObject) | Movement | Pos | 0.03999996
+lift (UnityEngine.GameObject) | Movement | Pos2 | 0.01999998
+lift (UnityEngine.GameObject) | Movement | Pos3 | 0.00999999
+lift (UnityEngine.GameObject) | Movement | Pos4 | 0.001899997
+Sparkplug2 (UnityEngine.GameObject) | Data | Time | 0
+1 (UnityEngine.GameObject) | LOD | Distance | 1967.862
+1 (UnityEngine.GameObject) | LOD | LOD | 600
+CrouchTrigger (UnityEngine.GameObject) | PlayerTrigger | Multiplier | 0
+CrouchTrigger (UnityEngine.GameObject) | PlayerTrigger | Temp | 0
+Radiator (UnityEngine.GameObject) | Data | Usage | 0
+Radiator (UnityEngine.GameObject) | Data | Water | 0
+MechanicalWear (UnityEngine.GameObject) | Data | WearAlternator | 1.61648
+MechanicalWear (UnityEngine.GameObject) | Data | WearCrankshaft | 7.574973
+MechanicalWear (UnityEngine.GameObject) | Data | WearGearbox | 39.92317
+MechanicalWear (UnityEngine.GameObject) | Data | WearHeadgasket | 76.34824
+MechanicalWear (UnityEngine.GameObject) | Data | WearPiston1 | 26.4017
+MechanicalWear (UnityEngine.GameObject) | Data | WearPiston2 | 34.39632
+MechanicalWear (UnityEngine.GameObject) | Data | WearPiston3 | 13.47984
+MechanicalWear (UnityEngine.GameObject) | Data | WearPiston4 | 18.88259
+MechanicalWear (UnityEngine.GameObject) | Data | WearRockershaft | 22.79612
+MechanicalWear (UnityEngine.GameObject) | Data | WearStarter | 20.30482
+MechanicalWear (UnityEngine.GameObject) | Data | WearWaterpump | 26.78205
+FrontIK_1 (UnityEngine.GameObject) | CalculateAngle | Tire1pos | -0.0925023
+FrontIK_1 (UnityEngine.GameObject) | CalculateAngle | Tire2pos | -0.09374583
+FrontIK_1 (UnityEngine.GameObject) | CalculateAngle | TireAngle | -0.03562456
+FrontIK_1 (UnityEngine.GameObject) | CalculateAngle | Travel | 0.001243532
+FrontIK_1 (UnityEngine.GameObject) | CalculateAngle | Wheelbase | 2
+FromEngine (UnityEngine.GameObject) | ExhaustSound | Emission | 0
+FromEngine (UnityEngine.GameObject) | ExhaustSound | RPM | 1360.963
+FromEngine (UnityEngine.GameObject) | ExhaustSound | RPM2 | 0
+FromEngine (UnityEngine.GameObject) | ExhaustSound | Throttle | 0
+FromEngine (UnityEngine.GameObject) | ExhaustSound | Velocity | 4.187577
+OpenCap (UnityEngine.GameObject) | Screw | Rot | 359
+OpenCap (UnityEngine.GameObject) | Screw | ScrewAmount | 33
+OpenCap (UnityEngine.GameObject) | Screw | Scroll | 0
+Oilfilter (UnityEngine.GameObject) | Data | Time | 0
+TriggerIn (UnityEngine.GameObject) | Trigger | Distance | 0
+COTTAGE (UnityEngine.GameObject) | LOD | Distance | 984.3506
+COTTAGE (UnityEngine.GameObject) | LOD | LOD | 300
+SpeakerBass (UnityEngine.GameObject) | Settings | DistortionLevel | 0.5
+SpeakerBass (UnityEngine.GameObject) | Settings | Volume | 1
+Audio (UnityEngine.GameObject) | Sound Engine | Fuel | 0
+Audio (UnityEngine.GameObject) | Sound Engine | RPM | 400
+Audio (UnityEngine.GameObject) | Sound Engine | Rate1 | 0.5
+Audio (UnityEngine.GameObject) | Sound Engine | Rate2 | -0.09999999
+PlayerShitTrigger (UnityEngine.GameObject) | Death | Distance | 0
+FuelTank (UnityEngine.GameObject) | Data | FuelLevel | 29.8915
+FuelTank (UnityEngine.GameObject) | Data | Mass | 33.8915
+FuelTank (UnityEngine.GameObject) | Data | MaxCapacity | 40
+Seat_Passenger (UnityEngine.GameObject) | Data | Time | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+steering column(xxxxx) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+steering column(xxxxx) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 10
+steering column(xxxxx) (UnityEngine.GameObject) | BoltCheck | Tightness | 16
+Starter (UnityEngine.GameObject) | UseNew | DashVolume | 0
+Starter (UnityEngine.GameObject) | UseNew | MouseDelay | 0.4
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+fuel strainer(xxxxx) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+fuel strainer(xxxxx) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 6
+fuel strainer(xxxxx) (UnityEngine.GameObject) | BoltCheck | Chance | 0
+fuel strainer(xxxxx) (UnityEngine.GameObject) | BoltCheck | Tightness | 8
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+headlight(leftx) (UnityEngine.GameObject) | Removal | Mass | 1
+headlight(leftx) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+headlight(leftx) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 8
+headlight(leftx) (UnityEngine.GameObject) | BoltCheck | Chance | 0
+headlight(leftx) (UnityEngine.GameObject) | BoltCheck | Tightness | 10000
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+NPC (UnityEngine.GameObject) | LOD | Distance | 1962.399
+HumanCollider (UnityEngine.GameObject) | PlayerHit | RayDistance | 1
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+gear stick(xxxxx) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+gear stick(xxxxx) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 6
+gear stick(xxxxx) (UnityEngine.GameObject) | BoltCheck | Tightness | 24
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+steering rack(xxxxx) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+steering rack(xxxxx) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 24
+steering rack(xxxxx) (UnityEngine.GameObject) | BoltCheck | Tightness | 32
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+radiator hose1(xxxxx) (UnityEngine.GameObject) | Removal | Mass | 1
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+drumbrake rr(xxxxx) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+drumbrake rr(xxxxx) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 8
+drumbrake rr(xxxxx) (UnityEngine.GameObject) | BoltCheck | Tightness | 10000
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+spindle fl(xxxxx) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+spindle fl(xxxxx) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 2
+spindle fl(xxxxx) (UnityEngine.GameObject) | BoltCheck | Chance | 0
+spindle fl(xxxxx) (UnityEngine.GameObject) | BoltCheck | Tightness | 10000
+rearlight(right) (UnityEngine.GameObject) | Removal | Mass | 1
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+headlight(right) (UnityEngine.GameObject) | Removal | Mass | 1
+headlight(right) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+headlight(right) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 8
+headlight(right) (UnityEngine.GameObject) | BoltCheck | Chance | 0
+headlight(right) (UnityEngine.GameObject) | BoltCheck | Tightness | 10000
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+steering rod fr(xxxxx) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+steering rod fr(xxxxx) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 8
+steering rod fr(xxxxx) (UnityEngine.GameObject) | BoltCheck | Tightness | 8
+alignment_fr (UnityEngine.GameObject) | Screw | Alignment | 0
+alignment_fr (UnityEngine.GameObject) | Screw | BoltSize | 0
+alignment_fr (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+gear linkage(xxxxx) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+gear linkage(xxxxx) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 8
+gear linkage(xxxxx) (UnityEngine.GameObject) | BoltCheck | Chance | 0
+gear linkage(xxxxx) (UnityEngine.GameObject) | BoltCheck | Tightness | 24
+Navigation (UnityEngine.GameObject) | Navigation | Distance | 10.35814
+Navigation (UnityEngine.GameObject) | Navigation | EmergencyDistance | 40
+Navigation (UnityEngine.GameObject) | Navigation | LanePosition | 2
+Navigation (UnityEngine.GameObject) | Navigation | RequiredDistance | 7
+BoozeJobTrigger (UnityEngine.GameObject) | Distance | Distance | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+strut fl(xxxxx) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+strut fl(xxxxx) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 3
+strut fl(xxxxx) (UnityEngine.GameObject) | BoltCheck | Chance | 0
+strut fl(xxxxx) (UnityEngine.GameObject) | BoltCheck | Tightness | 10000
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+shock absorber(rrxxx) (UnityEngine.GameObject) | Removal | Mass | 1.5
+shock absorber(rrxxx) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+shock absorber(rrxxx) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 2
+shock absorber(rrxxx) (UnityEngine.GameObject) | BoltCheck | Chance | 0
+shock absorber(rrxxx) (UnityEngine.GameObject) | BoltCheck | Tightness | 10000
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+radiator hose3(xxxxx) (UnityEngine.GameObject) | Removal | Mass | 1
+rearlight(leftx) (UnityEngine.GameObject) | Removal | Mass | 1
+OpenCap (UnityEngine.GameObject) | Screw | Rot | 359
+OpenCap (UnityEngine.GameObject) | Screw | ScrewAmount | 33
+OpenCap (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+OpenCap (UnityEngine.GameObject) | Screw | Rot | 359
+OpenCap (UnityEngine.GameObject) | Screw | ScrewAmount | 33
+OpenCap (UnityEngine.GameObject) | Screw | Scroll | 0
+brake master cylinder(xxxxx) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+brake master cylinder(xxxxx) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 6
+brake master cylinder(xxxxx) (UnityEngine.GameObject) | BoltCheck | Tightness | 24
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+trail arm rr(xxxxx) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+trail arm rr(xxxxx) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 12
+trail arm rr(xxxxx) (UnityEngine.GameObject) | BoltCheck | Chance | 0
+trail arm rr(xxxxx) (UnityEngine.GameObject) | BoltCheck | Tightness | 10000
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+spindle fr(xxxxx) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+spindle fr(xxxxx) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 2
+spindle fr(xxxxx) (UnityEngine.GameObject) | BoltCheck | Chance | 0
+spindle fr(xxxxx) (UnityEngine.GameObject) | BoltCheck | Tightness | 10000
+pike_gfx (UnityEngine.GameObject) | Spasm | Air | 0
+pike_gfx (UnityEngine.GameObject) | Spasm | Deathtime | 117.1528
+pike_gfx (UnityEngine.GameObject) | Spasm | Max | 10
+pike_gfx (UnityEngine.GameObject) | Spasm | Min | -10
+pike_gfx (UnityEngine.GameObject) | Spasm | Pos | -5.100105
+pike_gfx (UnityEngine.GameObject) | Spasm | Wait | 0.9000595
+pike_gfx (UnityEngine.GameObject) | Spasm | X | 7.633149
+pike_gfx (UnityEngine.GameObject) | Spasm | Y | 4.680459
+pike_gfx (UnityEngine.GameObject) | Spasm | Z | -7.650914
+pike_gfx (UnityEngine.GameObject) | Spasm | Air | 0
+pike_gfx (UnityEngine.GameObject) | Spasm | Deathtime | 108.0135
+pike_gfx (UnityEngine.GameObject) | Spasm | Max | 10
+pike_gfx (UnityEngine.GameObject) | Spasm | Min | -10
+pike_gfx (UnityEngine.GameObject) | Spasm | Pos | -4.977087
+pike_gfx (UnityEngine.GameObject) | Spasm | Wait | 0.3215916
+pike_gfx (UnityEngine.GameObject) | Spasm | X | 5.653531
+pike_gfx (UnityEngine.GameObject) | Spasm | Y | 1.073834
+pike_gfx (UnityEngine.GameObject) | Spasm | Z | -2.022847
+pike_gfx (UnityEngine.GameObject) | Spasm | Air | 0
+pike_gfx (UnityEngine.GameObject) | Spasm | Deathtime | 130.8519
+pike_gfx (UnityEngine.GameObject) | Spasm | Max | 10
+pike_gfx (UnityEngine.GameObject) | Spasm | Min | -10
+pike_gfx (UnityEngine.GameObject) | Spasm | Pos | -5.151816
+pike_gfx (UnityEngine.GameObject) | Spasm | Wait | 0.1255527
+pike_gfx (UnityEngine.GameObject) | Spasm | X | 0.3026569
+pike_gfx (UnityEngine.GameObject) | Spasm | Y | 5.722618
+pike_gfx (UnityEngine.GameObject) | Spasm | Z | 4.946477
+pike_gfx (UnityEngine.GameObject) | Spasm | Air | 0
+pike_gfx (UnityEngine.GameObject) | Spasm | Deathtime | 136.9386
+pike_gfx (UnityEngine.GameObject) | Spasm | Max | 10
+pike_gfx (UnityEngine.GameObject) | Spasm | Min | -10
+pike_gfx (UnityEngine.GameObject) | Spasm | Pos | -5.016293
+pike_gfx (UnityEngine.GameObject) | Spasm | Wait | 0.6558614
+pike_gfx (UnityEngine.GameObject) | Spasm | X | -6.098149
+pike_gfx (UnityEngine.GameObject) | Spasm | Y | 6.355984
+pike_gfx (UnityEngine.GameObject) | Spasm | Z | 6.277956
+pike_gfx (UnityEngine.GameObject) | Spasm | Air | 0
+pike_gfx (UnityEngine.GameObject) | Spasm | Deathtime | 118.201
+pike_gfx (UnityEngine.GameObject) | Spasm | Max | 10
+pike_gfx (UnityEngine.GameObject) | Spasm | Min | -10
+pike_gfx (UnityEngine.GameObject) | Spasm | Pos | -5.071878
+pike_gfx (UnityEngine.GameObject) | Spasm | Wait | 0.3818421
+pike_gfx (UnityEngine.GameObject) | Spasm | X | -0.8540118
+pike_gfx (UnityEngine.GameObject) | Spasm | Y | 6.85569
+pike_gfx (UnityEngine.GameObject) | Spasm | Z | -5.001702
+pike_gfx (UnityEngine.GameObject) | Spasm | Air | 0
+pike_gfx (UnityEngine.GameObject) | Spasm | Deathtime | 102.3677
+pike_gfx (UnityEngine.GameObject) | Spasm | Max | 10
+pike_gfx (UnityEngine.GameObject) | Spasm | Min | -10
+pike_gfx (UnityEngine.GameObject) | Spasm | Pos | -5.098789
+pike_gfx (UnityEngine.GameObject) | Spasm | Wait | 0.5309001
+pike_gfx (UnityEngine.GameObject) | Spasm | X | 6.211416
+pike_gfx (UnityEngine.GameObject) | Spasm | Y | -3.309954
+pike_gfx (UnityEngine.GameObject) | Spasm | Z | 5.572528
+pike_gfx (UnityEngine.GameObject) | Spasm | Air | 0
+pike_gfx (UnityEngine.GameObject) | Spasm | Deathtime | 129.4402
+pike_gfx (UnityEngine.GameObject) | Spasm | Max | 10
+pike_gfx (UnityEngine.GameObject) | Spasm | Min | -10
+pike_gfx (UnityEngine.GameObject) | Spasm | Pos | -5.186283
+pike_gfx (UnityEngine.GameObject) | Spasm | Wait | 0.5515986
+pike_gfx (UnityEngine.GameObject) | Spasm | X | 2.87631
+pike_gfx (UnityEngine.GameObject) | Spasm | Y | -3.061086
+pike_gfx (UnityEngine.GameObject) | Spasm | Z | 3.996155
+pike_gfx (UnityEngine.GameObject) | Spasm | Air | 0
+pike_gfx (UnityEngine.GameObject) | Spasm | Deathtime | 128.4447
+pike_gfx (UnityEngine.GameObject) | Spasm | Max | 10
+pike_gfx (UnityEngine.GameObject) | Spasm | Min | -10
+pike_gfx (UnityEngine.GameObject) | Spasm | Pos | -5.210757
+pike_gfx (UnityEngine.GameObject) | Spasm | Wait | 0.8690614
+pike_gfx (UnityEngine.GameObject) | Spasm | X | 2.328802
+pike_gfx (UnityEngine.GameObject) | Spasm | Y | 8.492751
+pike_gfx (UnityEngine.GameObject) | Spasm | Z | 5.893104
+pike_gfx (UnityEngine.GameObject) | Spasm | Air | 0
+pike_gfx (UnityEngine.GameObject) | Spasm | Deathtime | 123.8831
+pike_gfx (UnityEngine.GameObject) | Spasm | Max | 10
+pike_gfx (UnityEngine.GameObject) | Spasm | Min | -10
+pike_gfx (UnityEngine.GameObject) | Spasm | Pos | -4.987762
+pike_gfx (UnityEngine.GameObject) | Spasm | Wait | 0.3109855
+pike_gfx (UnityEngine.GameObject) | Spasm | X | -3.194734
+pike_gfx (UnityEngine.GameObject) | Spasm | Y | 0.02507567
+pike_gfx (UnityEngine.GameObject) | Spasm | Z | 4.390335
+pike_gfx (UnityEngine.GameObject) | Spasm | Air | 0
+pike_gfx (UnityEngine.GameObject) | Spasm | Deathtime | 135.1413
+pike_gfx (UnityEngine.GameObject) | Spasm | Max | 10
+pike_gfx (UnityEngine.GameObject) | Spasm | Min | -10
+pike_gfx (UnityEngine.GameObject) | Spasm | Pos | -5.176116
+pike_gfx (UnityEngine.GameObject) | Spasm | Wait | 0.2407393
+pike_gfx (UnityEngine.GameObject) | Spasm | X | 8.979363
+pike_gfx (UnityEngine.GameObject) | Spasm | Y | 8.494546
+pike_gfx (UnityEngine.GameObject) | Spasm | Z | -5.172195
+pike_gfx (UnityEngine.GameObject) | Spasm | Air | 0
+pike_gfx (UnityEngine.GameObject) | Spasm | Deathtime | 122.0969
+pike_gfx (UnityEngine.GameObject) | Spasm | Max | 10
+pike_gfx (UnityEngine.GameObject) | Spasm | Min | -10
+pike_gfx (UnityEngine.GameObject) | Spasm | Pos | -5.093245
+pike_gfx (UnityEngine.GameObject) | Spasm | Wait | 0.6168379
+pike_gfx (UnityEngine.GameObject) | Spasm | X | -2.297798
+pike_gfx (UnityEngine.GameObject) | Spasm | Y | 1.349212
+pike_gfx (UnityEngine.GameObject) | Spasm | Z | 5.327112
+pike_gfx (UnityEngine.GameObject) | Spasm | Air | 0
+pike_gfx (UnityEngine.GameObject) | Spasm | Deathtime | 140.0902
+pike_gfx (UnityEngine.GameObject) | Spasm | Max | 10
+pike_gfx (UnityEngine.GameObject) | Spasm | Min | -10
+pike_gfx (UnityEngine.GameObject) | Spasm | Pos | -5.011814
+pike_gfx (UnityEngine.GameObject) | Spasm | Wait | 0.8898991
+pike_gfx (UnityEngine.GameObject) | Spasm | X | -1.253418
+pike_gfx (UnityEngine.GameObject) | Spasm | Y | 7.967996
+pike_gfx (UnityEngine.GameObject) | Spasm | Z | 5.790836
+pike_gfx (UnityEngine.GameObject) | Spasm | Air | 0
+pike_gfx (UnityEngine.GameObject) | Spasm | Deathtime | 150.6552
+pike_gfx (UnityEngine.GameObject) | Spasm | Max | 10
+pike_gfx (UnityEngine.GameObject) | Spasm | Min | -10
+pike_gfx (UnityEngine.GameObject) | Spasm | Pos | -5.158419
+pike_gfx (UnityEngine.GameObject) | Spasm | Wait | 0.6985195
+pike_gfx (UnityEngine.GameObject) | Spasm | X | -5.987978
+pike_gfx (UnityEngine.GameObject) | Spasm | Y | -8.185923
+pike_gfx (UnityEngine.GameObject) | Spasm | Z | -1.760277
+pike_gfx (UnityEngine.GameObject) | Spasm | Air | 0
+pike_gfx (UnityEngine.GameObject) | Spasm | Deathtime | 119.5459
+pike_gfx (UnityEngine.GameObject) | Spasm | Max | 10
+pike_gfx (UnityEngine.GameObject) | Spasm | Min | -10
+pike_gfx (UnityEngine.GameObject) | Spasm | Pos | -5.066841
+pike_gfx (UnityEngine.GameObject) | Spasm | Wait | 0.6243615
+pike_gfx (UnityEngine.GameObject) | Spasm | X | -4.804531
+pike_gfx (UnityEngine.GameObject) | Spasm | Y | -4.622003
+pike_gfx (UnityEngine.GameObject) | Spasm | Z | -5.603006
+pike_gfx (UnityEngine.GameObject) | Spasm | Air | 0
+pike_gfx (UnityEngine.GameObject) | Spasm | Deathtime | 112.7067
+pike_gfx (UnityEngine.GameObject) | Spasm | Max | 10
+pike_gfx (UnityEngine.GameObject) | Spasm | Min | -10
+pike_gfx (UnityEngine.GameObject) | Spasm | Pos | -5.018114
+pike_gfx (UnityEngine.GameObject) | Spasm | Wait | 0.8432454
+pike_gfx (UnityEngine.GameObject) | Spasm | X | -1.065384
+pike_gfx (UnityEngine.GameObject) | Spasm | Y | 3.798501
+pike_gfx (UnityEngine.GameObject) | Spasm | Z | -1.241256
+pike_gfx (UnityEngine.GameObject) | Spasm | Air | 0
+pike_gfx (UnityEngine.GameObject) | Spasm | Deathtime | 134.1908
+pike_gfx (UnityEngine.GameObject) | Spasm | Max | 10
+pike_gfx (UnityEngine.GameObject) | Spasm | Min | -10
+pike_gfx (UnityEngine.GameObject) | Spasm | Pos | -5.097887
+pike_gfx (UnityEngine.GameObject) | Spasm | Wait | 0.9465251
+pike_gfx (UnityEngine.GameObject) | Spasm | X | 8.08198
+pike_gfx (UnityEngine.GameObject) | Spasm | Y | -2.75468
+pike_gfx (UnityEngine.GameObject) | Spasm | Z | -7.091107
+pike_gfx (UnityEngine.GameObject) | Spasm | Air | 0
+pike_gfx (UnityEngine.GameObject) | Spasm | Deathtime | 102.9199
+pike_gfx (UnityEngine.GameObject) | Spasm | Max | 10
+pike_gfx (UnityEngine.GameObject) | Spasm | Min | -10
+pike_gfx (UnityEngine.GameObject) | Spasm | Pos | -5.222466
+pike_gfx (UnityEngine.GameObject) | Spasm | Wait | 0.4599913
+pike_gfx (UnityEngine.GameObject) | Spasm | X | -9.47612
+pike_gfx (UnityEngine.GameObject) | Spasm | Y | 8.148465
+pike_gfx (UnityEngine.GameObject) | Spasm | Z | -4.452468
+pike_gfx (UnityEngine.GameObject) | Spasm | Air | 0
+pike_gfx (UnityEngine.GameObject) | Spasm | Deathtime | 125.8094
+pike_gfx (UnityEngine.GameObject) | Spasm | Max | 10
+pike_gfx (UnityEngine.GameObject) | Spasm | Min | -10
+pike_gfx (UnityEngine.GameObject) | Spasm | Pos | -5.186651
+pike_gfx (UnityEngine.GameObject) | Spasm | Wait | 0.4239181
+pike_gfx (UnityEngine.GameObject) | Spasm | X | 4.575986
+pike_gfx (UnityEngine.GameObject) | Spasm | Y | -4.741603
+pike_gfx (UnityEngine.GameObject) | Spasm | Z | 6.812639
+pike_gfx (UnityEngine.GameObject) | Spasm | Air | 0
+pike_gfx (UnityEngine.GameObject) | Spasm | Deathtime | 147.3439
+pike_gfx (UnityEngine.GameObject) | Spasm | Max | 10
+pike_gfx (UnityEngine.GameObject) | Spasm | Min | -10
+pike_gfx (UnityEngine.GameObject) | Spasm | Pos | -5.191023
+pike_gfx (UnityEngine.GameObject) | Spasm | Wait | 0.4281757
+pike_gfx (UnityEngine.GameObject) | Spasm | X | -4.425555
+pike_gfx (UnityEngine.GameObject) | Spasm | Y | 7.754325
+pike_gfx (UnityEngine.GameObject) | Spasm | Z | 6.898977
+pike_gfx (UnityEngine.GameObject) | Spasm | Air | 0
+pike_gfx (UnityEngine.GameObject) | Spasm | Deathtime | 126.9519
+pike_gfx (UnityEngine.GameObject) | Spasm | Max | 10
+pike_gfx (UnityEngine.GameObject) | Spasm | Min | -10
+pike_gfx (UnityEngine.GameObject) | Spasm | Pos | -5.194238
+pike_gfx (UnityEngine.GameObject) | Spasm | Wait | 0.9797599
+pike_gfx (UnityEngine.GameObject) | Spasm | X | -4.825855
+pike_gfx (UnityEngine.GameObject) | Spasm | Y | 2.698695
+pike_gfx (UnityEngine.GameObject) | Spasm | Z | 3.372859
+coil spring(rrxxx) (UnityEngine.GameObject) | Removal | Mass | 2
+wishbone fl(xxxxx) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+wishbone fl(xxxxx) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 2
+wishbone fl(xxxxx) (UnityEngine.GameObject) | BoltCheck | Chance | 0
+wishbone fl(xxxxx) (UnityEngine.GameObject) | BoltCheck | Tightness | 10000
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+sub frame(xxxxx) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+sub frame(xxxxx) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 26
+sub frame(xxxxx) (UnityEngine.GameObject) | BoltCheck | Tightness | 32
+_Motor (UnityEngine.GameObject) | Calc RPM | Vibration | 0
+_Motor (UnityEngine.GameObject) | Calc RPM | Vibration2 | 0
+_Motor (UnityEngine.GameObject) | ValveAnimation | Time | 0.04
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+trail arm rl(xxxxx) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+trail arm rl(xxxxx) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 12
+trail arm rl(xxxxx) (UnityEngine.GameObject) | BoltCheck | Chance | 0
+trail arm rl(xxxxx) (UnityEngine.GameObject) | BoltCheck | Tightness | 10000
+SATSUMA(557kg) (UnityEngine.GameObject) | AutoClutch | Brake | 0
+HAYOSIKO(1500kg) (UnityEngine.GameObject) | AutoClutch | Brake | 0
+KEKMET(350-400psi) (UnityEngine.GameObject) | AutoClutch | Brake | 0
+GIFU(750/450psi) (UnityEngine.GameObject) | AutoClutch | Brake | 0
+SATSUMA(557kg) (UnityEngine.GameObject) | SteerLimit | FixedAngle | 33
+SATSUMA(557kg) (UnityEngine.GameObject) | SteerLimit | Math1 | 0.0001228856
+SATSUMA(557kg) (UnityEngine.GameObject) | SteerLimit | MaxAngle | 33
+SATSUMA(557kg) (UnityEngine.GameObject) | SteerLimit | Speed | 0.0004055225
+HAYOSIKO(1500kg) (UnityEngine.GameObject) | SteerLimit | FixedAngle | 33
+HAYOSIKO(1500kg) (UnityEngine.GameObject) | SteerLimit | Math1 | 1.333107E-06
+HAYOSIKO(1500kg) (UnityEngine.GameObject) | SteerLimit | MaxAngle | 33
+HAYOSIKO(1500kg) (UnityEngine.GameObject) | SteerLimit | Speed | 4.399252E-06
+KEKMET(350-400psi) (UnityEngine.GameObject) | SteerLimit | FixedAngle | 33
+KEKMET(350-400psi) (UnityEngine.GameObject) | SteerLimit | Math1 | 9.49413E-07
+KEKMET(350-400psi) (UnityEngine.GameObject) | SteerLimit | MaxAngle | 33
+KEKMET(350-400psi) (UnityEngine.GameObject) | SteerLimit | Speed | 3.133063E-06
+GIFU(750/450psi) (UnityEngine.GameObject) | SteerLimit | FixedAngle | 40
+GIFU(750/450psi) (UnityEngine.GameObject) | SteerLimit | Math1 | 4.363343E-10
+GIFU(750/450psi) (UnityEngine.GameObject) | SteerLimit | MaxAngle | 40
+GIFU(750/450psi) (UnityEngine.GameObject) | SteerLimit | Speed | 1.745337E-09
+FERNDALE(1630kg) (UnityEngine.GameObject) | SteerLimit | FixedAngle | 0
+FERNDALE(1630kg) (UnityEngine.GameObject) | SteerLimit | Math1 | 0
+FERNDALE(1630kg) (UnityEngine.GameObject) | SteerLimit | MaxAngle | 22
+FERNDALE(1630kg) (UnityEngine.GameObject) | SteerLimit | Speed | 0
+JONNEZ ES(Clone) (UnityEngine.GameObject) | SteerLimit | FixedAngle | 30
+JONNEZ ES(Clone) (UnityEngine.GameObject) | SteerLimit | Math1 | 0
+JONNEZ ES(Clone) (UnityEngine.GameObject) | SteerLimit | MaxAngle | 30
+JONNEZ ES(Clone) (UnityEngine.GameObject) | SteerLimit | Speed | 0
+Driver (UnityEngine.GameObject) | Animations | Wait | 14.63637
+FITTAN (UnityEngine.GameObject) | LOD | Distance | 1504.717
+FITTAN (UnityEngine.GameObject) | LOD | LOD | 200
+FITTAN (UnityEngine.GameObject) | LOD | Y | 0
+FITTAN (UnityEngine.GameObject) | Steering | Angle | -0.7447568
+FITTAN (UnityEngine.GameObject) | Steering | Angle2 | -0.03137049
+FITTAN (UnityEngine.GameObject) | Steering | Lane | 0
+FITTAN (UnityEngine.GameObject) | Steering | SpeedKMH | 59.81557
+FITTAN (UnityEngine.GameObject) | Throttle | Brake | 0
+FITTAN (UnityEngine.GameObject) | Throttle | CrashSpeed | 0
+FITTAN (UnityEngine.GameObject) | Throttle | DeathSpeedMPS | 5
+FITTAN (UnityEngine.GameObject) | Throttle | SpeedCurrent | 59.81557
+FITTAN (UnityEngine.GameObject) | Throttle | SpeedMax | 62.87938
+FITTAN (UnityEngine.GameObject) | Throttle | SpeedMin | 58.51299
+FITTAN (UnityEngine.GameObject) | Throttle | TargetSpeed | 0
+FITTAN (UnityEngine.GameObject) | Throttle | ThrottleAccel | 1
+FITTAN (UnityEngine.GameObject) | Throttle | ThrottleCruise | 0.1
+FITTAN (UnityEngine.GameObject) | Throttle | Velo | 0
+FITTAN (UnityEngine.GameObject) | Shifting | RPM | 4206.423
+FITTAN (UnityEngine.GameObject) | Shifting | ShiftDown | 3000
+FITTAN (UnityEngine.GameObject) | Shifting | ShiftUp | 6000
+EngineSound (UnityEngine.GameObject) | Sound | Divider | 5000
+EngineSound (UnityEngine.GameObject) | Sound | Pitch | 0.8412846
+EngineSound (UnityEngine.GameObject) | Sound | RPM | 4206.423
+Navigation (UnityEngine.GameObject) | Lift | Distance | 0
+Navigation (UnityEngine.GameObject) | Lift | Distance2 | 5000
+Navigation (UnityEngine.GameObject) | Brakezones | BrakeDistance | 30
+Navigation (UnityEngine.GameObject) | Brakezones | Distance | 0
+Navigation (UnityEngine.GameObject) | Brakezones | Distance0 | 105.769
+Navigation (UnityEngine.GameObject) | Brakezones | Distance1 | 3178.687
+Navigation (UnityEngine.GameObject) | Brakezones | Distance2 | 3196.498
+Navigation (UnityEngine.GameObject) | Brakezones | Distance3 | 1901.539
+Navigation (UnityEngine.GameObject) | Brakezones | Distance4 | 2424.958
+Navigation (UnityEngine.GameObject) | Brakezones | Distance5 | 1471.594
+Navigation (UnityEngine.GameObject) | Navigation | Distance | 7.074883
+Navigation (UnityEngine.GameObject) | Navigation | EmergencyDistance | 30
+Navigation (UnityEngine.GameObject) | Navigation | LanePosition | 0
+Navigation (UnityEngine.GameObject) | Navigation | RequiredDistance | 6
+Navigation (UnityEngine.GameObject) | Passing | Aggression | 0
+Navigation (UnityEngine.GameObject) | Passing | Difference | 0
+Navigation (UnityEngine.GameObject) | Passing | Distance | 0
+Navigation (UnityEngine.GameObject) | Passing | Math | 4.366385
+Navigation (UnityEngine.GameObject) | Passing | SpeedMax | 62.87938
+Navigation (UnityEngine.GameObject) | Passing | SpeedMin | 58.51299
+Navigation (UnityEngine.GameObject) | Passing | SpeedOther | 0
+Navigation (UnityEngine.GameObject) | Passing | SpeedThis | 0
+Navigation (UnityEngine.GameObject) | Raycast | Distance | 0
+Navigation (UnityEngine.GameObject) | Raycast | Lane | 0
+Navigation (UnityEngine.GameObject) | Raycast | LaneOther | 0
+Navigation (UnityEngine.GameObject) | Raycast | RaycastDistance | 200
+Navigation (UnityEngine.GameObject) | Raycast | Speed | 0
+Collider (UnityEngine.GameObject) | Use | OldRot | 0
+Collider (UnityEngine.GameObject) | Use | Rot | 0
+Collider (UnityEngine.GameObject) | Use | Rotation | 0
+VehiclesDirtRoad (UnityEngine.GameObject) | CheckRally | Distance | 0
+DriveTrigger (UnityEngine.GameObject) | PlayerTrigger | Math | 0
+DriveTrigger (UnityEngine.GameObject) | PlayerTrigger | MinimumRequiredVelocity | 0.15
+DriveTrigger (UnityEngine.GameObject) | PlayerTrigger | SpeedMax | 0
+DriveTrigger (UnityEngine.GameObject) | PlayerTrigger | SpeedMin | 0
+DriveTrigger (UnityEngine.GameObject) | PlayerTrigger | VeloX | 0
+DriveTrigger (UnityEngine.GameObject) | PlayerTrigger | VeloY | 0
+DriveTrigger (UnityEngine.GameObject) | PlayerTrigger | VeloZ | 0
+shock absorber(rlxxx) (UnityEngine.GameObject) | Removal | Mass | 1.5
+shock absorber(rlxxx) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+shock absorber(rlxxx) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 2
+shock absorber(rlxxx) (UnityEngine.GameObject) | BoltCheck | Chance | 0
+shock absorber(rlxxx) (UnityEngine.GameObject) | BoltCheck | Tightness | 10000
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+wishbone fr(xxxxx) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+wishbone fr(xxxxx) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 2
+wishbone fr(xxxxx) (UnityEngine.GameObject) | BoltCheck | Chance | 0
+wishbone fr(xxxxx) (UnityEngine.GameObject) | BoltCheck | Tightness | 10000
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+discbrake(frxxx) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+discbrake(frxxx) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 2
+discbrake(frxxx) (UnityEngine.GameObject) | BoltCheck | Tightness | 10000
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+discbrake(flxxx) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+discbrake(flxxx) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 2
+discbrake(flxxx) (UnityEngine.GameObject) | BoltCheck | Tightness | 10000
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+clutch master cylinder(xxxxx) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+clutch master cylinder(xxxxx) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 6
+clutch master cylinder(xxxxx) (UnityEngine.GameObject) | BoltCheck | Tightness | 24
+OpenCap (UnityEngine.GameObject) | Screw | Rot | 359
+OpenCap (UnityEngine.GameObject) | Screw | ScrewAmount | 33
+OpenCap (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+drumbrake rl(xxxxx) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+drumbrake rl(xxxxx) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 8
+drumbrake rl(xxxxx) (UnityEngine.GameObject) | BoltCheck | Tightness | 10000
+coil spring(rlxxx) (UnityEngine.GameObject) | Removal | Mass | 2
+OpenCap (UnityEngine.GameObject) | Screw | Rot | 359
+OpenCap (UnityEngine.GameObject) | Screw | ScrewAmount | 33
+OpenCap (UnityEngine.GameObject) | Screw | Scroll | 0
+strut fr(xxxxx) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+strut fr(xxxxx) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 3
+strut fr(xxxxx) (UnityEngine.GameObject) | BoltCheck | Chance | 0
+strut fr(xxxxx) (UnityEngine.GameObject) | BoltCheck | Tightness | 10000
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+steering rod fl(xxxxx) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+steering rod fl(xxxxx) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 8
+steering rod fl(xxxxx) (UnityEngine.GameObject) | BoltCheck | Tightness | 8
+alignment_fl (UnityEngine.GameObject) | Screw | Alignment | 0
+alignment_fl (UnityEngine.GameObject) | Screw | BoltSize | 0
+alignment_fl (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+brake lining(xxxxx) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+brake lining(xxxxx) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 6
+brake lining(xxxxx) (UnityEngine.GameObject) | BoltCheck | Tightness | 96
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltPos | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+halfshaft(xxxxx) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+halfshaft(xxxxx) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 2
+halfshaft(xxxxx) (UnityEngine.GameObject) | BoltCheck | Chance | 0
+halfshaft(xxxxx) (UnityEngine.GameObject) | BoltCheck | Tightness | 24
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+clutch lining(xxxxx) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+clutch lining(xxxxx) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 4
+clutch lining(xxxxx) (UnityEngine.GameObject) | BoltCheck | Tightness | 16
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+halfshaft(xxxxx) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+halfshaft(xxxxx) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 2
+halfshaft(xxxxx) (UnityEngine.GameObject) | BoltCheck | Chance | 0
+halfshaft(xxxxx) (UnityEngine.GameObject) | BoltCheck | Tightness | 24
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+handbrake(xxxxx) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+handbrake(xxxxx) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 6
+handbrake(xxxxx) (UnityEngine.GameObject) | BoltCheck | Chance | 0
+handbrake(xxxxx) (UnityEngine.GameObject) | BoltCheck | Tightness | 40
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+handbrake lever (UnityEngine.GameObject) | Use | KnobPos | 0.1
+handbrake lever (UnityEngine.GameObject) | Brake | BoltTightness | 0
+handbrake lever (UnityEngine.GameObject) | Brake | Brake | 0.005
+handbrake lever (UnityEngine.GameObject) | Brake | Position | 0.1
+handbrake lever (UnityEngine.GameObject) | Brake | Tightness | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+Birds (UnityEngine.GameObject) | Volume | FadeTime | 8
+Birds (UnityEngine.GameObject) | Volume | MaxVolume | 1
+Birds (UnityEngine.GameObject) | Volume | Volume | 0.8
+Meadow (UnityEngine.GameObject) | Volume | FadeTime | 8
+Meadow (UnityEngine.GameObject) | Volume | MaxVolume | 1
+Meadow (UnityEngine.GameObject) | Volume | Volume | 0.8
+Meadow 1 (UnityEngine.GameObject) | Volume | FadeTime | 8
+Meadow 1 (UnityEngine.GameObject) | Volume | MaxVolume | 1
+Meadow 1 (UnityEngine.GameObject) | Volume | Volume | 0.8
+Birds 1 (UnityEngine.GameObject) | Volume | FadeTime | 8
+Birds 1 (UnityEngine.GameObject) | Volume | MaxVolume | 1
+Birds 1 (UnityEngine.GameObject) | Volume | Volume | 0.8
+Navigation (UnityEngine.GameObject) | Navigation | Distance | 10.58801
+Navigation (UnityEngine.GameObject) | Navigation | EmergencyDistance | 40
+Navigation (UnityEngine.GameObject) | Navigation | LanePosition | -0.15
+Navigation (UnityEngine.GameObject) | Navigation | RequiredDistance | 10
+Navigation (UnityEngine.GameObject) | Passing | Aggression | 26.00025
+Navigation (UnityEngine.GameObject) | Passing | Difference | 0
+Navigation (UnityEngine.GameObject) | Passing | Distance | 0
+Navigation (UnityEngine.GameObject) | Passing | LaneDrive | 0
+Navigation (UnityEngine.GameObject) | Passing | Math | 1.926277
+Navigation (UnityEngine.GameObject) | Passing | PassMultiplier | 1.5
+Navigation (UnityEngine.GameObject) | Passing | SpeedMax | 81.92628
+Navigation (UnityEngine.GameObject) | Passing | SpeedMin | 80
+Navigation (UnityEngine.GameObject) | Passing | SpeedOther | 0
+Navigation (UnityEngine.GameObject) | Passing | SpeedThis | 0
+Navigation (UnityEngine.GameObject) | Passing | TargetSpeedMax | 45
+Navigation (UnityEngine.GameObject) | Passing | TargetSpeedMin | 40
+Navigation (UnityEngine.GameObject) | Raycast | Distance | 0
+Navigation (UnityEngine.GameObject) | Raycast | Lane | 0
+Navigation (UnityEngine.GameObject) | Raycast | LaneOther | 0
+Navigation (UnityEngine.GameObject) | Raycast | RaycastDistance | 400
+Navigation (UnityEngine.GameObject) | Raycast | Speed | 0
+BUS (UnityEngine.GameObject) | Shifting | RPM | 2302.16
+BUS (UnityEngine.GameObject) | Shifting | ShiftDown | 1200
+BUS (UnityEngine.GameObject) | Shifting | ShiftUp | 2300
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+hood(Clone) (UnityEngine.GameObject) | Removal | Pos | 0
+hood(Clone) (UnityEngine.GameObject) | Use | Rotation | 0
+hood(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+hood(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 8
+hood(Clone) (UnityEngine.GameObject) | BoltCheck | Moment | 12800
+hood(Clone) (UnityEngine.GameObject) | BoltCheck | Tightness | 32
+bootlid(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+bootlid(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 24
+bootlid(Clone) (UnityEngine.GameObject) | BoltCheck | Moment | 4000000
+bootlid(Clone) (UnityEngine.GameObject) | BoltCheck | Tightness | 10000
+Handles (UnityEngine.GameObject) | Use | RayDistance | 1.5
+Handles (UnityEngine.GameObject) | Use | Rotation | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+SatsumaHandles (UnityEngine.GameObject) | Use | LockStrenght | 20000
+SatsumaHandles (UnityEngine.GameObject) | Use | RayDistance | 1.5
+SatsumaHandles (UnityEngine.GameObject) | Use | Rot | 0
+door right(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+door right(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 28
+door right(Clone) (UnityEngine.GameObject) | BoltCheck | Moment | 1E+07
+door right(Clone) (UnityEngine.GameObject) | BoltCheck | Tightness | 10000
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+Handles (UnityEngine.GameObject) | Use | LockStrenght | 20000
+Handles (UnityEngine.GameObject) | Use | RayDistance | 1.5
+Handles (UnityEngine.GameObject) | Use | Rot | 0
+door left(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+door left(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 28
+door left(Clone) (UnityEngine.GameObject) | BoltCheck | Moment | 1E+07
+door left(Clone) (UnityEngine.GameObject) | BoltCheck | Tightness | 10000
+STATUSD (UnityEngine.GameObject) | Shifting | RPM | 5800.598
+STATUSD (UnityEngine.GameObject) | Shifting | ShiftDown | 4000
+STATUSD (UnityEngine.GameObject) | Shifting | ShiftUp | 8000
+fire extinguisher holder(xxxxx) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+fire extinguisher holder(xxxxx) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 2
+fire extinguisher holder(xxxxx) (UnityEngine.GameObject) | BoltCheck | Tightness | 10000
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+PivotVolt (UnityEngine.GameObject) | Needle | Angle | -118
+PivotWaterPress (UnityEngine.GameObject) | Needle | Angle | 0
+PivotOilPress (UnityEngine.GameObject) | Needle | Angle | 0
+AirFuel (UnityEngine.GameObject) | Needle | Angle | -220.3683
+AirFuel (UnityEngine.GameObject) | Needle | Mixture | 16.77961
+AirFuel (UnityEngine.GameObject) | Needle | Mixture2 | 8.779612
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+fender left(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+fender left(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 28
+fender left(Clone) (UnityEngine.GameObject) | BoltCheck | Moment | 1000000
+fender left(Clone) (UnityEngine.GameObject) | BoltCheck | Tightness | 10000
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+piston1(Clone) (UnityEngine.GameObject) | Removal | Mass | 1
+piston1(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+piston1(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 2
+piston1(Clone) (UnityEngine.GameObject) | BoltCheck | Chance | 0
+piston1(Clone) (UnityEngine.GameObject) | BoltCheck | Tightness | 16
+throttle linkage(xxxxx) (UnityEngine.GameObject) | Screw | Throttle | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+drive gear(Clone) (UnityEngine.GameObject) | Removal | Mass | 4
+drive gear(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+drive gear(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 32
+drive gear(Clone) (UnityEngine.GameObject) | BoltCheck | Chance | 0
+drive gear(Clone) (UnityEngine.GameObject) | BoltCheck | Tightness | 56
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+OpenCap (UnityEngine.GameObject) | Screw | Rot | 359
+OpenCap (UnityEngine.GameObject) | Screw | ScrewAmount | 33
+OpenCap (UnityEngine.GameObject) | Screw | Scroll | 0
+racing radiator(xxxxx) (UnityEngine.GameObject) | Removal | Mass | 8
+racing radiator(xxxxx) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+racing radiator(xxxxx) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 2
+racing radiator(xxxxx) (UnityEngine.GameObject) | BoltCheck | Chance | 0
+racing radiator(xxxxx) (UnityEngine.GameObject) | BoltCheck | Tightness | 32
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+rpm gauge(Clone) (UnityEngine.GameObject) | Removal | Mass | 0.5
+rpm gauge(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+rpm gauge(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 6
+rpm gauge(Clone) (UnityEngine.GameObject) | BoltCheck | Tightness | 16
+timing chain(Clone) (UnityEngine.GameObject) | Removal | Mass | 1
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+wheel rally rr(Clone) (UnityEngine.GameObject) | Removal | Mass | 12
+wheel rally rr(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+wheel rally rr(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 6
+wheel rally rr(Clone) (UnityEngine.GameObject) | BoltCheck | Chance | 0
+wheel rally rr(Clone) (UnityEngine.GameObject) | BoltCheck | Tightness | 10000
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+water pump(Clone) (UnityEngine.GameObject) | Removal | Mass | 1
+water pump(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+water pump(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 24
+water pump(Clone) (UnityEngine.GameObject) | BoltCheck | Chance | 0
+water pump(Clone) (UnityEngine.GameObject) | BoltCheck | Tightness | 40
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+rocker shaft(Clone) (UnityEngine.GameObject) | Removal | Mass | 2
+rocker shaft(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+rocker shaft(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 16
+rocker shaft(Clone) (UnityEngine.GameObject) | BoltCheck | Chance | 0
+rocker shaft(Clone) (UnityEngine.GameObject) | BoltCheck | Tightness | 40
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+steel headers(Clone) (UnityEngine.GameObject) | Removal | Mass | 3
+steel headers(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+steel headers(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 2
+steel headers(Clone) (UnityEngine.GameObject) | BoltCheck | Tightness | 40
+spark plug 1(Clone) (UnityEngine.GameObject) | Removal | Mass | 0.2
+spark plug 1(Clone) (UnityEngine.GameObject) | Screw | Scroll | 0
+spark plug 1(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+spark plug 1(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 8
+spark plug 1(Clone) (UnityEngine.GameObject) | BoltCheck | Tightness | 8
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+fender right(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+fender right(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 28
+fender right(Clone) (UnityEngine.GameObject) | BoltCheck | Moment | 1000000
+fender right(Clone) (UnityEngine.GameObject) | BoltCheck | Tightness | 10000
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+crankshaft pulley(Clone) (UnityEngine.GameObject) | Removal | Mass | 2
+crankshaft pulley(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+crankshaft pulley(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 4
+crankshaft pulley(Clone) (UnityEngine.GameObject) | BoltCheck | Chance | 0
+crankshaft pulley(Clone) (UnityEngine.GameObject) | BoltCheck | Tightness | 8
+radiator hose2(Clone) (UnityEngine.GameObject) | Removal | Mass | 1
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+twin carburators(Clone) (UnityEngine.GameObject) | Removal | Mass | 4
+twin carburators(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+twin carburators(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 8
+twin carburators(Clone) (UnityEngine.GameObject) | BoltCheck | Chance | 0
+twin carburators(Clone) (UnityEngine.GameObject) | BoltCheck | Tightness | 32
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+clutch cover plate(Clone) (UnityEngine.GameObject) | Removal | Mass | 1.5
+clutch cover plate(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+clutch cover plate(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 36
+clutch cover plate(Clone) (UnityEngine.GameObject) | BoltCheck | Tightness | 48
+clutch cover plate(Clone) (UnityEngine.GameObject) | HandRotate | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+grille(Clone) (UnityEngine.GameObject) | Removal | Mass | 2.4
+grille(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+grille(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 6
+grille(Clone) (UnityEngine.GameObject) | BoltCheck | Tightness | 10000
+battery(Clone) (UnityEngine.GameObject) | Removal | Mass | 6
+spark plug 3(Clone) (UnityEngine.GameObject) | Removal | Mass | 0.2
+spark plug 3(Clone) (UnityEngine.GameObject) | Screw | Scroll | 0
+spark plug 3(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+spark plug 3(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 8
+spark plug 3(Clone) (UnityEngine.GameObject) | BoltCheck | Tightness | 8
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+wheel rally fl(Clone) (UnityEngine.GameObject) | Removal | Mass | 12
+wheel rally fl(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+wheel rally fl(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 6
+wheel rally fl(Clone) (UnityEngine.GameObject) | BoltCheck | Chance | 0
+wheel rally fl(Clone) (UnityEngine.GameObject) | BoltCheck | Tightness | 10000
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+piston4(Clone) (UnityEngine.GameObject) | Removal | Mass | 1
+piston4(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+piston4(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 2
+piston4(Clone) (UnityEngine.GameObject) | BoltCheck | Chance | 0
+piston4(Clone) (UnityEngine.GameObject) | BoltCheck | Tightness | 16
+engine plate(Clone) (UnityEngine.GameObject) | Removal | Mass | 2
+clutch disc(Clone) (UnityEngine.GameObject) | Removal | Mass | 1
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+main bearing1(Clone) (UnityEngine.GameObject) | Removal | Mass | 0.5
+main bearing1(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+main bearing1(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 10
+main bearing1(Clone) (UnityEngine.GameObject) | BoltCheck | Chance | 0
+main bearing1(Clone) (UnityEngine.GameObject) | BoltCheck | Tightness | 16
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+CapTrigger_MotorOil (UnityEngine.GameObject) | Trigger | MaxCapacity | 3
+CapTrigger_MotorOil (UnityEngine.GameObject) | Trigger | OilLevel | 0
+cylinder head(Clone) (UnityEngine.GameObject) | Removal | Mass | 8
+cylinder head(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+cylinder head(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 24
+cylinder head(Clone) (UnityEngine.GameObject) | BoltCheck | Chance | 0
+cylinder head(Clone) (UnityEngine.GameObject) | BoltCheck | Tightness | 80
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+camshaft gear(Clone) (UnityEngine.GameObject) | Removal | Mass | 1.5
+camshaft gear(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+camshaft gear(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 5
+camshaft gear(Clone) (UnityEngine.GameObject) | BoltCheck | Tightness | 8
+rear spoiler2(Clone) (UnityEngine.GameObject) | Removal | Mass | 3
+racing harness(xxxxx) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+racing harness(xxxxx) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 4
+racing harness(xxxxx) (UnityEngine.GameObject) | BoltCheck | Tightness | 10000
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+flywheel(Clone) (UnityEngine.GameObject) | Removal | Mass | 9
+flywheel(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+flywheel(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 32
+flywheel(Clone) (UnityEngine.GameObject) | BoltCheck | Tightness | 48
+flywheel(Clone) (UnityEngine.GameObject) | HandRotate | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+alternator(Clone) (UnityEngine.GameObject) | Removal | Mass | 3.6
+alternator(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+alternator(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 6
+alternator(Clone) (UnityEngine.GameObject) | BoltCheck | Rotation | 6.999994
+alternator(Clone) (UnityEngine.GameObject) | BoltCheck | Tightness | 16
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+rally steering wheel(Clone) (UnityEngine.GameObject) | Removal | Mass | 1
+rally steering wheel(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+rally steering wheel(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 2
+rally steering wheel(Clone) (UnityEngine.GameObject) | BoltCheck | Tightness | 8
+BoltPM (UnityEngine.GameObject) | Screw | Alignment | 14.1
+BoltPM (UnityEngine.GameObject) | Screw | Max | 22
+BoltPM (UnityEngine.GameObject) | Screw | Min | 13.5
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+starter(Clone) (UnityEngine.GameObject) | Removal | Mass | 1.5
+starter(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+starter(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 6
+starter(Clone) (UnityEngine.GameObject) | BoltCheck | Chance | 0
+starter(Clone) (UnityEngine.GameObject) | BoltCheck | Tightness | 16
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+main bearing3(Clone) (UnityEngine.GameObject) | Removal | Mass | 0.5
+main bearing3(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+main bearing3(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 10
+main bearing3(Clone) (UnityEngine.GameObject) | BoltCheck | Chance | 0
+main bearing3(Clone) (UnityEngine.GameObject) | BoltCheck | Tightness | 16
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+rocker cover(Clone) (UnityEngine.GameObject) | Removal | Mass | 1
+rocker cover(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+rocker cover(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 2
+rocker cover(Clone) (UnityEngine.GameObject) | BoltCheck | Tightness | 48
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+distributor(Clone) (UnityEngine.GameObject) | Removal | Mass | 1
+distributor(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+distributor(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 6
+distributor(Clone) (UnityEngine.GameObject) | BoltCheck | Chance | 0
+distributor(Clone) (UnityEngine.GameObject) | BoltCheck | Tightness | 8
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+bucket seat driver(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+bucket seat driver(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 7
+bucket seat driver(Clone) (UnityEngine.GameObject) | BoltCheck | Moment | 0
+bucket seat driver(Clone) (UnityEngine.GameObject) | BoltCheck | Tightness | 10000
+radio(Clone) (UnityEngine.GameObject) | Removal | Mass | 1
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+piston3(Clone) (UnityEngine.GameObject) | Removal | Mass | 1
+piston3(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+piston3(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 2
+piston3(Clone) (UnityEngine.GameObject) | BoltCheck | Chance | 0
+piston3(Clone) (UnityEngine.GameObject) | BoltCheck | Tightness | 16
+spark plug 4(Clone) (UnityEngine.GameObject) | Removal | Mass | 0.2
+spark plug 4(Clone) (UnityEngine.GameObject) | Screw | Scroll | 0
+spark plug 4(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+spark plug 4(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 8
+spark plug 4(Clone) (UnityEngine.GameObject) | BoltCheck | Tightness | 8
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+gearbox(Clone) (UnityEngine.GameObject) | Removal | Mass | 11
+gearbox(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+gearbox(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 36
+gearbox(Clone) (UnityEngine.GameObject) | BoltCheck | Tightness | 56
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+wheel rally rl(Clone) (UnityEngine.GameObject) | Removal | Mass | 12
+wheel rally rl(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+wheel rally rl(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 6
+wheel rally rl(Clone) (UnityEngine.GameObject) | BoltCheck | Chance | 0
+wheel rally rl(Clone) (UnityEngine.GameObject) | BoltCheck | Tightness | 10000
+clutch pressure plate(Clone) (UnityEngine.GameObject) | Removal | Mass | 1
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+wheel rally fr(Clone) (UnityEngine.GameObject) | Removal | Mass | 12
+wheel rally fr(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+wheel rally fr(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 6
+wheel rally fr(Clone) (UnityEngine.GameObject) | BoltCheck | Chance | 0
+wheel rally fr(Clone) (UnityEngine.GameObject) | BoltCheck | Tightness | 10000
+spark plug 2(Clone) (UnityEngine.GameObject) | Removal | Mass | 0.2
+spark plug 2(Clone) (UnityEngine.GameObject) | Screw | Scroll | 0
+spark plug 2(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+spark plug 2(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 8
+spark plug 2(Clone) (UnityEngine.GameObject) | BoltCheck | Tightness | 8
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+dashboard(Clone) (UnityEngine.GameObject) | Removal | Mass | 7
+dashboard(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+dashboard(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 10
+dashboard(Clone) (UnityEngine.GameObject) | BoltCheck | Tightness | 16
+head gasket(Clone) (UnityEngine.GameObject) | Removal | Mass | 0.5
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+dashboard meters(Clone) (UnityEngine.GameObject) | Removal | Mass | 2
+dashboard meters(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+dashboard meters(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 12
+dashboard meters(Clone) (UnityEngine.GameObject) | BoltCheck | Tightness | 16
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+water pump pulley(Clone) (UnityEngine.GameObject) | Removal | Mass | 0.5
+water pump pulley(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+water pump pulley(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 22
+water pump pulley(Clone) (UnityEngine.GameObject) | BoltCheck | Tightness | 32
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+piston2(Clone) (UnityEngine.GameObject) | Removal | Mass | 1
+piston2(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+piston2(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 2
+piston2(Clone) (UnityEngine.GameObject) | BoltCheck | Chance | 0
+piston2(Clone) (UnityEngine.GameObject) | BoltCheck | Tightness | 16
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+oilpan(Clone) (UnityEngine.GameObject) | Removal | Mass | 3
+oilpan(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+oilpan(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 15
+oilpan(Clone) (UnityEngine.GameObject) | BoltCheck | Tightness | 64
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+camshaft(Clone) (UnityEngine.GameObject) | Removal | Mass | 3
+camshaft(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+camshaft(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 10
+camshaft(Clone) (UnityEngine.GameObject) | BoltCheck | Tightness | 16
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+racing exhaust(Clone) (UnityEngine.GameObject) | Removal | Pos | 0
+racing exhaust(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+racing exhaust(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 6
+racing exhaust(Clone) (UnityEngine.GameObject) | BoltCheck | Moment | 2000000
+racing exhaust(Clone) (UnityEngine.GameObject) | BoltCheck | Tightness | 10000
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+main bearing2(Clone) (UnityEngine.GameObject) | Removal | Mass | 0.5
+main bearing2(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+main bearing2(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 10
+main bearing2(Clone) (UnityEngine.GameObject) | BoltCheck | Chance | 0
+main bearing2(Clone) (UnityEngine.GameObject) | BoltCheck | Tightness | 16
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+timing cover(Clone) (UnityEngine.GameObject) | Removal | Mass | 2
+timing cover(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+timing cover(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 28
+timing cover(Clone) (UnityEngine.GameObject) | BoltCheck | Tightness | 48
+oil filter(Clone) (UnityEngine.GameObject) | Removal | Mass | 0.5
+oil filter(Clone) (UnityEngine.GameObject) | Screw | Scroll | 0
+oil filter(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+oil filter(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 8
+oil filter(Clone) (UnityEngine.GameObject) | BoltCheck | Tightness | 8
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+electrics(Clone) (UnityEngine.GameObject) | Removal | Mass | 1
+electrics(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+electrics(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 12
+electrics(Clone) (UnityEngine.GameObject) | BoltCheck | Tightness | 16
+fan belt(Clone) (UnityEngine.GameObject) | Removal | AlternatorRot | 0
+fan belt(Clone) (UnityEngine.GameObject) | Removal | Mass | 0.5
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+fuel pump(Clone) (UnityEngine.GameObject) | Removal | Mass | 0.5
+fuel pump(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+fuel pump(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 10
+fuel pump(Clone) (UnityEngine.GameObject) | BoltCheck | Chance | 0
+fuel pump(Clone) (UnityEngine.GameObject) | BoltCheck | Tightness | 16
+crankshaft(Clone) (UnityEngine.GameObject) | Removal | Mass | 4
+crankshaft(Clone) (UnityEngine.GameObject) | HandRotate | Scroll | 0
+Wipers (UnityEngine.GameObject) | Function | Delay | 3
+Animations (UnityEngine.GameObject) | Rotation | Anim | -1
+Animations (UnityEngine.GameObject) | Rotation | Rounds | 0
+Animations (UnityEngine.GameObject) | Jumping | Health | 0
+Animations (UnityEngine.GameObject) | Jumping | Pitch | 0
+Animations (UnityEngine.GameObject) | Jumping | Rotation | 0
+Animations (UnityEngine.GameObject) | Jumping | Scale | 1.1
+Animations (UnityEngine.GameObject) | Jumping | Scale1 | 7
+Animations (UnityEngine.GameObject) | Jumping | Wait | 0.4384845
+Animations (UnityEngine.GameObject) | Jumping | Wear | -1
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+fuel tank(Clone) (UnityEngine.GameObject) | Removal | Fuel | 0
+fuel tank(Clone) (UnityEngine.GameObject) | Removal | Random | 0
+fuel tank(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+fuel tank(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 12
+fuel tank(Clone) (UnityEngine.GameObject) | BoltCheck | Moment | 7000000
+fuel tank(Clone) (UnityEngine.GameObject) | BoltCheck | Tightness | 10000
+BoltPM (UnityEngine.GameObject) | Screw | BoltSize | 0
+BoltPM (UnityEngine.GameObject) | Screw | Scroll | 0
+racing muffler(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedNO | 0
+racing muffler(Clone) (UnityEngine.GameObject) | BoltCheck | BoltedYES | 2
+racing muffler(Clone) (UnityEngine.GameObject) | BoltCheck | Moment | 1600000
+racing muffler(Clone) (UnityEngine.GameObject) | BoltCheck | Tightness | 10000
+Hand (UnityEngine.GameObject) | PickUp | BreakForce | 1800
+Hand (UnityEngine.GameObject) | PickUp | Distance | 0
+Hand (UnityEngine.GameObject) | PickUp | PlayerStrenght | 80
+Hand (UnityEngine.GameObject) | PickUp | RigidBodyMass | 0
+Hand (UnityEngine.GameObject) | PickUp | ThrowStrenght | 0
+Hand (UnityEngine.GameObject) | PickUp | WalkSpeedTool | 0.8
+Hand (UnityEngine.GameObject) | Rotate object | RotationX | 0
+Hand (UnityEngine.GameObject) | Rotate object | RotationY | 0
+Hand (UnityEngine.GameObject) | Rotate object | Scroll | 0
+SelectItem (UnityEngine.GameObject) | Selection | OldWrench | 0
+FPSCamera (UnityEngine.GameObject) | PlayerFunctions | PlayerSpeed | 0
+FPSCamera (UnityEngine.GameObject) | Drunk Mode | DrunkXmax | 0
+FPSCamera (UnityEngine.GameObject) | Drunk Mode | DrunkXmin | 0
+FPSCamera (UnityEngine.GameObject) | Drunk Mode | DrunkYmax | 0
+FPSCamera (UnityEngine.GameObject) | Drunk Mode | DrunkYmin | 0
+FPSCamera (UnityEngine.GameObject) | Drunk Mode | DrunkZmax | 0
+FPSCamera (UnityEngine.GameObject) | Drunk Mode | DrunkZmin | 0
+FPSCamera (UnityEngine.GameObject) | Drunk Mode | FishX | 0
+FPSCamera (UnityEngine.GameObject) | Drunk Mode | UpdateTime | 2
+FPSCamera (UnityEngine.GameObject) | Drunk Mode | X | 0
+FPSCamera (UnityEngine.GameObject) | Drunk Mode | Y | 0
+FPSCamera (UnityEngine.GameObject) | Drunk Mode | Z | 0
+FPSCamera (UnityEngine.GameObject) | CameraSettings | FovZoom | 0
+FPSCamera (UnityEngine.GameObject) | CameraSettings | MouseNewX | 0
+FPSCamera (UnityEngine.GameObject) | CameraSettings | MouseNewY | 0
+FPSCamera (UnityEngine.GameObject) | CameraSettings | MouseSensX | 0
+FPSCamera (UnityEngine.GameObject) | CameraSettings | MouseSensY | 0
+FPSCamera (UnityEngine.GameObject) | CameraSettings | Zoom | 60
+Rain (UnityEngine.GameObject) | Rain | Density | 0
+Rain (UnityEngine.GameObject) | Rain | EaseTime | 2
+Rain (UnityEngine.GameObject) | Rain | FogOff | 0.001
+Rain (UnityEngine.GameObject) | Rain | FogOn | 0.02
+Rain (UnityEngine.GameObject) | Rain | Glossiness | 0
+Rain (UnityEngine.GameObject) | Rain | RainEmission | 0
+Rain (UnityEngine.GameObject) | Rain | RainMaxEmission | 1500
+Rain (UnityEngine.GameObject) | Rain | Volume | 0
+PLAYER (UnityEngine.GameObject) | WalkSpeed | MoveSpeed | 2
+PLAYER (UnityEngine.GameObject) | Swim | CharGravity | 20
+PLAYER (UnityEngine.GameObject) | Swim | CharMaxFallSpeed | 20
+PLAYER (UnityEngine.GameObject) | Swim | JumpBaseHeight | 0.5
+PLAYER (UnityEngine.GameObject) | Swim | Pos | -10.88986
+PLAYER (UnityEngine.GameObject) | Swim | Pos2 | 0
+PLAYER (UnityEngine.GameObject) | Running | MoveSpeed | 2
+PLAYER (UnityEngine.GameObject) | Crouch | CamPosCrouched1 | 0.85
+PLAYER (UnityEngine.GameObject) | Crouch | CamPosCrouched2 | 0.3
+PLAYER (UnityEngine.GameObject) | Crouch | CamPosStanding | 1.4
+PLAYER (UnityEngine.GameObject) | Crouch | CrouchSpeed | 1
+PLAYER (UnityEngine.GameObject) | Crouch | Position | 1.4
+PLAYER (UnityEngine.GameObject) | Crouch | PositionCar | 0.6
+PLAYER (UnityEngine.GameObject) | Reach | Position | 0
+Drink (UnityEngine.GameObject) | Drink | KiljuAlc | 0
+Drink (UnityEngine.GameObject) | Drink | KiljuSweetness | 0
+Drink (UnityEngine.GameObject) | Drink | KiljuVinegar | 0
+Drink (UnityEngine.GameObject) | Drink | KiljuYeast | 0
+Piss (UnityEngine.GameObject) | Logic | Emission | 400
+Piss (UnityEngine.GameObject) | Logic | EmptyRate | 0
+Piss (UnityEngine.GameObject) | Logic | FluidRate | 0
+Mosquito (UnityEngine.GameObject) | Move | PlayerMosquitoShield | 0
+Mosquito (UnityEngine.GameObject) | Move | Time | 10.1421
+Mosquito (UnityEngine.GameObject) | Move | X | 0
+Mosquito (UnityEngine.GameObject) | Move | Y | 0
+Mosquito (UnityEngine.GameObject) | Move | Z | 0
+PlayerDatabase (UnityEngine.GameObject) | Simulation | SimulationRate | 45
+Police (UnityEngine.GameObject) | Police | Distance | 0
+Police (UnityEngine.GameObject) | Police | PlayerDistance | 1200
+Cop2 (UnityEngine.GameObject) | Rotate | Distance | 0
+Cop2 (UnityEngine.GameObject) | Rotate | SpeedTrap | 0
+Cop2 (UnityEngine.GameObject) | Speedtrap | Distance | 1525.46
+Cop2 (UnityEngine.GameObject) | Speedtrap | SpeedTrap | 0
+POLICE2 (UnityEngine.GameObject) | LOD | Distance | 1469.22
+POLICE2 (UnityEngine.GameObject) | LOD | LOD | 200
+POLICE2 (UnityEngine.GameObject) | LOD | Y | 0
+POLICE2 (UnityEngine.GameObject) | Steering | Angle | 0.04378828
+POLICE2 (UnityEngine.GameObject) | Steering | Angle2 | 0.001771015
+POLICE2 (UnityEngine.GameObject) | Steering | Lane | 10
+POLICE2 (UnityEngine.GameObject) | Steering | SpeedKMH | 0.001336302
+POLICE2 (UnityEngine.GameObject) | Throttle | Brake | 0
+POLICE2 (UnityEngine.GameObject) | Throttle | CrashSpeed | 0
+POLICE2 (UnityEngine.GameObject) | Throttle | DeathSpeedMPS | 5
+POLICE2 (UnityEngine.GameObject) | Throttle | SpeedCurrent | 0.001336302
+POLICE2 (UnityEngine.GameObject) | Throttle | SpeedMax | 105
+POLICE2 (UnityEngine.GameObject) | Throttle | SpeedMin | 95
+POLICE2 (UnityEngine.GameObject) | Throttle | TargetSpeed | 0
+POLICE2 (UnityEngine.GameObject) | Throttle | ThrottleAccel | 1
+POLICE2 (UnityEngine.GameObject) | Throttle | ThrottleCruise | 0.2
+POLICE2 (UnityEngine.GameObject) | Throttle | Velo | 0
+POLICE2 (UnityEngine.GameObject) | Throttle | Wait | 0
+POLICE2 (UnityEngine.GameObject) | Shifting | RPM | 680.6747
+POLICE2 (UnityEngine.GameObject) | Shifting | ShiftDown | 2000
+POLICE2 (UnityEngine.GameObject) | Shifting | ShiftUp | 6000
+Cop4 (UnityEngine.GameObject) | Rotate | Distance | 0
+Cop4 (UnityEngine.GameObject) | Rotate | SpeedTrap | 0
+POLICE1 (UnityEngine.GameObject) | LOD | Distance | 1479.65
+POLICE1 (UnityEngine.GameObject) | LOD | LOD | 200
+POLICE1 (UnityEngine.GameObject) | LOD | Y | 0
+POLICE1 (UnityEngine.GameObject) | Steering | Angle | 0.02141488
+POLICE1 (UnityEngine.GameObject) | Steering | Angle2 | 0.0008575374
+POLICE1 (UnityEngine.GameObject) | Steering | Lane | 10
+POLICE1 (UnityEngine.GameObject) | Steering | SpeedKMH | 0.0002717279
+POLICE1 (UnityEngine.GameObject) | Throttle | Brake | 0
+POLICE1 (UnityEngine.GameObject) | Throttle | CrashSpeed | 0
+POLICE1 (UnityEngine.GameObject) | Throttle | DeathSpeedMPS | 5
+POLICE1 (UnityEngine.GameObject) | Throttle | SpeedCurrent | 0.0002717279
+POLICE1 (UnityEngine.GameObject) | Throttle | SpeedMax | 105
+POLICE1 (UnityEngine.GameObject) | Throttle | SpeedMin | 95
+POLICE1 (UnityEngine.GameObject) | Throttle | TargetSpeed | 0
+POLICE1 (UnityEngine.GameObject) | Throttle | ThrottleAccel | 1
+POLICE1 (UnityEngine.GameObject) | Throttle | ThrottleCruise | 0.2
+POLICE1 (UnityEngine.GameObject) | Throttle | Velo | 0
+POLICE1 (UnityEngine.GameObject) | Throttle | Wait | 0
+POLICE1 (UnityEngine.GameObject) | Shifting | RPM | 680.6747
+POLICE1 (UnityEngine.GameObject) | Shifting | ShiftDown | 2000
+POLICE1 (UnityEngine.GameObject) | Shifting | ShiftUp | 6000
+HeadPivot (UnityEngine.GameObject) | Look | Rot | 295.3667
+HumanCollider (UnityEngine.GameObject) | PlayerHit | RayDistance | 1
+CopPassenger (UnityEngine.GameObject) | Logic | Distance | 0
+Sirens (UnityEngine.GameObject) | Blinking | Delay | 0.4
+HumanCollider (UnityEngine.GameObject) | PlayerHit | RayDistance | 1
+CopPassenger (UnityEngine.GameObject) | Logic | Distance | 0
+HeadPivot (UnityEngine.GameObject) | Look | Rot | 295.3667
+Cop3 (UnityEngine.GameObject) | Rotate | Distance | 0
+Cop3 (UnityEngine.GameObject) | Rotate | SpeedTrap | 0
+LookTarget (UnityEngine.GameObject) | Move | Z | -9.111872
+EngineSound (UnityEngine.GameObject) | Sound | Divider | 5000
+EngineSound (UnityEngine.GameObject) | Sound | Pitch | 0.5
+EngineSound (UnityEngine.GameObject) | Sound | RPM | 680.6747
+EngineSound (UnityEngine.GameObject) | Sound | Divider | 5000
+EngineSound (UnityEngine.GameObject) | Sound | Pitch | 0.5
+EngineSound (UnityEngine.GameObject) | Sound | RPM | 680.6747
+HumanCollider (UnityEngine.GameObject) | PlayerHit | RayDistance | 1
+Cops 1 (UnityEngine.GameObject) | Traps | Distance | 1469.801
+Sirens (UnityEngine.GameObject) | Blinking | Delay | 0.4
+LookTarget (UnityEngine.GameObject) | Move | Z | 1.059981
+Cop1 (UnityEngine.GameObject) | Rotate | Distance | 0
+Cop1 (UnityEngine.GameObject) | Rotate | SpeedTrap | 0
+Cop1 (UnityEngine.GameObject) | Speedtrap | Distance | 1456.427
+Cop1 (UnityEngine.GameObject) | Speedtrap | SpeedTrap | 0
+HumanCollider (UnityEngine.GameObject) | PlayerHit | RayDistance | 1
+TireStatus (UnityEngine.GameObject) | WheelFL | RimRadius | 0.175
+TireStatus (UnityEngine.GameObject) | WheelFL | TireRadius | 0.2875
+TireStatus (UnityEngine.GameObject) | WheelFL | TireWidth | 0.163
+TireStatus (UnityEngine.GameObject) | WheelFR | RimRadius | 0.175
+TireStatus (UnityEngine.GameObject) | WheelFR | TireRadius | 0.2875
+TireStatus (UnityEngine.GameObject) | WheelFR | TireWidth | 0.163
+TireStatus (UnityEngine.GameObject) | WheelRL | RimRadius | 0.175
+TireStatus (UnityEngine.GameObject) | WheelRL | TireRadius | 0.2875
+TireStatus (UnityEngine.GameObject) | WheelRL | TireWidth | 0.163
+TireStatus (UnityEngine.GameObject) | WheelRR | RimRadius | 0.175
+TireStatus (UnityEngine.GameObject) | WheelRR | TireRadius | 0.2875
+TireStatus (UnityEngine.GameObject) | WheelRR | TireWidth | 0.163
+HouseElectricity (UnityEngine.GameObject) | Status | Blackout | 0
+HouseElectricity (UnityEngine.GameObject) | Status | Distance | 0
+coll (UnityEngine.GameObject) | Use | RayDistance | 1.5
+NeedleFuel (UnityEngine.GameObject) | Temp | RPM | 0
+NeedleFuel (UnityEngine.GameObject) | Temp | Rotation | 59.783
+NeedleFuel (UnityEngine.GameObject) | Temp | VanFuel | 29.8915
+Fuel (UnityEngine.GameObject) | FuelLine | Consumption | 350000
+Fuel (UnityEngine.GameObject) | FuelLine | FuelLevel | 29.8915
+Fuel (UnityEngine.GameObject) | FuelLine | FuelUsage | 0
+Fuel (UnityEngine.GameObject) | FuelLine | RandomRPM | 0
+Fuel (UnityEngine.GameObject) | FuelLine | RandomTime | 0
+Fuel (UnityEngine.GameObject) | FuelLine | VanRPM | 0
+TurnSignals (UnityEngine.GameObject) | Usage | DashVolume | 0.5
+TurnSignals (UnityEngine.GameObject) | Usage | Delay | 0.4
+TurnSignals (UnityEngine.GameObject) | Usage | Volume | 0
+TurnSignals (UnityEngine.GameObject) | Usage | WheelAngle | 0
+NeedleTemp (UnityEngine.GameObject) | Temp | RPM | 0
+NeedleTemp (UnityEngine.GameObject) | Temp | Rotation | 12.5
+NeedleTemp (UnityEngine.GameObject) | Temp | Temp | 25
+Cooling (UnityEngine.GameObject) | Cooling | Cooling | 0
+Cooling (UnityEngine.GameObject) | Cooling | Heat | 0
+Cooling (UnityEngine.GameObject) | Cooling | HeatGeneration | 10000
+Cooling (UnityEngine.GameObject) | Cooling | VanEngineTemp | 25
+Cooling (UnityEngine.GameObject) | Cooling | VanRPM | 0
+Cooling (UnityEngine.GameObject) | Cooling | VanSpeed | 0
+Cooling (UnityEngine.GameObject) | Cooling | WaterLevel | 4
+RearIK (UnityEngine.GameObject) | CalculateAngle | Tire1pos | -0.05251573
+RearIK (UnityEngine.GameObject) | CalculateAngle | Tire2pos | -0.05253861
+RearIK (UnityEngine.GameObject) | CalculateAngle | TireAngle | -0.0009639481
+RearIK (UnityEngine.GameObject) | CalculateAngle | Travel | 2.288073E-05
+RearIK (UnityEngine.GameObject) | CalculateAngle | Wheelbase | 1.36
+NeedleSpeedometer (UnityEngine.GameObject) | Speed | RPM | 0
+NeedleSpeedometer (UnityEngine.GameObject) | Speed | Rotation | 0
+NeedleSpeedometer (UnityEngine.GameObject) | Speed | Speed | 0
+brake (UnityEngine.GameObject) | Angle | Angle | 0
+brake (UnityEngine.GameObject) | Angle | Data | 0
+AirIntake (UnityEngine.GameObject) | InWater | Distance | 0
+AirIntake (UnityEngine.GameObject) | InWater | Pos | 0.2489415
+AirIntake (UnityEngine.GameObject) | InWater | WaterLevel | -4.5
+ParkingBrake (UnityEngine.GameObject) | Use | Brake | 0
+ParkingBrake (UnityEngine.GameObject) | Use | KnobPos | 0.1
+ParkingBrake (UnityEngine.GameObject) | Brake | Brake | 1
+ParkingBrake (UnityEngine.GameObject) | Brake | Position | 0.1
+throttle (UnityEngine.GameObject) | FSM | Data | 0
+DriveTrigger (UnityEngine.GameObject) | PlayerTrigger | MinimumRequiredVelocity | 0.15
+DriveTrigger (UnityEngine.GameObject) | PlayerTrigger | Speed | 0
+DriveTrigger (UnityEngine.GameObject) | PlayerTrigger | VeloX | 0
+DriveTrigger (UnityEngine.GameObject) | PlayerTrigger | VeloY | 0
+DriveTrigger (UnityEngine.GameObject) | PlayerTrigger | VeloZ | 0
+Driveshaft (UnityEngine.GameObject) | FSM | Turn | 0
+FromEngine (UnityEngine.GameObject) | ExhaustSound | Emission | 0
+FromEngine (UnityEngine.GameObject) | ExhaustSound | RPM | 0
+FromEngine (UnityEngine.GameObject) | ExhaustSound | RPM2 | 0
+FromEngine (UnityEngine.GameObject) | ExhaustSound | Throttle | 0
+FromEngine (UnityEngine.GameObject) | ExhaustSound | Velocity | 0
+clutch (UnityEngine.GameObject) | FSM | Data | 0
+Starter (UnityEngine.GameObject) | Use | DashVolume | 0
+Starter (UnityEngine.GameObject) | Use | MouseDelay | 0.4
+Throttle (UnityEngine.GameObject) | Use | LeverPos | 0
+Throttle (UnityEngine.GameObject) | Use | RPM | 0
+Throttle (UnityEngine.GameObject) | Use | Throttle | 0
+Range (UnityEngine.GameObject) | Use | RangeFast | 4
+Range (UnityEngine.GameObject) | Use | RangeSlow | 8
+DiffLock (UnityEngine.GameObject) | Use | LeverPos | 0
+ParkingBrake (UnityEngine.GameObject) | Use | KnobPos | 0.2
+ParkingBrake (UnityEngine.GameObject) | Brake | Brake | 1
+ParkingBrake (UnityEngine.GameObject) | Brake | Position | 0.2
+Speed (UnityEngine.GameObject) | Speed RPM | Speed | 3.133063E-06
+OpenCap (UnityEngine.GameObject) | Screw | Rot | 359
+OpenCap (UnityEngine.GameObject) | Screw | ScrewAmount | 33
+OpenCap (UnityEngine.GameObject) | Screw | Scroll | 0
+PlayerTrigger (UnityEngine.GameObject) | PlayerTrigger | Distance | 0
+Ignition (UnityEngine.GameObject) | Use | DashVolume | 0
+Ignition (UnityEngine.GameObject) | Use | MouseDelay | 0.4
+DriveTrigger (UnityEngine.GameObject) | PlayerTrigger | MinimumRequiredVelocity | 0.15
+DriveTrigger (UnityEngine.GameObject) | PlayerTrigger | Speed | 0
+DriveTrigger (UnityEngine.GameObject) | PlayerTrigger | VeloX | 0
+DriveTrigger (UnityEngine.GameObject) | PlayerTrigger | VeloY | 0
+DriveTrigger (UnityEngine.GameObject) | PlayerTrigger | VeloZ | 0
+Tachometer (UnityEngine.GameObject) | RPM | Rotation | 0
+Fuel (UnityEngine.GameObject) | Fuel | Rotation | 45.10644
+FromEngine (UnityEngine.GameObject) | ExhaustSound | Emission | 0
+FromEngine (UnityEngine.GameObject) | ExhaustSound | Pitch | 0
+FromEngine (UnityEngine.GameObject) | ExhaustSound | Velocity | 0
+Fuel (UnityEngine.GameObject) | FuelLine | Consumption | 280000
+Fuel (UnityEngine.GameObject) | FuelLine | FuelLevel | 32.57723
+Fuel (UnityEngine.GameObject) | FuelLine | FuelUsage | 0
+Fuel (UnityEngine.GameObject) | FuelLine | RandomRPM | 0
+Fuel (UnityEngine.GameObject) | FuelLine | RandomTime | 0
+Fuel (UnityEngine.GameObject) | FuelLine | TractorRPM | 0
+AirIntake (UnityEngine.GameObject) | InWater | Distance | 0
+AirIntake (UnityEngine.GameObject) | InWater | Pos | 0.638028
+AirIntake (UnityEngine.GameObject) | InWater | WaterLevel | -4.5
+PlayerTrigger (UnityEngine.GameObject) | PlayerTrigger | Distance | 0
+Suspension (UnityEngine.GameObject) | Suspension | Angle | 115.7572
+Suspension (UnityEngine.GameObject) | Suspension | Angle2 | -115.7572
+Suspension (UnityEngine.GameObject) | Suspension | Y | -0.08
+FromEngine (UnityEngine.GameObject) | ExhaustSound | Emission | 0
+FromEngine (UnityEngine.GameObject) | ExhaustSound | RPM | 0
+FromEngine (UnityEngine.GameObject) | ExhaustSound | RPM2 | 0
+FromEngine (UnityEngine.GameObject) | ExhaustSound | Throttle | 0
+FromEngine (UnityEngine.GameObject) | ExhaustSound | Velocity | 0
+DriveTrigger (UnityEngine.GameObject) | PlayerTrigger | MinimumRequiredVelocity | 0.15
+DriveTrigger (UnityEngine.GameObject) | PlayerTrigger | Rot | 0
+DriveTrigger (UnityEngine.GameObject) | PlayerTrigger | Speed | 0
+DriveTrigger (UnityEngine.GameObject) | PlayerTrigger | VeloX | 0
+DriveTrigger (UnityEngine.GameObject) | PlayerTrigger | VeloY | 0
+DriveTrigger (UnityEngine.GameObject) | PlayerTrigger | VeloZ | 0
+AirIntake (UnityEngine.GameObject) | InWater | Distance | 0
+AirIntake (UnityEngine.GameObject) | InWater | Pos | -1.29421
+AirIntake (UnityEngine.GameObject) | InWater | WaterLevel | -4.5
+Fuel (UnityEngine.GameObject) | FuelLine | Consumption | 4000000
+Fuel (UnityEngine.GameObject) | FuelLine | FuelLevel | 2.779944
+Fuel (UnityEngine.GameObject) | FuelLine | FuelUsage | 0
+Fuel (UnityEngine.GameObject) | FuelLine | RPM | 0
+Fuel (UnityEngine.GameObject) | FuelLine | RandomRPM | 0
+Fuel (UnityEngine.GameObject) | FuelLine | RandomTime | 0
+OpenCap (UnityEngine.GameObject) | Screw | Rot | 359
+OpenCap (UnityEngine.GameObject) | Screw | ScrewAmount | 33
+OpenCap (UnityEngine.GameObject) | Screw | Scroll | 0
+Speedometer (UnityEngine.GameObject) | Speed | RPM | 0
+Speedometer (UnityEngine.GameObject) | Speed | Rotation | 0
+Speedometer (UnityEngine.GameObject) | Speed | Speed | 0
+Tipping (UnityEngine.GameObject) | Brake | Clutch | 0
+Tipping (UnityEngine.GameObject) | Brake | FrictionTorque | 700
+Tipping (UnityEngine.GameObject) | Tipping2 | Velo | 0
+Tipping (UnityEngine.GameObject) | Tipping1 | Rot | 89.94749
+Tipping (UnityEngine.GameObject) | Tipping1 | Speed | 0
+Tipping (UnityEngine.GameObject) | Tipping1 | TippingAngle | 140

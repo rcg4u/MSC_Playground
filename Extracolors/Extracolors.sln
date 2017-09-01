@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extracolors", "Extracolors\Extracolors.csproj", "{2CEAE666-CBA5-4FA6-AEE3-D6C5CFB2DE20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		MSC Release|Any CPU = MSC Release|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CEAE666-CBA5-4FA6-AEE3-D6C5CFB2DE20}.MSC Release|Any CPU.ActiveCfg = MSC Release|Any CPU
+		{2CEAE666-CBA5-4FA6-AEE3-D6C5CFB2DE20}.MSC Release|Any CPU.Build.0 = MSC Release|Any CPU
+		{2CEAE666-CBA5-4FA6-AEE3-D6C5CFB2DE20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CEAE666-CBA5-4FA6-AEE3-D6C5CFB2DE20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CEAE666-CBA5-4FA6-AEE3-D6C5CFB2DE20}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{2CEAE666-CBA5-4FA6-AEE3-D6C5CFB2DE20}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{2CEAE666-CBA5-4FA6-AEE3-D6C5CFB2DE20}.MSC Release|Any CPU.Deploy.0 = MSC Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
