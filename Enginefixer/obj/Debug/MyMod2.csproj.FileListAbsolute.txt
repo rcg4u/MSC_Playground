@@ -1,0 +1,17 @@
+C:\Users\danie\Documents\Visual Studio 2017\Projects\MyMod2\MyMod2\bin\Debug\MyMod2.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\MyMod2\MyMod2\bin\Debug\MyMod2.pdb
+C:\Users\danie\Documents\Visual Studio 2017\Projects\MyMod2\MyMod2\bin\Debug\Assembly-CSharp.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\MyMod2\MyMod2\bin\Debug\MSCLoader.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\MyMod2\MyMod2\bin\Debug\PlayMaker.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\MyMod2\MyMod2\bin\Debug\UnityEngine.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\MyMod2\MyMod2\bin\Debug\Assembly-UnityScript-firstpass.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\MyMod2\MyMod2\bin\Debug\UnityEngine.UI.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\MyMod2\MyMod2\bin\Debug\ES2.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\MyMod2\MyMod2\bin\Debug\cInput.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\MyMod2\MyMod2\bin\Debug\HOTween.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\MyMod2\MyMod2\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\MyMod2\MyMod2\bin\Debug\Boo.Lang.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\MyMod2\MyMod2\bin\Debug\MoodkieSecurity.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\MyMod2\MyMod2\bin\Debug\Mono.Security.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\MyMod2\MyMod2\obj\Debug\MyMod2.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\MyMod2\MyMod2\obj\Debug\MyMod2.pdb
