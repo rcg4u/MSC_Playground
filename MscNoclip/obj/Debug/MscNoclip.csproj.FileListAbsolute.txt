@@ -1,0 +1,8 @@
+C:\Users\danie\Downloads\MSCModLoader-master\MSCModLoader-master\MSCLoader\MscNoclip\bin\Debug\MscNoclip.dll
+C:\Users\danie\Downloads\MSCModLoader-master\MSCModLoader-master\MSCLoader\MscNoclip\bin\Debug\MscNoclip.pdb
+C:\Users\danie\Downloads\MSCModLoader-master\MSCModLoader-master\MSCLoader\MscNoclip\bin\Debug\MSCLoader.dll
+C:\Users\danie\Downloads\MSCModLoader-master\MSCModLoader-master\MSCLoader\MscNoclip\bin\Debug\PlayMaker.dll
+C:\Users\danie\Downloads\MSCModLoader-master\MSCModLoader-master\MSCLoader\MscNoclip\bin\Debug\UnityEngine.dll
+C:\Users\danie\Downloads\MSCModLoader-master\MSCModLoader-master\MSCLoader\MscNoclip\obj\Debug\MscNoclip.dll
+C:\Users\danie\Downloads\MSCModLoader-master\MSCModLoader-master\MSCLoader\MscNoclip\obj\Debug\MscNoclip.pdb
+C:\Users\danie\Downloads\MSCModLoader-master\MSCModLoader-master\MSCLoader\MscNoclip\obj\Debug\MscNoclip.csprojResolveAssemblyReference.cache

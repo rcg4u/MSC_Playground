@@ -1,0 +1,5 @@
+C:\Users\danie\Downloads\MSCModLoader-master\MSCModLoader-master\MSCLoader\RefExtern\MscNoclip.dll
+C:\Users\danie\Downloads\MSCModLoader-master\MSCModLoader-master\MSCLoader\RefExtern\MscNoclip.pdb
+C:\Users\danie\Downloads\MSCModLoader-master\MSCModLoader-master\MSCLoader\MscNoclip\obj\Release\MscNoclip.csprojResolveAssemblyReference.cache
+C:\Users\danie\Downloads\MSCModLoader-master\MSCModLoader-master\MSCLoader\MscNoclip\obj\Release\MscNoclip.dll
+C:\Users\danie\Downloads\MSCModLoader-master\MSCModLoader-master\MSCLoader\MscNoclip\obj\Release\MscNoclip.pdb
